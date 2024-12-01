@@ -15,6 +15,22 @@ This project investigates travel times between European cities using air and rai
 
 ---
 
+## To-Do List
+### Now:
+- [ ] Improve the rail network filtering so it doesn’t take forever to load.
+- [ ] Implement dataset saving to minimize loading times
+    - maybe chunk dataset to keep code from crashing 
+- [ ] Merge rail and air data
+- [ ] come up with sanity checks ?
+
+### Later:
+- [ ] Create isochrone maps to show connectivity.
+- [ ] rankings for most/least connected cities.
+- [ ] Pull everything into the presentation/report.
+- [ ] Add high-speed rail travel time estimates.
+
+---
+
 ## Methodology
 ### Question Refinements:
 1. Focus on cities with populations ≥ 500K.
@@ -58,6 +74,9 @@ This project investigates travel times between European cities using air and rai
   [EU Report](https://ec.europa.eu/regional_policy/sources/work/2023-rail-vs-air_en.pdf)
 - **Transit Time Research Paper**  
   [The Open Transportation Journal](https://opentransportationjournal.com/VOLUME/13/PAGE/48/FULLTEXT/)
+
+- **OSMnx Examples Gallery**
+    [Git] (https://github.com/gboeing/osmnx-examples/tree/main)
 
 ---
 
