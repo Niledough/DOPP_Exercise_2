@@ -17,6 +17,7 @@ This project investigates travel times between European cities using air and rai
 
 ## To-Do List
 ### Now:
+- [ ] Migrate notebook to git structure (locations are changed and i cleaned up some filenames)
 - [ ] Improve the rail network filtering so it doesn’t take forever to load.
 - [ ] Implement dataset saving to minimize loading times
     - maybe chunk dataset to keep code from crashing 

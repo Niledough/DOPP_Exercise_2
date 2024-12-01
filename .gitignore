@@ -1,1 +1,5 @@
-.ipynb_checkpoints
+# Ignore all hidden files
+.*
+
+# Exclude .gitignore from being ignored
+!.gitignore
