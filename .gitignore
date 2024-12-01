@@ -3,3 +3,8 @@
 
 # Exclude .gitignore from being ignored
 !.gitignore
+
+
+# Virtual environments
+venv/
+env/
