@@ -22,6 +22,7 @@ This project investigates travel times between European cities using air and rai
     - maybe chunk dataset to keep code from crashing 
 - [ ] Merge rail and air data
 - [ ] come up with sanity checks ?
+- [ ] explore OSMnx examples 
 
 ### Later:
 - [ ] Create isochrone maps to show connectivity.
