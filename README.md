@@ -18,7 +18,9 @@ This project investigates travel times between European cities using air and rai
 ## To-Do List
 ### Now:
 - [ ] Migrate notebook to git structure (locations are changed and i cleaned up some filenames)
-- [ ] Improve the rail network filtering so it doesn’t take forever to load.
+- [ ] Investigate rail travel estimation from dataset created by using osmnx
+- [ ] Try different rail travel time estimation using a webscraper
+- [ ] Rethink air travel estimation, especially travel time to the airport
 - [ ] Implement dataset saving to minimize loading times
     - maybe chunk dataset to keep code from crashing 
 - [ ] Merge rail and air data
