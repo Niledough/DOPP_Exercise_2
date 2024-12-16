@@ -1,0 +1,3161 @@
+city1,city2,distance_km,estimated_time_in_trains,average_speed,distance_to_first_station_city1,distance_to_first_station_city2,scraped_travel_time
+paris,istanbul,2850.72,24.64,115.7,0.58,1.06,0
+paris,london,453.97,3.74,121.25,0.58,0.12,"2 Std., 18 Min."
+paris,madrid,1412.47,8.27,170.7,0.58,1.24,"10 Std., 46 Min."
+paris,barcelona,1074.87,5.3,202.8,0.58,1.09,"7 Std., 7 Min."
+paris,berlin,1037.61,6.94,149.53,0.58,1.44,"7 Std., 51 Min."
+paris,milano,785.67,5.28,148.78,0.58,1.2,"7 Std., 28 Min."
+paris,ankara,3395.41,27.95,121.46,0.58,1.26,0
+paris,naples,1556.1,8.92,174.49,0.58,0.41,"12 Std., 33 Min."
+paris,rome,1346.18,7.68,175.29,0.58,0.24,"11 Std., 3 Min."
+paris,athens,2667.49,22.53,118.38,0.58,168.11,0
+paris,izmir,3640.32,31.37,116.06,0.58,41.44,0
+paris,BUCHAREST,2356.28,17.7,133.09,0.58,3.02,30 Std.
+paris,lisboa,1866.58,12.0,155.56,0.58,9.22,0
+paris,hamburg,882.36,6.26,140.93,0.58,0.79,"7 Std., 40 Min."
+paris,warszawa,1609.98,10.97,146.72,0.58,0.81,"15 Std., 5 Min."
+paris,vienna,1260.07,7.26,173.67,0.58,1.09,"10 Std., 14 Min."
+paris,budapest,1614.46,10.81,149.34,0.58,1.1,"12 Std., 44 Min."
+paris,stockholm,2016.11,12.97,155.46,0.58,0.45,"19 Std., 44 Min."
+paris,munich,840.78,4.38,192.03,0.58,0.52,"5 Std., 18 Min."
+paris,valencia,1419.19,7.27,195.33,0.58,0.86,"11 Std., 8 Min."
+paris,bursa,3358.94,28.69,117.07,0.58,66.98,0
+paris,dublin,876.22,7.82,112.03,0.58,107.42,0
+paris,lyon,433.02,1.77,244.24,0.58,0.5,"1 Std., 53 Min."
+paris,prague,1122.84,7.92,141.71,0.58,0.91,"11 Std., 8 Min."
+paris,brussels,314.04,2.15,146.12,0.58,1.08,"1 Std., 22 Min."
+paris,rotterdam,451.92,3.23,139.77,0.58,0.45,"2 Std., 37 Min."
+paris,sofia,2214.49,18.95,116.87,0.58,1.4,0
+paris,adana,3875.91,31.77,121.99,0.58,112.06,0
+paris,birmingham,636.85,5.34,119.29,0.58,0.19,"4 Std., 14 Min."
+paris,köln,484.54,3.46,140.09,0.58,1.04,"3 Std., 20 Min."
+paris,amsterdam,521.79,3.62,144.22,0.58,0.81,"3 Std., 24 Min."
+paris,porto,1728.76,10.3,167.83,0.58,0.45,"26 Std., 34 Min."
+paris,marseille,749.75,3.45,217.17,0.58,0.64,"3 Std., 4 Min."
+paris,lille,227.87,0.93,243.88,0.58,0.94,"1 Std., 3 Min."
+paris,gaziantep,4271.41,33.61,127.09,0.58,23.61,0
+paris,sevilla,1832.84,8.93,205.22,0.58,0.73,"20 Std., 28 Min."
+paris,torino,724.21,4.23,171.16,0.58,1.27,"6 Std., 57 Min."
+paris,konya,3504.93,28.18,124.35,0.58,0.73,0
+paris,kraków,1564.04,10.83,144.43,0.58,0.8,"16 Std., 32 Min."
+paris,Den haag,381.22,2.51,152.15,0.58,9.47,"3 Std., 6 Min."
+paris,bilbao,1072.3,6.0,178.85,0.58,0.31,"8 Std., 10 Min."
+paris,leeds,747.12,6.23,119.92,0.58,0.18,5 Std.
+paris,frankfurt am main,587.91,3.28,179.36,0.58,1.47,"3 Std., 38 Min."
+paris,zagreb,1407.6,9.54,147.61,0.58,1.2,"17 Std., 39 Min."
+paris,bordeaux,552.77,2.07,266.84,0.58,2.37,"2 Std., 3 Min."
+paris,toulouse,717.99,5.28,135.93,0.58,1.06,"4 Std., 33 Min."
+paris,göteborg,1715.29,11.38,150.69,0.58,0.46,"18 Std., 26 Min."
+paris,zürich,614.38,3.29,186.77,0.58,0.1,"4 Std., 4 Min."
+paris,oslo,2051.42,13.47,152.3,0.58,0.12,"23 Std., 51 Min."
+paris,antalya,3423.11,29.08,117.72,0.58,136.87,0
+paris,zaragoza,1121.51,6.31,177.76,0.58,1.58,"9 Std., 16 Min."
+paris,helsinki,2484.19,20.55,120.86,0.58,74.83,0
+paris,wroclaw,1307.69,8.67,150.77,0.58,0.1,"13 Std., 30 Min."
+paris,lodz,1528.54,11.06,138.18,0.58,0.2,"15 Std., 45 Min."
+paris,stuttgart,609.4,2.97,205.36,0.58,0.3,"3 Std., 9 Min."
+paris,palermo,1819.21,10.19,178.48,0.58,269.19,"24 Std., 9 Min."
+paris,düsseldorf,502.95,3.78,133.13,0.58,1.13,"3 Std., 45 Min."
+paris,glasgow,1095.18,10.83,101.16,0.58,0.45,"7 Std., 18 Min."
+paris,leipzig,956.53,5.85,163.61,0.58,0.9,"7 Std., 3 Min."
+paris,RIGA-,2038.37,16.5,123.57,0.58,0.37,0
+paris,diyarbakir,4302.18,33.87,127.04,0.58,2.73,0
+paris,dortmund,573.21,4.38,130.84,0.58,0.4,"4 Std., 43 Min."
+paris,málaga,1766.11,8.78,201.07,0.58,92.61,"16 Std., 24 Min."
+paris,vilnius,1965.19,15.58,126.16,0.58,2.03,0
+paris,essen,539.09,4.06,132.62,0.58,0.62,"4 Std., 13 Min."
+paris,sheffield,708.63,6.1,116.2,0.58,0.41,"4 Std., 48 Min."
+paris,kayseri,3753.25,30.75,122.06,0.58,0.36,0
+paris,bremen,782.22,5.63,138.85,0.58,0.91,"7 Std., 20 Min."
+paris,dresden,1072.72,6.68,160.67,0.58,1.12,"8 Std., 18 Min."
+paris,genova,882.38,5.31,166.06,0.58,0.43,"3 Std., 11 Min."
+paris,københavn,1386.3,9.54,145.38,0.58,0.18,"13 Std., 43 Min."
+paris,manchester,747.82,5.93,126.07,0.58,0.6,"4 Std., 53 Min."
+paris,poznan,1299.68,8.75,148.52,0.58,1.07,"13 Std., 12 Min."
+paris,hannover,779.15,5.41,144.11,0.58,0.96,"6 Std., 22 Min."
+paris,antwerpen,358.48,2.5,143.56,0.58,1.48,"2 Std., 2 Min."
+paris,bradford,766.85,6.45,118.86,0.58,0.35,"5 Std., 17 Min."
+paris,nürnberg,772.0,4.55,169.59,0.58,1.0,"6 Std., 5 Min."
+paris,edinburgh,1079.72,9.34,115.59,0.58,0.14,"6 Std., 59 Min."
+paris,duisburg,520.63,3.93,132.5,0.58,0.87,"3 Std., 59 Min."
+istanbul,london,3140.01,27.32,114.94,1.06,0.12,"67 Std., 50 Min."
+istanbul,madrid,3774.77,29.98,125.92,1.06,1.24,0
+istanbul,barcelona,3119.92,26.81,116.39,1.06,1.09,0
+istanbul,berlin,2305.83,22.5,102.46,1.06,1.44,0
+istanbul,milano,2109.23,20.88,101.03,1.06,1.2,"63 Std., 9 Min."
+istanbul,ankara,553.15,3.4,162.82,1.06,1.26,"4 Std., 11 Min."
+istanbul,naples,2558.4,22.69,112.77,1.06,0.41,0
+istanbul,rome,2348.48,21.45,109.49,1.06,0.24,"63 Std., 35 Min."
+istanbul,athens,1037.12,8.52,121.76,1.06,168.11,0
+istanbul,izmir,798.06,6.81,117.19,1.06,41.44,"13 Std., 50 Min."
+istanbul,BUCHAREST,808.36,8.81,91.74,1.06,3.02,"23 Std., 10 Min."
+istanbul,lisboa,4455.78,37.45,118.97,1.06,9.22,0
+istanbul,hamburg,2593.59,23.95,108.28,1.06,0.79,"61 Std., 35 Min."
+istanbul,warszawa,2078.59,20.52,101.31,1.06,0.81,"59 Std., 13 Min."
+istanbul,vienna,1670.25,15.77,105.92,1.06,1.09,"47 Std., 13 Min."
+istanbul,budapest,1506.71,13.88,108.56,1.06,1.1,"39 Std., 43 Min."
+istanbul,stockholm,3710.87,30.96,119.85,1.06,0.45,"75 Std., 13 Min."
+istanbul,munich,2009.59,20.23,99.33,1.06,0.52,0
+istanbul,valencia,3464.23,28.77,120.4,1.06,0.86,0
+istanbul,bursa,516.68,4.14,124.93,1.06,66.98,0
+istanbul,dublin,3562.26,31.4,113.47,1.06,107.42,0
+istanbul,lyon,2547.27,23.88,106.69,1.06,0.5,0
+istanbul,prague,2008.95,19.11,105.1,1.06,0.91,"52 Std., 4 Min."
+istanbul,brussels,2768.0,24.4,113.45,1.06,1.08,0
+istanbul,rotterdam,2788.95,24.78,112.56,1.06,0.45,"64 Std., 33 Min."
+istanbul,sofia,640.26,5.68,112.67,1.06,1.4,0
+istanbul,adana,1033.65,7.22,143.25,1.06,112.06,"23 Std., 23 Min."
+istanbul,birmingham,3322.89,28.91,114.93,1.06,0.19,0
+istanbul,köln,2551.39,23.12,110.33,1.06,1.04,0
+istanbul,amsterdam,2801.5,25.01,112.0,1.06,0.81,"64 Std., 22 Min."
+istanbul,porto,4317.96,35.75,120.77,1.06,0.45,0
+istanbul,marseille,2625.92,24.81,105.86,1.06,0.64,0
+istanbul,lille,2874.49,25.35,113.41,1.06,0.94,0
+istanbul,gaziantep,1429.15,9.05,157.87,1.06,23.61,0
+istanbul,sevilla,4191.72,30.58,137.07,1.06,0.73,0
+istanbul,torino,2245.22,21.37,105.08,1.06,1.27,"64 Std., 50 Min."
+istanbul,konya,662.66,3.63,182.64,1.06,0.73,"4 Std., 47 Min."
+istanbul,kraków,1883.32,19.35,97.32,1.06,0.8,"58 Std., 26 Min."
+istanbul,Den haag,3212.26,26.88,119.52,1.06,9.47,"64 Std., 44 Min."
+istanbul,bilbao,3661.51,31.45,116.43,1.06,0.31,0
+istanbul,leeds,3433.16,29.8,115.19,1.06,0.18,"70 Std., 54 Min."
+istanbul,frankfurt am main,2371.95,22.32,106.25,1.06,1.47,"54 Std., 30 Min."
+istanbul,zagreb,1442.77,15.07,95.74,1.06,1.2,0
+istanbul,bordeaux,3166.58,29.04,109.04,1.06,2.37,0
+istanbul,toulouse,3023.36,26.51,114.04,1.06,1.06,0
+istanbul,göteborg,3410.05,29.38,116.07,1.06,0.46,"73 Std., 20 Min."
+istanbul,zürich,2248.71,22.2,101.3,1.06,0.1,0
+istanbul,oslo,3746.18,31.46,119.06,1.06,0.12,"78 Std., 47 Min."
+istanbul,antalya,580.85,4.52,128.46,1.06,136.87,0
+istanbul,zaragoza,3437.61,27.83,123.54,1.06,1.58,0
+istanbul,helsinki,3175.72,30.69,103.48,1.06,74.83,0
+istanbul,wroclaw,1978.0,19.28,102.59,1.06,0.1,0
+istanbul,lodz,2077.63,21.01,98.89,1.06,0.2,0
+istanbul,stuttgart,2247.83,21.68,103.66,1.06,0.3,0
+istanbul,palermo,2821.51,23.96,117.75,1.06,269.19,0
+istanbul,düsseldorf,2584.6,23.31,110.87,1.06,1.13,0
+istanbul,glasgow,3781.22,34.4,109.92,1.06,0.45,"73 Std., 7 Min."
+istanbul,leipzig,2267.22,21.53,105.28,1.06,0.9,0
+istanbul,RIGA-,2729.9,26.63,102.52,1.06,0.37,0
+istanbul,diyarbakir,1459.92,9.31,156.83,1.06,2.73,"21 Std., 27 Min."
+istanbul,dortmund,2607.16,24.52,106.34,1.06,0.4,0
+istanbul,málaga,4124.99,30.43,135.54,1.06,92.61,0
+istanbul,vilnius,2471.02,23.67,104.38,1.06,2.03,0
+istanbul,essen,2618.9,23.68,110.57,1.06,0.62,0
+istanbul,sheffield,3394.67,29.67,114.41,1.06,0.41,"70 Std., 48 Min."
+istanbul,kayseri,910.99,6.19,147.09,1.06,0.36,"12 Std., 3 Min."
+istanbul,bremen,2630.04,24.49,107.41,1.06,0.91,0
+istanbul,dresden,2150.06,20.68,103.98,1.06,1.12,0
+istanbul,genova,2233.24,21.72,102.83,1.06,0.43,"65 Std., 9 Min."
+istanbul,københavn,3081.06,27.53,111.91,1.06,0.18,"68 Std., 38 Min."
+istanbul,manchester,3433.86,29.51,116.38,1.06,0.6,"71 Std., 5 Min."
+istanbul,poznan,2140.03,20.82,102.78,1.06,1.07,0
+istanbul,hannover,2511.9,23.78,105.63,1.06,0.96,0
+istanbul,antwerpen,2774.95,24.87,111.57,1.06,1.48,0
+istanbul,bradford,3452.89,30.03,115.0,1.06,0.35,"71 Std., 14 Min."
+istanbul,nürnberg,2149.98,20.86,103.07,1.06,1.0,0
+istanbul,edinburgh,3765.76,32.91,114.41,1.06,0.14,0
+istanbul,duisburg,2607.35,23.46,111.12,1.06,0.87,0
+london,madrid,1866.44,12.01,155.47,0.12,1.24,"14 Std., 11 Min."
+london,barcelona,1528.83,9.03,169.29,0.12,1.09,"10 Std., 32 Min."
+london,berlin,1115.04,8.24,135.39,0.12,1.44,"9 Std., 35 Min."
+london,milano,1220.35,9.58,127.32,0.12,1.2,"10 Std., 46 Min."
+london,ankara,3685.06,30.67,120.17,0.12,1.26,0
+london,naples,1984.62,12.24,162.21,0.12,0.41,"16 Std., 2 Min."
+london,rome,1774.7,11.0,161.38,0.12,0.24,"14 Std., 24 Min."
+london,athens,2957.14,25.24,117.14,0.12,168.11,0
+london,izmir,3929.97,34.08,115.32,0.12,41.44,0
+london,BUCHAREST,2598.54,20.41,127.32,0.12,3.02,"38 Std., 11 Min."
+london,lisboa,2320.54,15.73,147.52,0.12,9.22,0
+london,hamburg,952.36,6.92,137.71,0.12,0.79,"8 Std., 35 Min."
+london,warszawa,1687.41,12.27,137.52,0.12,0.81,"15 Std., 44 Min."
+london,vienna,1502.32,9.96,150.81,0.12,1.09,"12 Std., 43 Min."
+london,budapest,1856.71,13.52,137.37,0.12,1.1,"15 Std., 58 Min."
+london,stockholm,2086.11,13.62,153.12,0.12,0.45,"21 Std., 34 Min."
+london,munich,1134.67,8.71,130.33,0.12,0.52,"8 Std., 25 Min."
+london,valencia,1873.15,11.0,170.34,0.12,0.86,0
+london,bursa,3648.58,31.4,116.18,0.12,66.98,0
+london,dublin,431.6,5.27,81.85,0.12,107.42,0
+london,lyon,886.98,5.5,161.16,0.12,0.5,"4 Std., 51 Min."
+london,prague,1340.88,9.83,136.43,0.12,0.91,"13 Std., 6 Min."
+london,brussels,374.29,2.71,138.02,0.12,1.08,"1 Std., 56 Min."
+london,rotterdam,493.55,3.9,126.6,0.12,0.45,"3 Std., 16 Min."
+london,sofia,2504.13,21.66,115.61,0.12,1.4,0
+london,adana,4165.56,34.48,120.8,0.12,112.06,0
+london,birmingham,189.26,2.5,75.7,0.12,0.19,"1 Std., 16 Min."
+london,köln,591.14,4.3,137.59,0.12,1.04,4 Std.
+london,amsterdam,563.42,4.28,131.55,0.12,0.81,"3 Std., 59 Min."
+london,porto,2182.72,14.03,155.56,0.12,0.45,"29 Std., 47 Min."
+london,marseille,1203.71,7.18,167.58,0.12,0.64,"6 Std., 14 Min."
+london,lille,267.69,2.03,131.71,0.12,0.94,"1 Std., 22 Min."
+london,gaziantep,4561.06,36.32,125.58,0.12,23.61,0
+london,sevilla,2286.8,12.66,180.61,0.12,0.73,"24 Std., 31 Min."
+london,torino,1178.17,7.96,147.98,0.12,1.27,"10 Std., 22 Min."
+london,konya,3794.57,30.9,122.81,0.12,0.73,0
+london,kraków,1663.85,14.73,112.95,0.12,0.8,"20 Std., 17 Min."
+london,Den haag,723.13,5.4,133.98,0.12,9.47,"3 Std., 45 Min."
+london,bilbao,1526.26,9.73,156.92,0.12,0.31,"11 Std., 20 Min."
+london,leeds,305.26,3.38,90.32,0.12,0.18,"2 Std., 12 Min."
+london,frankfurt am main,770.32,5.04,152.79,0.12,1.47,"5 Std., 33 Min."
+london,zagreb,1700.07,12.72,133.64,0.12,1.2,0
+london,bordeaux,1006.73,5.8,173.5,0.12,2.37,"5 Std., 13 Min."
+london,toulouse,1171.95,9.01,130.03,0.12,1.06,"7 Std., 47 Min."
+london,göteborg,1785.3,12.04,148.3,0.12,0.46,"20 Std., 16 Min."
+london,zürich,983.31,7.19,136.83,0.12,0.1,"6 Std., 55 Min."
+london,oslo,2121.42,14.12,150.19,0.12,0.12,"25 Std., 41 Min."
+london,antalya,3712.75,31.79,116.79,0.12,136.87,0
+london,zaragoza,1575.47,10.04,156.92,0.12,1.58,"12 Std., 41 Min."
+london,helsinki,2561.62,21.85,117.23,0.12,74.83,0
+london,wroclaw,1407.51,12.57,111.93,0.12,0.1,"15 Std., 12 Min."
+london,lodz,1616.56,12.89,125.39,0.12,0.2,0
+london,stuttgart,903.29,7.3,123.82,0.12,0.3,"6 Std., 3 Min."
+london,palermo,2247.73,13.51,166.38,0.12,269.19,"27 Std., 30 Min."
+london,düsseldorf,596.49,4.88,122.22,0.12,1.13,"4 Std., 49 Min."
+london,glasgow,653.31,7.98,81.91,0.12,0.45,"4 Std., 30 Min."
+london,leipzig,1059.21,9.43,112.31,0.12,0.9,"9 Std., 8 Min."
+london,RIGA-,2115.81,17.79,118.92,0.12,0.37,0
+london,diyarbakir,4591.83,36.58,125.54,0.12,2.73,0
+london,dortmund,649.57,5.33,121.95,0.12,0.4,"5 Std., 58 Min."
+london,málaga,2220.07,12.51,177.4,0.12,92.61,"24 Std., 28 Min."
+london,vilnius,2042.62,16.87,121.06,0.12,2.03,0
+london,essen,615.44,5.01,122.83,0.12,0.62,"5 Std., 15 Min."
+london,sheffield,261.21,3.22,81.01,0.12,0.41,"1 Std., 58 Min."
+london,kayseri,4042.9,33.46,120.82,0.12,0.36,0
+london,bremen,848.28,6.94,122.19,0.12,0.91,"7 Std., 59 Min."
+london,dresden,1175.39,10.26,114.53,0.12,1.12,"10 Std., 23 Min."
+london,genova,1322.69,10.36,127.72,0.12,0.43,"12 Std., 52 Min."
+london,københavn,1456.31,10.19,142.91,0.12,0.18,"14 Std., 22 Min."
+london,manchester,303.2,3.38,89.61,0.12,0.6,"2 Std., 6 Min."
+london,poznan,1377.11,10.05,137.06,0.12,1.07,"13 Std., 14 Min."
+london,hannover,856.58,6.7,127.78,0.12,0.96,"7 Std., 45 Min."
+london,antwerpen,400.11,3.16,126.53,0.12,1.48,"2 Std., 51 Min."
+london,bradford,324.99,3.6,90.24,0.12,0.35,"2 Std., 34 Min."
+london,nürnberg,990.03,6.46,153.34,0.12,1.0,"7 Std., 44 Min."
+london,edinburgh,637.86,6.49,98.27,0.12,0.14,"4 Std., 16 Min."
+london,duisburg,596.99,4.87,122.47,0.12,0.87,"5 Std., 3 Min."
+madrid,barcelona,667.62,3.76,177.41,1.24,1.09,"2 Std., 30 Min."
+madrid,berlin,2449.98,15.21,161.07,1.24,1.44,"27 Std., 30 Min."
+madrid,milano,1676.81,9.29,180.5,1.24,1.2,0
+madrid,ankara,4319.83,33.33,129.61,1.24,1.26,0
+madrid,naples,2262.62,13.55,167.01,1.24,0.41,"28 Std., 38 Min."
+madrid,rome,2053.67,12.31,166.78,1.24,0.24,"27 Std., 15 Min."
+madrid,athens,3591.91,27.91,128.7,1.24,168.11,0
+madrid,izmir,4564.74,36.74,124.24,1.24,41.44,0
+madrid,BUCHAREST,3494.18,27.32,127.88,1.24,3.02,"49 Std., 6 Min."
+madrid,lisboa,787.96,5.48,143.74,1.24,9.22,0
+madrid,hamburg,2294.73,14.53,157.9,1.24,0.79,"27 Std., 14 Min."
+madrid,warszawa,3004.99,18.63,161.29,1.24,0.81,"36 Std., 53 Min."
+madrid,vienna,2475.41,15.6,158.63,1.24,1.09,"29 Std., 32 Min."
+madrid,budapest,2657.06,17.77,149.54,1.24,1.1,"32 Std., 19 Min."
+madrid,stockholm,3428.48,21.24,161.41,1.24,0.45,"39 Std., 56 Min."
+madrid,munich,2056.13,12.73,161.55,1.24,0.52,"25 Std., 14 Min."
+madrid,valencia,485.03,3.33,145.82,1.24,0.86,"1 Std., 52 Min."
+madrid,bursa,4283.36,34.07,125.73,1.24,66.98,0
+madrid,dublin,2288.59,16.09,142.21,1.24,107.42,0
+madrid,lyon,1298.09,6.71,193.38,1.24,0.5,"7 Std., 36 Min."
+madrid,prague,2432.64,15.79,154.03,1.24,0.91,"31 Std., 23 Min."
+madrid,brussels,1726.41,10.42,165.66,1.24,1.08,"19 Std., 43 Min."
+madrid,rotterdam,1864.3,11.51,162.04,1.24,0.45,"21 Std., 2 Min."
+madrid,sofia,3138.9,24.32,129.04,1.24,1.4,0
+madrid,adana,4800.33,37.15,129.22,1.24,112.06,0
+madrid,birmingham,2049.22,13.61,150.56,1.24,0.19,"22 Std., 48 Min."
+madrid,köln,1896.91,11.73,161.7,1.24,1.04,"22 Std., 44 Min."
+madrid,amsterdam,1934.17,11.89,162.67,1.24,0.81,"21 Std., 50 Min."
+madrid,porto,673.87,4.73,142.53,1.24,0.45,"7 Std., 38 Min."
+madrid,marseille,1166.84,6.03,193.58,1.24,0.64,"7 Std., 32 Min."
+madrid,lille,1640.25,9.21,178.16,1.24,0.94,"15 Std., 51 Min."
+madrid,gaziantep,5195.83,38.99,133.28,1.24,23.61,0
+madrid,sevilla,568.76,3.34,170.36,1.24,0.73,"2 Std., 33 Min."
+madrid,torino,1535.08,8.71,176.25,1.24,1.27,"24 Std., 33 Min."
+madrid,konya,4429.34,33.56,131.98,1.24,0.73,0
+madrid,kraków,2897.55,19.65,147.45,1.24,0.8,"39 Std., 1 Min."
+madrid,Den haag,1573.05,9.87,159.37,1.24,9.47,"21 Std., 31 Min."
+madrid,bilbao,570.66,4.19,136.16,1.24,0.31,"4 Std., 40 Min."
+madrid,leeds,2159.5,14.5,148.91,1.24,0.18,0
+madrid,frankfurt am main,1963.87,11.22,175.05,1.24,1.47,"22 Std., 59 Min."
+madrid,zagreb,2332.02,14.91,156.38,1.24,1.2,"38 Std., 23 Min."
+madrid,bordeaux,859.71,6.2,138.6,1.24,2.37,"10 Std., 20 Min."
+madrid,toulouse,978.52,7.22,135.5,1.24,1.06,"6 Std., 41 Min."
+madrid,göteborg,3127.66,19.66,159.13,1.24,0.46,0
+madrid,zürich,1732.66,10.22,169.47,1.24,0.1,"19 Std., 56 Min."
+madrid,oslo,3463.79,21.74,159.31,1.24,0.12,0
+madrid,antalya,4347.53,34.45,126.18,1.24,136.87,0
+madrid,zaragoza,339.44,2.29,147.92,1.24,1.58,"1 Std., 15 Min."
+madrid,helsinki,3896.56,28.83,135.17,1.24,74.83,0
+madrid,wroclaw,2683.65,16.61,161.53,1.24,0.1,0
+madrid,lodz,2904.5,19.0,152.85,1.24,0.2,0
+madrid,stuttgart,1914.11,11.33,168.94,1.24,0.3,"23 Std., 8 Min."
+madrid,palermo,2530.89,15.06,168.06,1.24,269.19,"43 Std., 22 Min."
+madrid,düsseldorf,1915.32,12.05,158.95,1.24,1.13,"23 Std., 20 Min."
+madrid,glasgow,2507.55,19.1,131.29,1.24,0.45,26 Std.
+madrid,leipzig,2332.49,13.79,169.18,1.24,0.9,"26 Std., 24 Min."
+madrid,RIGA-,3450.75,24.77,139.33,1.24,0.37,0
+madrid,diyarbakir,5226.6,39.24,133.19,1.24,2.73,0
+madrid,dortmund,1985.59,12.65,156.92,1.24,0.4,"24 Std., 14 Min."
+madrid,málaga,499.76,3.17,157.64,1.24,92.61,"2 Std., 42 Min."
+madrid,vilnius,3377.56,23.85,141.63,1.24,2.03,0
+madrid,essen,1951.46,12.34,158.18,1.24,0.62,"23 Std., 50 Min."
+madrid,sheffield,2121.01,14.37,147.59,1.24,0.41,"23 Std., 42 Min."
+madrid,kayseri,4677.67,36.13,129.48,1.24,0.36,0
+madrid,bremen,2194.59,13.91,157.82,1.24,0.91,"26 Std., 15 Min."
+madrid,dresden,2448.68,14.62,167.52,1.24,1.12,"27 Std., 39 Min."
+madrid,genova,1566.89,9.17,170.87,1.24,0.43,"22 Std., 28 Min."
+madrid,københavn,2798.68,17.81,157.16,1.24,0.18,"34 Std., 12 Min."
+madrid,manchester,2160.2,14.2,152.09,1.24,0.6,"23 Std., 44 Min."
+madrid,poznan,2694.69,16.41,164.23,1.24,1.07,0
+madrid,hannover,2191.52,13.68,160.21,1.24,0.96,"26 Std., 1 Min."
+madrid,antwerpen,1770.85,10.77,164.44,1.24,1.48,"20 Std., 27 Min."
+madrid,bradford,2179.23,14.72,148.01,1.24,0.35,"24 Std., 15 Min."
+madrid,nürnberg,2081.79,12.42,167.59,1.24,1.0,"25 Std., 56 Min."
+madrid,edinburgh,2492.1,17.61,141.49,1.24,0.14,"26 Std., 8 Min."
+madrid,duisburg,1933.0,12.2,158.43,1.24,0.87,"23 Std., 43 Min."
+barcelona,berlin,1827.7,11.45,159.68,1.09,1.44,"21 Std., 17 Min."
+barcelona,milano,1021.96,6.12,167.05,1.09,1.2,"13 Std., 31 Min."
+barcelona,ankara,3664.98,30.16,121.52,1.09,1.26,0
+barcelona,naples,1607.77,10.38,154.95,1.09,0.41,"23 Std., 58 Min."
+barcelona,rome,1398.82,9.14,153.02,1.09,0.24,"21 Std., 24 Min."
+barcelona,athens,2937.06,24.74,118.73,1.09,168.11,0
+barcelona,izmir,3909.89,33.57,116.47,1.09,41.44,0
+barcelona,BUCHAREST,2839.33,24.15,117.57,1.09,3.02,"46 Std., 26 Min."
+barcelona,lisboa,1447.42,9.16,157.95,1.09,9.22,"29 Std., 55 Min."
+barcelona,hamburg,1803.9,12.39,145.55,1.09,0.79,"17 Std., 17 Min."
+barcelona,warszawa,2350.14,15.46,152.03,1.09,0.81,"29 Std., 36 Min."
+barcelona,vienna,1820.56,12.43,146.43,1.09,1.09,"21 Std., 46 Min."
+barcelona,budapest,2002.21,14.6,137.18,1.09,1.1,"24 Std., 43 Min."
+barcelona,stockholm,2937.66,19.1,153.79,1.09,0.45,"33 Std., 14 Min."
+barcelona,munich,1401.28,9.56,146.64,1.09,0.52,"14 Std., 54 Min."
+barcelona,valencia,348.83,2.06,169.4,1.09,0.86,"2 Std., 52 Min."
+barcelona,bursa,3628.51,30.9,117.44,1.09,66.98,0
+barcelona,dublin,1951.08,13.12,148.68,1.09,107.42,0
+barcelona,lyon,643.24,3.54,181.67,1.09,0.5,"5 Std., 1 Min."
+barcelona,prague,1777.79,12.62,140.85,1.09,0.91,"25 Std., 4 Min."
+barcelona,brussels,1381.05,8.94,154.56,1.09,1.08,"9 Std., 24 Min."
+barcelona,rotterdam,1513.07,9.95,152.14,1.09,0.45,0
+barcelona,sofia,2484.05,21.15,117.44,1.09,1.4,0
+barcelona,adana,4145.48,33.98,122.01,1.09,112.06,0
+barcelona,birmingham,1711.71,10.64,160.88,1.09,0.19,"12 Std., 37 Min."
+barcelona,köln,1391.48,9.26,150.25,1.09,1.04,"12 Std., 23 Min."
+barcelona,amsterdam,1562.52,10.94,142.83,1.09,0.81,"11 Std., 31 Min."
+barcelona,porto,1325.27,8.46,156.62,1.09,0.45,"11 Std., 18 Min."
+barcelona,marseille,511.99,2.86,179.28,1.09,0.64,"4 Std., 58 Min."
+barcelona,lille,1290.15,5.93,217.53,1.09,0.94,"8 Std., 39 Min."
+barcelona,gaziantep,4540.98,35.81,126.79,1.09,23.61,0
+barcelona,sevilla,1084.58,4.37,248.47,1.09,0.73,"5 Std., 12 Min."
+barcelona,torino,880.23,5.54,158.94,1.09,1.27,"13 Std., 27 Min."
+barcelona,konya,3774.49,30.39,124.2,1.09,0.73,0
+barcelona,kraków,2242.7,16.48,136.09,1.09,0.8,"27 Std., 52 Min."
+barcelona,Den haag,1337.19,9.14,146.35,1.09,9.47,"11 Std., 12 Min."
+barcelona,bilbao,670.9,4.16,161.12,1.09,0.31,"6 Std., 36 Min."
+barcelona,leeds,1821.98,11.53,158.0,1.09,0.18,"13 Std., 34 Min."
+barcelona,frankfurt am main,1309.02,8.05,162.67,1.09,1.47,"12 Std., 40 Min."
+barcelona,zagreb,1677.17,11.74,142.86,1.09,1.2,"27 Std., 14 Min."
+barcelona,bordeaux,648.89,3.85,168.67,1.09,2.37,"7 Std., 28 Min."
+barcelona,toulouse,391.37,2.2,178.18,1.09,1.06,"4 Std., 7 Min."
+barcelona,göteborg,2636.84,17.52,150.54,1.09,0.46,"31 Std., 16 Min."
+barcelona,zürich,1077.81,7.05,152.83,1.09,0.1,"11 Std., 37 Min."
+barcelona,oslo,2972.97,19.6,151.67,1.09,0.12,0
+barcelona,antalya,3692.68,31.28,118.04,1.09,136.87,0
+barcelona,zaragoza,330.47,1.61,205.06,1.09,1.58,"1 Std., 22 Min."
+barcelona,helsinki,3263.42,24.63,132.47,1.09,74.83,0
+barcelona,wroclaw,2028.8,13.44,150.93,1.09,0.1,"26 Std., 39 Min."
+barcelona,lodz,2249.65,15.83,142.1,1.09,0.2,"30 Std., 14 Min."
+barcelona,stuttgart,1259.26,8.16,154.35,1.09,0.3,"12 Std., 45 Min."
+barcelona,palermo,1876.04,11.89,157.81,1.09,269.19,"34 Std., 43 Min."
+barcelona,düsseldorf,1427.52,9.58,149.03,1.09,1.13,"13 Std., 1 Min."
+barcelona,glasgow,2170.04,16.13,134.55,1.09,0.45,"15 Std., 54 Min."
+barcelona,leipzig,1677.64,10.62,158.04,1.09,0.9,"20 Std., 29 Min."
+barcelona,RIGA-,2817.61,20.58,136.94,1.09,0.37,0
+barcelona,diyarbakir,4571.75,36.07,126.75,1.09,2.73,0
+barcelona,dortmund,1486.07,10.12,146.79,1.09,0.4,"13 Std., 55 Min."
+barcelona,málaga,1017.85,4.22,241.33,1.09,92.61,"5 Std., 26 Min."
+barcelona,vilnius,2744.42,19.66,139.62,1.09,2.03,0
+barcelona,essen,1461.81,9.95,146.9,1.09,0.62,"13 Std., 31 Min."
+barcelona,sheffield,1783.49,11.4,156.45,1.09,0.41,"13 Std., 28 Min."
+barcelona,kayseri,4022.82,32.95,122.07,1.09,0.36,0
+barcelona,bremen,1712.5,11.43,149.77,1.09,0.91,"17 Std., 28 Min."
+barcelona,dresden,1793.83,11.45,156.72,1.09,1.12,"22 Std., 24 Min."
+barcelona,genova,912.04,6.0,152.05,1.09,0.43,"12 Std., 49 Min."
+barcelona,københavn,2307.85,15.67,147.3,1.09,0.18,"27 Std., 47 Min."
+barcelona,manchester,1822.68,11.23,162.26,1.09,0.6,"13 Std., 25 Min."
+barcelona,poznan,2039.84,13.24,154.11,1.09,1.07,"27 Std., 12 Min."
+barcelona,hannover,1640.34,9.7,169.04,1.09,0.96,"15 Std., 43 Min."
+barcelona,antwerpen,1419.63,9.21,154.16,1.09,1.48,"10 Std., 8 Min."
+barcelona,bradford,1841.71,11.75,156.7,1.09,0.35,"13 Std., 52 Min."
+barcelona,nürnberg,1426.94,9.25,154.26,1.09,1.0,"16 Std., 23 Min."
+barcelona,edinburgh,2154.58,14.64,147.15,1.09,0.14,"15 Std., 46 Min."
+barcelona,duisburg,1450.26,9.73,149.04,1.09,0.87,"13 Std., 24 Min."
+berlin,milano,1109.02,7.8,142.13,1.44,1.2,"11 Std., 11 Min."
+berlin,ankara,2850.88,25.85,110.27,1.44,1.26,0
+berlin,naples,1706.01,10.82,157.64,1.44,0.41,"15 Std., 24 Min."
+berlin,rome,1496.09,9.58,156.11,1.44,0.24,"14 Std., 1 Min."
+berlin,athens,2122.95,20.43,103.9,1.44,168.11,0
+berlin,izmir,3095.79,29.27,105.78,1.44,41.44,0
+berlin,BUCHAREST,1694.45,16.75,101.13,1.44,3.02,0
+berlin,lisboa,2904.18,18.94,153.32,1.44,9.22,"62 Std., 38 Min."
+berlin,hamburg,290.87,1.46,199.41,1.44,0.79,"1 Std., 45 Min."
+berlin,warszawa,572.38,4.03,141.88,1.44,0.81,"4 Std., 57 Min."
+berlin,vienna,695.38,6.64,104.66,1.44,1.09,"7 Std., 43 Min."
+berlin,budapest,1026.96,10.19,100.79,1.44,1.1,"10 Std., 58 Min."
+berlin,stockholm,1408.15,8.47,166.25,1.44,0.45,"12 Std., 57 Min."
+berlin,munich,629.83,3.54,178.09,1.44,0.52,"3 Std., 50 Min."
+berlin,valencia,2172.01,13.42,161.88,1.44,0.86,"23 Std., 12 Min."
+berlin,bursa,2814.4,26.59,105.84,1.44,66.98,0
+berlin,dublin,1537.3,12.29,125.08,1.44,107.42,0
+berlin,lyon,1185.84,7.92,149.64,1.44,0.5,"10 Std., 10 Min."
+berlin,prague,381.48,2.97,128.61,1.44,0.91,"4 Std., 7 Min."
+berlin,brussels,744.09,5.36,138.7,1.44,1.08,"6 Std., 49 Min."
+berlin,rotterdam,668.19,4.65,143.84,1.44,0.45,"6 Std., 13 Min."
+berlin,sofia,1669.95,16.85,99.13,1.44,1.4,0
+berlin,adana,3331.38,29.67,112.28,1.44,112.06,"88 Std., 22 Min."
+berlin,birmingham,1297.92,9.81,132.33,1.44,0.19,"11 Std., 42 Min."
+berlin,köln,559.37,3.63,154.15,1.44,1.04,"4 Std., 3 Min."
+berlin,amsterdam,636.83,4.46,142.8,1.44,0.81,"5 Std., 32 Min."
+berlin,porto,2766.35,17.24,160.43,1.44,0.45,"35 Std., 50 Min."
+berlin,marseille,1502.57,9.6,156.45,1.44,0.64,12 Std.
+berlin,lille,851.18,6.23,136.58,1.44,0.94,"7 Std., 44 Min."
+berlin,gaziantep,3726.88,31.51,118.28,1.44,23.61,0
+berlin,sevilla,2870.44,15.87,180.83,1.44,0.73,"30 Std., 12 Min."
+berlin,torino,1208.53,8.61,140.34,1.44,1.27,"12 Std., 26 Min."
+berlin,konya,2960.39,26.08,113.5,1.44,0.73,0
+berlin,kraków,584.67,4.99,117.24,1.44,0.8,"6 Std., 48 Min."
+berlin,Den haag,1365.47,9.06,150.77,1.44,9.47,"6 Std., 9 Min."
+berlin,bilbao,2109.9,12.94,163.07,1.44,0.31,"19 Std., 59 Min."
+berlin,leeds,1408.2,10.7,131.62,1.44,0.18,"12 Std., 46 Min."
+berlin,frankfurt am main,520.4,3.45,150.84,1.44,1.47,"3 Std., 40 Min."
+berlin,zagreb,1061.45,10.0,106.18,1.44,1.2,"14 Std., 9 Min."
+berlin,bordeaux,1590.36,9.01,176.42,1.44,2.37,"11 Std., 39 Min."
+berlin,toulouse,1723.28,12.86,134.05,1.44,1.06,"13 Std., 42 Min."
+berlin,göteborg,1107.33,6.88,160.85,1.44,0.46,"10 Std., 29 Min."
+berlin,zürich,872.06,5.83,149.5,1.44,0.1,"7 Std., 48 Min."
+berlin,oslo,1443.45,8.97,160.91,1.44,0.12,"15 Std., 11 Min."
+berlin,antalya,2878.57,26.98,106.71,1.44,136.87,0
+berlin,zaragoza,2145.39,12.47,172.02,1.44,1.58,"21 Std., 20 Min."
+berlin,helsinki,1451.88,13.69,106.07,1.44,74.83,0
+berlin,wroclaw,328.32,2.83,115.97,1.44,0.1,"3 Std., 46 Min."
+berlin,lodz,501.52,4.66,107.72,1.44,0.2,"5 Std., 15 Min."
+berlin,stuttgart,643.98,4.13,156.09,1.44,0.3,"5 Std., 38 Min."
+berlin,palermo,1969.12,12.1,162.78,1.44,269.19,"27 Std., 27 Min."
+berlin,düsseldorf,536.19,3.62,148.06,1.44,1.13,"4 Std., 21 Min."
+berlin,glasgow,1756.25,15.3,114.82,1.44,0.45,15 Std.
+berlin,leipzig,181.49,1.42,128.25,1.44,0.9,"1 Std., 13 Min."
+berlin,RIGA-,1006.06,9.63,104.49,1.44,0.37,0
+berlin,diyarbakir,3757.65,31.76,118.3,1.44,2.73,0
+berlin,dortmund,465.47,2.91,159.99,1.44,0.4,"3 Std., 24 Min."
+berlin,málaga,2803.71,15.73,178.28,1.44,92.61,"30 Std., 47 Min."
+berlin,vilnius,932.88,8.71,107.11,1.44,2.03,0
+berlin,essen,500.47,3.25,154.03,1.44,0.62,"3 Std., 49 Min."
+berlin,sheffield,1369.71,10.57,129.61,1.44,0.41,"12 Std., 3 Min."
+berlin,kayseri,3208.72,28.65,112.0,1.44,0.36,"75 Std., 42 Min."
+berlin,bremen,341.28,2.88,118.54,1.44,0.91,"2 Std., 47 Min."
+berlin,dresden,190.13,1.38,137.33,1.44,1.12,"1 Std., 50 Min."
+berlin,genova,1240.43,8.73,142.11,1.44,0.43,"13 Std., 4 Min."
+berlin,københavn,778.34,5.04,154.54,1.44,0.18,"7 Std., 2 Min."
+berlin,manchester,1408.9,10.4,135.46,1.44,0.6,"12 Std., 38 Min."
+berlin,poznan,262.07,1.81,144.65,1.44,1.07,"2 Std., 27 Min."
+berlin,hannover,262.43,1.63,160.96,1.44,0.96,"1 Std., 25 Min."
+berlin,antwerpen,719.02,5.12,140.39,1.44,1.48,"7 Std., 3 Min."
+berlin,bradford,1427.93,10.92,130.75,1.44,0.35,"13 Std., 12 Min."
+berlin,nürnberg,457.0,2.67,171.36,1.44,1.0,"2 Std., 44 Min."
+berlin,edinburgh,1740.8,13.81,126.05,1.44,0.14,"14 Std., 37 Min."
+berlin,duisburg,518.65,3.36,154.21,1.44,0.87,"4 Std., 2 Min."
+milano,ankara,2654.28,24.22,109.57,1.2,1.26,0
+milano,naples,780.45,3.76,207.5,1.2,0.41,"4 Std., 23 Min."
+milano,rome,570.53,2.52,226.15,1.2,0.24,"2 Std., 50 Min."
+milano,athens,1926.35,18.8,102.45,1.2,168.11,0
+milano,izmir,2899.19,27.64,104.9,1.2,41.44,0
+milano,BUCHAREST,1828.63,18.22,100.38,1.2,3.02,"29 Std., 31 Min."
+milano,lisboa,2357.82,16.76,140.69,1.2,9.22,0
+milano,hamburg,1147.18,7.52,152.56,1.2,0.79,"10 Std., 52 Min."
+milano,warszawa,1507.03,11.92,126.4,1.2,0.81,"18 Std., 55 Min."
+milano,vienna,850.39,6.81,124.94,1.2,1.09,"9 Std., 51 Min."
+milano,budapest,991.5,8.66,114.46,1.2,1.1,"12 Std., 17 Min."
+milano,stockholm,2280.93,14.23,160.32,1.2,0.45,"23 Std., 45 Min."
+milano,munich,562.24,4.49,125.3,1.2,0.52,"6 Std., 52 Min."
+milano,valencia,1366.26,8.08,169.1,1.2,0.86,"16 Std., 24 Min."
+milano,bursa,2617.8,24.96,104.87,1.2,66.98,0
+milano,dublin,1642.6,13.65,120.3,1.2,107.42,0
+milano,lyon,449.3,3.18,141.11,1.2,0.5,"7 Std., 12 Min."
+milano,prague,966.38,9.01,107.22,1.2,0.91,"12 Std., 47 Min."
+milano,brussels,900.81,6.14,146.8,1.2,1.08,"9 Std., 34 Min."
+milano,rotterdam,1032.82,7.15,144.53,1.2,0.45,"10 Std., 52 Min."
+milano,sofia,1473.35,15.22,96.81,1.2,1.4,0
+milano,adana,3134.78,28.04,111.79,1.2,112.06,0
+milano,birmingham,1403.22,11.17,125.61,1.2,0.19,"12 Std., 17 Min."
+milano,köln,813.23,6.17,131.7,1.2,1.04,"8 Std., 5 Min."
+milano,amsterdam,1066.16,8.19,130.1,1.2,0.81,"10 Std., 46 Min."
+milano,porto,2219.99,15.06,147.4,1.2,0.45,"39 Std., 8 Min."
+milano,marseille,541.6,4.31,125.73,1.2,0.64,"8 Std., 36 Min."
+milano,lille,954.81,7.61,125.51,1.2,0.94,"9 Std., 15 Min."
+milano,gaziantep,3530.28,29.88,118.15,1.2,23.61,0
+milano,sevilla,2093.75,9.89,211.75,1.2,0.73,"1 Std., 47 Min."
+milano,torino,147.25,0.67,218.4,1.2,1.27,51 Min.
+milano,konya,2763.79,24.46,113.01,1.2,0.73,0
+milano,kraków,1272.53,10.85,117.25,1.2,0.8,"17 Std., 35 Min."
+milano,Den haag,1160.73,7.65,151.78,1.2,9.47,"11 Std., 8 Min."
+milano,bilbao,1563.54,10.76,145.37,1.2,0.31,"21 Std., 38 Min."
+milano,leeds,1513.5,12.06,125.47,1.2,0.18,"13 Std., 7 Min."
+milano,frankfurt am main,650.23,4.48,145.17,1.2,1.47,"7 Std., 9 Min."
+milano,zagreb,666.46,5.81,114.78,1.2,1.2,13 Std.
+milano,bordeaux,1068.61,8.35,128.03,1.2,2.37,"10 Std., 31 Min."
+milano,toulouse,925.39,5.82,159.01,1.2,1.06,"11 Std., 56 Min."
+milano,göteborg,1980.11,12.64,156.63,1.2,0.46,"22 Std., 10 Min."
+milano,zürich,268.39,2.03,132.22,1.2,0.1,"3 Std., 12 Min."
+milano,oslo,2316.24,14.73,157.26,1.2,0.12,"27 Std., 35 Min."
+milano,antalya,2681.97,25.35,105.8,1.2,136.87,0
+milano,zaragoza,1339.64,7.13,187.77,1.2,1.58,"14 Std., 32 Min."
+milano,helsinki,2544.74,20.99,121.23,1.2,74.83,0
+milano,wroclaw,1269.3,12.87,98.61,1.2,0.1,"18 Std., 49 Min."
+milano,lodz,1412.17,12.16,116.13,1.2,0.2,"20 Std., 48 Min."
+milano,stuttgart,550.15,4.46,123.45,1.2,0.3,"6 Std., 22 Min."
+milano,palermo,1043.57,5.04,207.21,1.2,269.19,"13 Std., 42 Min."
+milano,düsseldorf,849.26,6.49,130.81,1.2,1.13,"8 Std., 26 Min."
+milano,glasgow,1861.55,16.66,111.75,1.2,0.45,"16 Std., 3 Min."
+milano,leipzig,958.96,6.97,137.54,1.2,0.9,"10 Std., 27 Min."
+milano,RIGA-,2098.93,16.93,123.96,1.2,0.37,0
+milano,diyarbakir,3561.05,30.14,118.16,1.2,2.73,0
+milano,dortmund,906.72,6.82,132.95,1.2,0.4,"9 Std., 20 Min."
+milano,málaga,2027.02,9.74,208.1,1.2,92.61,0
+milano,vilnius,2000.65,16.27,122.97,1.2,2.03,0
+milano,essen,883.56,6.86,128.71,1.2,0.62,"8 Std., 56 Min."
+milano,sheffield,1475.01,11.93,123.63,1.2,0.41,"12 Std., 52 Min."
+milano,kayseri,3012.12,27.02,111.47,1.2,0.36,0
+milano,bremen,1103.66,6.94,158.96,1.2,0.91,"11 Std., 4 Min."
+milano,dresden,1046.85,8.65,121.05,1.2,1.12,"11 Std., 55 Min."
+milano,genova,148.91,1.22,122.02,1.2,0.43,"1 Std., 34 Min."
+milano,københavn,1651.13,10.79,152.96,1.2,0.18,"17 Std., 21 Min."
+milano,manchester,1514.2,11.76,128.72,1.2,0.6,"12 Std., 55 Min."
+milano,poznan,1321.16,9.59,137.72,1.2,1.07,"16 Std., 59 Min."
+milano,hannover,981.55,6.14,159.97,1.2,0.96,"9 Std., 34 Min."
+milano,antwerpen,939.38,6.41,146.56,1.2,1.48,"10 Std., 17 Min."
+milano,bradford,1533.23,12.28,124.82,1.2,0.35,0
+milano,nürnberg,655.07,5.11,128.16,1.2,1.0,"8 Std., 19 Min."
+milano,edinburgh,1846.1,15.17,121.67,1.2,0.14,"15 Std., 10 Min."
+milano,duisburg,872.01,6.64,131.24,1.2,0.87,"8 Std., 43 Min."
+ankara,naples,3103.1,26.01,119.32,1.26,0.41,0
+ankara,rome,2893.17,24.77,116.81,1.26,0.24,0
+ankara,athens,1581.82,11.84,133.64,1.26,168.11,0
+ankara,izmir,737.45,5.82,126.73,1.26,41.44,"12 Std., 23 Min."
+ankara,BUCHAREST,1353.06,12.13,111.54,1.26,3.02,"28 Std., 2 Min."
+ankara,lisboa,5000.48,40.77,122.65,1.26,9.22,0
+ankara,hamburg,3138.29,27.27,115.08,1.26,0.79,"67 Std., 32 Min."
+ankara,warszawa,2623.28,23.84,110.05,1.26,0.81,0
+ankara,vienna,2214.95,19.09,116.04,1.26,1.09,"52 Std., 5 Min."
+ankara,budapest,2051.41,17.2,119.28,1.26,1.1,"48 Std., 35 Min."
+ankara,stockholm,4255.57,34.28,124.13,1.26,0.45,0
+ankara,munich,2554.29,23.55,108.47,1.26,0.52,0
+ankara,valencia,4008.92,32.09,124.92,1.26,0.86,0
+ankara,bursa,456.07,3.14,145.02,1.26,66.98,0
+ankara,dublin,4106.96,34.71,118.31,1.26,107.42,0
+ankara,lyon,3091.97,27.2,113.7,1.26,0.5,0
+ankara,prague,2553.64,22.43,113.83,1.26,0.91,0
+ankara,brussels,3312.69,27.72,119.51,1.26,1.08,0
+ankara,rotterdam,3333.65,28.1,118.65,1.26,0.45,"69 Std., 25 Min."
+ankara,sofia,1184.95,9.0,131.65,1.26,1.4,0
+ankara,adana,480.62,3.82,125.84,1.26,112.06,"18 Std., 33 Min."
+ankara,birmingham,3867.59,32.23,120.0,1.26,0.19,0
+ankara,köln,3096.08,26.44,117.08,1.26,1.04,0
+ankara,amsterdam,3346.2,28.33,118.1,1.26,0.81,"69 Std., 14 Min."
+ankara,porto,4862.66,39.07,124.45,1.26,0.45,0
+ankara,marseille,3170.62,28.12,112.74,1.26,0.64,0
+ankara,lille,3419.19,28.67,119.28,1.26,0.94,0
+ankara,gaziantep,876.02,5.65,155.05,1.26,23.61,0
+ankara,sevilla,4736.42,33.9,139.72,1.26,0.73,0
+ankara,torino,2789.91,24.69,113.02,1.26,1.27,0
+ankara,konya,309.21,1.44,214.1,1.26,0.73,"1 Std., 46 Min."
+ankara,kraków,2428.01,22.67,107.1,1.26,0.8,0
+ankara,Den haag,3756.96,30.2,124.42,1.26,9.47,"69 Std., 36 Min."
+ankara,bilbao,4206.2,34.77,120.98,1.26,0.31,0
+ankara,leeds,3977.86,33.12,120.1,1.26,0.18,0
+ankara,frankfurt am main,2916.65,25.64,113.74,1.26,1.47,"59 Std., 22 Min."
+ankara,zagreb,1987.46,18.39,108.08,1.26,1.2,0
+ankara,bordeaux,3711.28,32.36,114.69,1.26,2.37,0
+ankara,toulouse,3568.06,29.83,119.61,1.26,1.06,0
+ankara,göteborg,3954.75,32.7,120.95,1.26,0.46,0
+ankara,zürich,2793.4,25.52,109.47,1.26,0.1,0
+ankara,oslo,4290.87,34.78,123.36,1.26,0.12,0
+ankara,antalya,520.24,3.53,147.35,1.26,136.87,0
+ankara,zaragoza,3982.3,31.15,127.86,1.26,1.58,0
+ankara,helsinki,3720.41,34.01,109.4,1.26,74.83,0
+ankara,wroclaw,2522.7,22.6,111.63,1.26,0.1,0
+ankara,lodz,2622.33,24.33,107.79,1.26,0.2,0
+ankara,stuttgart,2792.53,25.0,111.69,1.26,0.3,0
+ankara,palermo,3366.21,27.28,123.39,1.26,269.19,0
+ankara,düsseldorf,3129.3,26.63,117.51,1.26,1.13,0
+ankara,glasgow,4325.91,37.72,114.69,1.26,0.45,0
+ankara,leipzig,2811.92,24.85,113.14,1.26,0.9,0
+ankara,RIGA-,3274.6,29.95,109.34,1.26,0.37,0
+ankara,diyarbakir,906.79,5.91,153.53,1.26,2.73,"15 Std., 57 Min."
+ankara,dortmund,3151.86,27.84,113.23,1.26,0.4,0
+ankara,málaga,4669.69,33.75,138.35,1.26,92.61,0
+ankara,vilnius,3015.71,26.99,111.72,1.26,2.03,0
+ankara,essen,3163.59,27.0,117.16,1.26,0.62,0
+ankara,sheffield,3939.37,32.99,119.41,1.26,0.41,0
+ankara,kayseri,357.96,2.8,127.97,1.26,0.36,"7 Std., 8 Min."
+ankara,bremen,3174.74,27.81,114.18,1.26,0.91,0
+ankara,dresden,2694.76,24.0,112.3,1.26,1.12,0
+ankara,genova,2777.94,25.04,110.95,1.26,0.43,0
+ankara,københavn,3625.76,30.85,117.53,1.26,0.18,0
+ankara,manchester,3978.56,32.82,121.21,1.26,0.6,0
+ankara,poznan,2684.73,24.14,111.22,1.26,1.07,0
+ankara,hannover,3056.6,27.1,112.8,1.26,0.96,0
+ankara,antwerpen,3319.64,28.19,117.76,1.26,1.48,0
+ankara,bradford,3997.59,33.34,119.89,1.26,0.35,0
+ankara,nürnberg,2694.68,24.18,111.45,1.26,1.0,0
+ankara,edinburgh,4310.46,36.23,118.96,1.26,0.14,0
+ankara,duisburg,3152.05,26.78,117.69,1.26,0.87,0
+naples,rome,212.63,1.26,168.16,0.41,0.24,"1 Std., 6 Min."
+naples,athens,2375.53,20.61,115.24,0.41,168.11,0
+naples,izmir,3348.36,29.45,113.7,0.41,41.44,0
+naples,BUCHAREST,2277.8,20.03,113.73,0.41,3.02,"36 Std., 5 Min."
+naples,lisboa,2943.64,21.02,140.04,0.41,9.22,0
+naples,hamburg,1822.81,11.48,158.77,0.41,0.79,"15 Std., 49 Min."
+naples,warszawa,1957.77,13.84,141.48,0.41,0.81,"22 Std., 45 Min."
+naples,vienna,1301.14,8.72,149.18,0.41,1.09,"12 Std., 57 Min."
+naples,budapest,1440.68,10.47,137.56,0.41,1.1,"15 Std., 44 Min."
+naples,stockholm,2956.56,18.19,162.55,0.41,0.45,"28 Std., 10 Min."
+naples,munich,1100.21,7.18,153.18,0.41,0.52,"10 Std., 25 Min."
+naples,valencia,1952.08,12.34,158.19,0.41,0.86,"28 Std., 14 Min."
+naples,bursa,3066.97,26.77,114.55,0.41,66.98,0
+naples,dublin,2406.87,16.31,147.54,0.41,107.42,0
+naples,lyon,1161.47,8.06,144.02,0.41,0.5,"12 Std., 47 Min."
+naples,prague,1502.35,11.29,133.04,0.41,0.91,"16 Std., 20 Min."
+naples,brussels,1663.27,9.59,173.41,0.41,1.08,"14 Std., 17 Min."
+naples,rotterdam,1795.29,10.6,169.35,0.41,0.45,"15 Std., 32 Min."
+naples,sofia,1922.52,17.03,112.89,0.41,1.4,0
+naples,adana,3583.95,29.85,120.05,0.41,112.06,0
+naples,birmingham,2167.5,13.83,156.72,0.41,0.19,0
+naples,köln,1575.69,9.63,163.62,0.41,1.04,"12 Std., 56 Min."
+naples,amsterdam,1828.62,11.65,156.96,0.41,0.81,"15 Std., 44 Min."
+naples,porto,2805.81,19.32,145.22,0.41,0.45,50 Std.
+naples,marseille,1098.33,7.57,145.08,0.41,0.64,"13 Std., 33 Min."
+naples,lille,1719.09,10.27,167.44,0.41,0.94,0
+naples,gaziantep,3979.45,31.69,125.57,0.41,23.61,0
+naples,sevilla,2679.57,14.15,189.39,0.41,0.73,"32 Std., 12 Min."
+naples,torino,857.09,5.51,155.62,0.41,1.27,"5 Std., 21 Min."
+naples,konya,3212.96,26.27,122.32,0.41,0.73,0
+naples,kraków,1723.27,12.77,134.96,0.41,0.8,"20 Std., 45 Min."
+naples,Den haag,1931.16,11.28,171.13,0.41,9.47,"16 Std., 6 Min."
+naples,bilbao,2149.36,15.02,143.14,0.41,0.31,0
+naples,leeds,2277.77,14.72,154.72,0.41,0.18,0
+naples,frankfurt am main,1412.69,7.93,178.05,0.41,1.47,"11 Std., 59 Min."
+naples,zagreb,1115.63,7.62,146.46,0.41,1.2,"16 Std., 53 Min."
+naples,bordeaux,1768.74,11.73,150.78,0.41,2.37,"16 Std., 6 Min."
+naples,toulouse,1511.21,10.08,149.92,0.41,1.06,"17 Std., 10 Min."
+naples,göteborg,2655.74,16.6,159.95,0.41,0.46,0
+naples,zürich,1030.85,5.49,187.93,0.41,0.1,"7 Std., 46 Min."
+naples,oslo,2991.87,18.69,160.08,0.41,0.12,"32 Std., 10 Min."
+naples,antalya,3131.14,27.16,115.29,0.41,136.87,0
+naples,zaragoza,1925.46,11.39,168.98,0.41,1.58,"26 Std., 22 Min."
+naples,helsinki,3131.1,26.13,119.82,0.41,74.83,0
+naples,wroclaw,1740.6,13.3,130.89,0.41,0.1,"22 Std., 10 Min."
+naples,lodz,1862.92,14.08,132.35,0.41,0.2,"24 Std., 3 Min."
+naples,stuttgart,1265.54,8.73,144.91,0.41,0.3,"11 Std., 2 Min."
+naples,palermo,269.75,1.67,161.93,0.41,269.19,"9 Std., 5 Min."
+naples,düsseldorf,1611.73,9.95,162.02,0.41,1.13,"13 Std., 24 Min."
+naples,glasgow,2625.82,19.32,135.92,0.41,0.45,0
+naples,leipzig,1555.95,9.99,155.82,0.41,0.9,"14 Std., 8 Min."
+naples,RIGA-,2685.28,22.07,121.66,0.41,0.37,0
+naples,diyarbakir,4010.22,31.95,125.53,0.41,2.73,0
+naples,dortmund,1669.18,10.28,162.45,0.41,0.4,"14 Std., 12 Min."
+naples,málaga,2612.84,14.0,186.62,0.41,92.61,"32 Std., 47 Min."
+naples,vilnius,2451.4,18.18,134.81,0.41,2.03,0
+naples,essen,1646.02,10.32,159.5,0.41,0.62,"13 Std., 53 Min."
+naples,sheffield,2239.28,14.59,153.48,0.41,0.41,"17 Std., 54 Min."
+naples,kayseri,3461.29,28.83,120.05,0.41,0.36,0
+naples,bremen,1779.29,10.9,163.17,0.41,0.91,"15 Std., 38 Min."
+naples,dresden,1625.06,12.13,134.01,0.41,1.12,"15 Std., 37 Min."
+naples,genova,695.76,4.38,158.9,0.41,0.43,"5 Std., 43 Min."
+naples,københavn,2326.76,14.76,157.69,0.41,0.18,"22 Std., 29 Min."
+naples,manchester,2278.47,14.42,157.97,0.41,0.6,0
+naples,poznan,1905.31,14.38,132.48,0.41,1.07,"21 Std., 19 Min."
+naples,hannover,1657.18,10.1,164.12,0.41,0.96,"14 Std., 27 Min."
+naples,antwerpen,1701.84,9.86,172.51,0.41,1.48,"14 Std., 57 Min."
+naples,bradford,2297.5,14.94,153.75,0.41,0.35,0
+naples,nürnberg,1252.06,8.12,154.1,0.41,1.0,"11 Std., 52 Min."
+naples,edinburgh,2610.37,17.83,146.38,0.41,0.14,0
+naples,duisburg,1634.47,10.1,161.84,0.41,0.87,"13 Std., 40 Min."
+rome,athens,2165.6,19.38,111.77,0.24,168.11,0
+rome,izmir,3138.44,28.21,111.25,0.24,41.44,0
+rome,BUCHAREST,2067.88,18.79,110.05,0.24,3.02,"31 Std., 41 Min."
+rome,lisboa,2734.69,19.79,138.22,0.24,9.22,0
+rome,hamburg,1612.89,10.24,157.47,0.24,0.79,"13 Std., 58 Min."
+rome,warszawa,1747.85,12.6,138.72,0.24,0.81,"21 Std., 5 Min."
+rome,vienna,1091.22,7.48,145.82,0.24,1.09,"11 Std., 27 Min."
+rome,budapest,1230.75,9.23,133.28,0.24,1.1,"14 Std., 14 Min."
+rome,stockholm,2746.64,16.95,162.04,0.24,0.45,0
+rome,munich,890.29,5.94,149.78,0.24,0.52,"9 Std., 2 Min."
+rome,valencia,1743.13,11.11,156.96,0.24,0.86,"26 Std., 54 Min."
+rome,bursa,2857.05,25.54,111.89,0.24,66.98,0
+rome,dublin,2196.94,15.07,145.74,0.24,107.42,0
+rome,lyon,952.53,6.83,139.46,0.24,0.5,"11 Std., 18 Min."
+rome,prague,1292.43,10.05,128.55,0.24,0.91,"14 Std., 57 Min."
+rome,brussels,1453.35,8.35,173.99,0.24,1.08,"12 Std., 39 Min."
+rome,rotterdam,1585.36,9.36,169.32,0.24,0.45,"14 Std., 12 Min."
+rome,sofia,1712.6,15.79,108.45,0.24,1.4,0
+rome,adana,3374.03,28.62,117.91,0.24,112.06,0
+rome,birmingham,1957.57,12.59,155.46,0.24,0.19,0
+rome,köln,1365.77,8.39,162.75,0.24,1.04,"11 Std., 27 Min."
+rome,amsterdam,1618.7,10.41,155.47,0.24,0.81,"14 Std., 4 Min."
+rome,porto,2596.87,18.09,143.58,0.24,0.45,"48 Std., 15 Min."
+rome,marseille,889.38,6.34,140.37,0.24,0.64,"11 Std., 36 Min."
+rome,lille,1509.16,9.03,167.16,0.24,0.94,"12 Std., 28 Min."
+rome,gaziantep,3769.53,30.45,123.78,0.24,23.61,0
+rome,sevilla,2470.62,12.91,191.32,0.24,0.73,"30 Std., 45 Min."
+rome,torino,648.14,4.27,151.68,0.24,1.27,"4 Std., 5 Min."
+rome,konya,3003.04,25.03,119.99,0.24,0.73,0
+rome,kraków,1513.35,11.53,131.25,0.24,0.8,"19 Std., 20 Min."
+rome,Den haag,1721.24,10.05,171.33,0.24,9.47,0
+rome,bilbao,1940.41,13.78,140.8,0.24,0.31,"25 Std., 1 Min."
+rome,leeds,2067.85,13.48,153.36,0.24,0.18,0
+rome,frankfurt am main,1202.77,6.7,179.62,0.24,1.47,"10 Std., 14 Min."
+rome,zagreb,905.71,6.38,141.98,0.24,1.2,"15 Std., 10 Min."
+rome,bordeaux,1559.79,10.5,148.61,0.24,2.37,"13 Std., 36 Min."
+rome,toulouse,1302.27,8.85,147.22,0.24,1.06,"15 Std., 54 Min."
+rome,göteborg,2445.82,15.36,159.18,0.24,0.46,25 Std.
+rome,zürich,820.93,4.25,193.31,0.24,0.1,"6 Std., 30 Min."
+rome,oslo,2781.95,17.45,159.41,0.24,0.12,"30 Std., 25 Min."
+rome,antalya,2921.22,25.92,112.7,0.24,136.87,0
+rome,zaragoza,1716.51,10.16,168.94,0.24,1.58,"25 Std., 2 Min."
+rome,helsinki,2921.18,24.89,117.35,0.24,74.83,0
+rome,wroclaw,1530.68,12.06,126.92,0.24,0.1,"20 Std., 50 Min."
+rome,lodz,1653.0,12.84,128.76,0.24,0.2,"22 Std., 43 Min."
+rome,stuttgart,1055.62,7.49,140.85,0.24,0.3,"9 Std., 42 Min."
+rome,palermo,477.33,2.56,186.78,0.24,269.19,"10 Std., 4 Min."
+rome,düsseldorf,1401.8,8.71,160.96,0.24,1.13,"11 Std., 44 Min."
+rome,glasgow,2415.9,18.08,133.62,0.24,0.45,0
+rome,leipzig,1346.03,8.75,153.88,0.24,0.9,"12 Std., 45 Min."
+rome,RIGA-,2475.36,20.83,118.81,0.24,0.37,0
+rome,diyarbakir,3800.3,30.71,123.75,0.24,2.73,0
+rome,dortmund,1459.26,9.04,161.48,0.24,0.4,"12 Std., 43 Min."
+rome,málaga,2403.89,12.77,188.3,0.24,92.61,"31 Std., 20 Min."
+rome,vilnius,2241.48,16.95,132.27,0.24,2.03,0
+rome,essen,1436.1,9.08,158.13,0.24,0.62,"12 Std., 20 Min."
+rome,sheffield,2029.36,13.35,151.99,0.24,0.41,0
+rome,kayseri,3251.37,27.59,117.83,0.24,0.36,0
+rome,bremen,1569.37,9.67,162.36,0.24,0.91,"14 Std., 12 Min."
+rome,dresden,1415.13,10.89,129.97,0.24,1.12,"14 Std., 14 Min."
+rome,genova,486.81,3.14,154.83,0.24,0.43,"4 Std., 1 Min."
+rome,københavn,2116.84,13.52,156.6,0.24,0.18,"20 Std., 44 Min."
+rome,manchester,2068.55,13.18,156.89,0.24,0.6,0
+rome,poznan,1695.38,13.14,128.99,0.24,1.07,"19 Std., 44 Min."
+rome,hannover,1447.26,8.86,163.37,0.24,0.96,"12 Std., 39 Min."
+rome,antwerpen,1491.92,8.63,172.95,0.24,1.48,"13 Std., 37 Min."
+rome,bradford,2087.58,13.7,152.32,0.24,0.35,0
+rome,nürnberg,1042.14,6.89,151.33,0.24,1.0,"10 Std., 29 Min."
+rome,edinburgh,2400.45,16.59,144.65,0.24,0.14,0
+rome,duisburg,1424.55,8.86,160.77,0.24,0.87,"12 Std., 6 Min."
+athens,izmir,1826.73,15.24,119.83,168.11,41.44,0
+athens,BUCHAREST,1077.55,10.99,98.02,168.11,3.02,0
+athens,lisboa,4272.92,35.38,120.78,168.11,9.22,0
+athens,hamburg,2410.72,21.88,110.18,168.11,0.79,0
+athens,warszawa,1970.86,18.61,105.89,168.11,0.81,0
+athens,vienna,1487.38,13.7,108.6,168.11,1.09,0
+athens,budapest,1323.85,11.81,112.13,168.11,1.1,0
+athens,stockholm,3528.0,28.89,122.11,168.11,0.45,0
+athens,munich,1826.72,18.16,100.6,168.11,0.52,0
+athens,valencia,3281.36,26.7,122.9,168.11,0.86,0
+athens,bursa,1545.35,12.57,122.94,168.11,66.98,0
+athens,dublin,3379.39,29.32,115.25,168.11,107.42,0
+athens,lyon,2364.4,21.8,108.44,168.11,0.5,0
+athens,prague,1826.08,17.04,107.15,168.11,0.91,0
+athens,brussels,2585.13,22.33,115.79,168.11,1.08,0
+athens,rotterdam,2606.08,22.7,114.78,168.11,0.45,0
+athens,sofia,576.78,4.89,117.89,168.11,1.4,0
+athens,adana,2062.32,15.65,131.77,168.11,112.06,0
+athens,birmingham,3140.02,26.84,116.99,168.11,0.19,0
+athens,köln,2368.52,21.05,112.51,168.11,1.04,0
+athens,amsterdam,2618.63,22.94,114.14,168.11,0.81,0
+athens,porto,4135.09,33.68,122.78,168.11,0.45,0
+athens,marseille,2443.06,22.73,107.47,168.11,0.64,0
+athens,lille,2691.62,23.27,115.65,168.11,0.94,0
+athens,gaziantep,2457.82,17.49,140.55,168.11,23.61,0
+athens,sevilla,4008.85,28.51,140.62,168.11,0.73,0
+athens,torino,2062.35,19.29,106.89,168.11,1.27,0
+athens,konya,1691.34,12.06,140.21,168.11,0.73,0
+athens,kraków,1700.45,17.28,98.41,168.11,0.8,0
+athens,Den haag,3029.39,24.8,122.13,168.11,9.47,0
+athens,bilbao,3478.64,29.37,118.42,168.11,0.31,0
+athens,leeds,3250.29,27.73,117.21,168.11,0.18,0
+athens,frankfurt am main,2189.08,20.25,108.1,168.11,1.47,0
+athens,zagreb,1259.9,13.0,96.94,168.11,1.2,0
+athens,bordeaux,2983.71,26.97,110.65,168.11,2.37,0
+athens,toulouse,2840.49,24.44,116.23,168.11,1.06,0
+athens,göteborg,3227.18,27.31,118.19,168.11,0.46,0
+athens,zürich,2065.84,20.13,102.65,168.11,0.1,0
+athens,oslo,3563.31,29.39,121.24,168.11,0.12,0
+athens,antalya,1609.52,12.96,124.23,168.11,136.87,0
+athens,zaragoza,3254.74,25.75,126.38,168.11,1.58,0
+athens,helsinki,3161.81,29.32,107.82,168.11,74.83,0
+athens,wroclaw,1795.13,17.21,104.32,168.11,0.1,0
+athens,lodz,1894.76,18.94,100.06,168.11,0.2,0
+athens,stuttgart,2064.96,19.61,105.29,168.11,0.3,0
+athens,palermo,2638.64,21.89,120.54,168.11,269.19,0
+athens,düsseldorf,2401.74,21.24,113.08,168.11,1.13,0
+athens,glasgow,3598.35,32.33,111.31,168.11,0.45,0
+athens,leipzig,2084.35,19.46,107.1,168.11,0.9,0
+athens,RIGA-,2716.0,25.27,107.5,168.11,0.37,0
+athens,diyarbakir,2488.59,17.74,140.25,168.11,2.73,0
+athens,dortmund,2424.29,22.45,108.01,168.11,0.4,0
+athens,málaga,3942.12,28.36,139.0,168.11,92.61,0
+athens,vilnius,2464.48,22.96,107.34,168.11,2.03,0
+athens,essen,2436.03,21.61,112.72,168.11,0.62,0
+athens,sheffield,3211.81,27.6,116.37,168.11,0.41,0
+athens,kayseri,1939.66,14.63,132.6,168.11,0.36,0
+athens,bremen,2447.17,22.41,109.18,168.11,0.91,0
+athens,dresden,1967.19,18.6,105.74,168.11,1.12,0
+athens,genova,2050.37,19.65,104.37,168.11,0.43,0
+athens,københavn,2898.19,25.46,113.84,168.11,0.18,0
+athens,manchester,3250.99,27.43,118.51,168.11,0.6,0
+athens,poznan,1957.16,18.75,104.39,168.11,1.07,0
+athens,hannover,2329.03,21.71,107.3,168.11,0.96,0
+athens,antwerpen,2592.08,22.8,113.69,168.11,1.48,0
+athens,bradford,3270.03,27.95,116.98,168.11,0.35,0
+athens,nürnberg,1967.11,18.79,104.7,168.11,1.0,0
+athens,edinburgh,3582.89,30.84,116.17,168.11,0.14,0
+athens,duisburg,2424.48,21.39,113.34,168.11,0.87,0
+izmir,BUCHAREST,1597.97,15.54,102.84,41.44,3.02,"47 Std., 12 Min."
+izmir,lisboa,5245.39,44.18,118.73,41.44,9.22,0
+izmir,hamburg,3383.2,30.68,110.28,41.44,0.79,0
+izmir,warszawa,2868.2,27.24,105.28,41.44,0.81,0
+izmir,vienna,2459.86,22.5,109.35,41.44,1.09,0
+izmir,budapest,2296.32,20.61,111.44,41.44,1.1,0
+izmir,stockholm,4500.48,37.69,119.41,41.44,0.45,0
+izmir,munich,2799.2,26.96,103.84,41.44,0.52,0
+izmir,valencia,4253.84,35.5,119.83,41.44,0.86,0
+izmir,bursa,281.38,2.67,105.22,41.44,66.98,0
+izmir,dublin,4351.87,38.12,114.16,41.44,107.42,0
+izmir,lyon,3336.88,30.6,109.04,41.44,0.5,0
+izmir,prague,2798.56,25.84,108.3,41.44,0.91,0
+izmir,brussels,3557.6,31.13,114.3,41.44,1.08,0
+izmir,rotterdam,3578.56,31.5,113.59,41.44,0.45,0
+izmir,sofia,1429.86,12.41,115.23,41.44,1.4,0
+izmir,adana,1217.95,9.64,126.38,41.44,112.06,"30 Std., 53 Min."
+izmir,birmingham,4112.5,35.64,115.39,41.44,0.19,0
+izmir,köln,3340.99,29.85,111.92,41.44,1.04,0
+izmir,amsterdam,3591.11,31.74,113.14,41.44,0.81,0
+izmir,porto,5107.57,42.48,120.24,41.44,0.45,0
+izmir,marseille,3415.53,31.53,108.32,41.44,0.64,0
+izmir,lille,3664.1,32.07,114.24,41.44,0.94,0
+izmir,gaziantep,1613.45,11.47,140.61,41.44,23.61,0
+izmir,sevilla,4981.33,37.31,133.52,41.44,0.73,0
+izmir,torino,3034.83,28.09,108.03,41.44,1.27,0
+izmir,konya,846.96,6.05,140.0,41.44,0.73,"12 Std., 56 Min."
+izmir,kraków,2672.93,26.08,102.5,41.44,0.8,0
+izmir,Den haag,4001.87,33.6,119.09,41.44,9.47,0
+izmir,bilbao,4451.12,38.17,116.6,41.44,0.31,0
+izmir,leeds,4222.77,36.53,115.6,41.44,0.18,0
+izmir,frankfurt am main,3161.56,29.05,108.83,41.44,1.47,0
+izmir,zagreb,2232.37,21.8,102.42,41.44,1.2,0
+izmir,bordeaux,3956.19,35.77,110.61,41.44,2.37,0
+izmir,toulouse,3812.97,33.24,114.71,41.44,1.06,0
+izmir,göteborg,4199.66,36.1,116.32,41.44,0.46,0
+izmir,zürich,3038.32,28.92,105.04,41.44,0.1,0
+izmir,oslo,4535.78,38.19,118.77,41.44,0.12,0
+izmir,antalya,632.33,5.81,108.76,41.44,136.87,0
+izmir,zaragoza,4227.21,34.55,122.34,41.44,1.58,0
+izmir,helsinki,3965.32,37.42,105.98,41.44,74.83,0
+izmir,wroclaw,2767.61,26.01,106.42,41.44,0.1,0
+izmir,lodz,2867.24,27.74,103.38,41.44,0.2,0
+izmir,stuttgart,3037.44,28.41,106.91,41.44,0.3,0
+izmir,palermo,3611.12,30.69,117.67,41.44,269.19,0
+izmir,düsseldorf,3374.21,30.04,112.33,41.44,1.13,0
+izmir,glasgow,4570.83,41.13,111.14,41.44,0.45,0
+izmir,leipzig,3056.83,28.26,108.16,41.44,0.9,0
+izmir,RIGA-,3519.51,33.36,105.51,41.44,0.37,0
+izmir,diyarbakir,1644.22,11.73,140.16,41.44,2.73,"38 Std., 22 Min."
+izmir,dortmund,3396.77,31.24,108.71,41.44,0.4,0
+izmir,málaga,4914.6,37.16,132.26,41.44,92.61,0
+izmir,vilnius,3260.63,30.4,107.25,41.44,2.03,0
+izmir,essen,3408.5,30.41,112.08,41.44,0.62,0
+izmir,sheffield,4184.28,36.4,114.96,41.44,0.41,0
+izmir,kayseri,1095.29,8.62,127.14,41.44,0.36,"19 Std., 42 Min."
+izmir,bremen,3419.65,31.21,109.56,41.44,0.91,0
+izmir,dresden,2939.67,27.4,107.27,41.44,1.12,0
+izmir,genova,3022.85,28.44,106.27,41.44,0.43,0
+izmir,københavn,3870.67,34.26,112.99,41.44,0.18,0
+izmir,manchester,4223.47,36.23,116.57,41.44,0.6,0
+izmir,poznan,2929.64,27.55,106.35,41.44,1.07,0
+izmir,hannover,3301.51,30.51,108.23,41.44,0.96,0
+izmir,antwerpen,3564.55,31.6,112.81,41.44,1.48,0
+izmir,bradford,4242.5,36.75,115.44,41.44,0.35,0
+izmir,nürnberg,2939.59,27.59,106.56,41.44,1.0,0
+izmir,edinburgh,4555.37,39.64,114.91,41.44,0.14,0
+izmir,duisburg,3396.96,30.19,112.52,41.44,0.87,0
+BUCHAREST,lisboa,4166.92,33.39,124.78,3.02,9.22,91 Std.
+BUCHAREST,hamburg,1985.32,18.21,109.0,3.02,0.79,"28 Std., 13 Min."
+BUCHAREST,warszawa,1291.53,12.21,105.74,3.02,0.81,"28 Std., 35 Min."
+BUCHAREST,vienna,1103.04,10.58,104.3,3.02,1.09,"18 Std., 40 Min."
+BUCHAREST,budapest,995.96,9.94,100.16,3.02,1.1,"15 Std., 20 Min."
+BUCHAREST,stockholm,3102.6,25.22,123.0,3.02,0.45,"40 Std., 18 Min."
+BUCHAREST,munich,1515.51,13.33,113.7,3.02,0.52,"22 Std., 52 Min."
+BUCHAREST,valencia,3183.63,26.11,121.92,3.02,0.86,"53 Std., 22 Min."
+BUCHAREST,bursa,1316.94,12.9,102.1,3.02,66.98,0
+BUCHAREST,dublin,3020.79,24.49,123.36,3.02,107.42,0
+BUCHAREST,lyon,2266.68,21.22,106.83,3.02,0.5,"30 Std., 55 Min."
+BUCHAREST,prague,1426.58,13.98,102.06,3.02,0.91,"23 Std., 31 Min."
+BUCHAREST,brussels,2226.53,17.49,127.29,3.02,1.08,"30 Std., 7 Min."
+BUCHAREST,rotterdam,2247.48,17.87,125.77,3.02,0.45,"31 Std., 22 Min."
+BUCHAREST,sofia,501.18,6.11,82.02,3.02,1.4,0
+BUCHAREST,adana,1833.92,15.98,114.78,3.02,112.06,"49 Std., 56 Min."
+BUCHAREST,birmingham,2781.42,22.0,126.4,3.02,0.19,0
+BUCHAREST,köln,2009.92,16.22,123.94,3.02,1.04,"27 Std., 25 Min."
+BUCHAREST,amsterdam,2260.03,18.11,124.82,3.02,0.81,"31 Std., 49 Min."
+BUCHAREST,porto,4029.1,31.7,127.12,3.02,0.45,"56 Std., 38 Min."
+BUCHAREST,marseille,2345.33,22.15,105.9,3.02,0.64,"41 Std., 24 Min."
+BUCHAREST,lille,2333.02,18.44,126.53,3.02,0.94,"30 Std., 8 Min."
+BUCHAREST,gaziantep,2229.42,17.82,125.14,3.02,23.61,0
+BUCHAREST,sevilla,3911.12,27.92,140.08,3.02,0.73,"53 Std., 2 Min."
+BUCHAREST,torino,1964.62,18.71,105.02,3.02,1.27,"29 Std., 50 Min."
+BUCHAREST,konya,1462.93,12.39,118.06,3.02,0.73,"26 Std., 19 Min."
+BUCHAREST,kraków,1149.39,10.89,105.55,3.02,0.8,"26 Std., 55 Min."
+BUCHAREST,Den haag,2718.18,19.97,136.08,3.02,9.47,"32 Std., 4 Min."
+BUCHAREST,bilbao,3372.65,27.39,123.13,3.02,0.31,"44 Std., 41 Min."
+BUCHAREST,leeds,2891.69,22.9,126.3,3.02,0.18,0
+BUCHAREST,frankfurt am main,1830.49,15.42,118.74,3.02,1.47,"25 Std., 56 Min."
+BUCHAREST,zagreb,1162.17,12.41,93.64,3.02,1.2,"26 Std., 20 Min."
+BUCHAREST,bordeaux,2853.13,23.46,121.62,3.02,2.37,"31 Std., 10 Min."
+BUCHAREST,toulouse,2742.77,23.85,114.99,3.02,1.06,"34 Std., 12 Min."
+BUCHAREST,göteborg,2801.78,23.64,118.52,3.02,0.46,"40 Std., 5 Min."
+BUCHAREST,zürich,1840.77,15.84,116.24,3.02,0.1,"26 Std., 47 Min."
+BUCHAREST,oslo,3137.91,25.73,121.98,3.02,0.12,"44 Std., 30 Min."
+BUCHAREST,antalya,1381.11,13.28,103.97,3.02,136.87,0
+BUCHAREST,zaragoza,3157.01,25.17,125.44,3.02,1.58,"48 Std., 42 Min."
+BUCHAREST,helsinki,2388.66,22.39,106.7,3.02,74.83,0
+BUCHAREST,wroclaw,1366.14,13.92,98.15,3.02,0.1,"27 Std., 31 Min."
+BUCHAREST,lodz,1290.54,13.5,95.62,3.02,0.2,"28 Std., 53 Min."
+BUCHAREST,stuttgart,1753.75,14.78,118.64,3.02,0.3,"25 Std., 3 Min."
+BUCHAREST,palermo,2540.92,21.3,119.27,3.02,269.19,"50 Std., 50 Min."
+BUCHAREST,düsseldorf,2043.14,16.4,124.55,3.02,1.13,"27 Std., 56 Min."
+BUCHAREST,glasgow,3239.75,27.49,117.84,3.02,0.45,"41 Std., 45 Min."
+BUCHAREST,leipzig,1684.85,16.4,102.75,3.02,0.9,0
+BUCHAREST,RIGA-,1942.84,18.33,106.01,3.02,0.37,0
+BUCHAREST,diyarbakir,2260.19,18.07,125.07,3.02,2.73,"46 Std., 40 Min."
+BUCHAREST,dortmund,2065.69,17.61,117.3,3.02,0.4,29 Std.
+BUCHAREST,málaga,3844.39,27.77,138.42,3.02,92.61,"53 Std., 37 Min."
+BUCHAREST,vilnius,1683.96,15.37,109.55,3.02,2.03,0
+BUCHAREST,essen,2077.43,16.78,123.82,3.02,0.62,"28 Std., 22 Min."
+BUCHAREST,sheffield,2853.21,22.76,125.33,3.02,0.41,"34 Std., 20 Min."
+BUCHAREST,kayseri,1711.26,14.96,114.42,3.02,0.36,"37 Std., 16 Min."
+BUCHAREST,bremen,2035.73,19.63,103.68,3.02,0.91,0
+BUCHAREST,dresden,1567.69,15.54,100.88,3.02,1.12,"26 Std., 35 Min."
+BUCHAREST,genova,1952.64,19.06,102.45,3.02,0.43,0
+BUCHAREST,københavn,2472.79,21.79,113.48,3.02,0.18,"34 Std., 49 Min."
+BUCHAREST,manchester,2892.39,22.6,127.99,3.02,0.6,0
+BUCHAREST,poznan,1528.17,15.46,98.85,3.02,1.07,0
+BUCHAREST,hannover,1929.54,18.64,103.5,3.02,0.96,"26 Std., 52 Min."
+BUCHAREST,antwerpen,2233.48,17.96,124.33,3.02,1.48,"30 Std., 47 Min."
+BUCHAREST,bradford,2911.43,23.12,125.94,3.02,0.35,0
+BUCHAREST,nürnberg,1608.51,13.95,115.28,3.02,1.0,"23 Std., 47 Min."
+BUCHAREST,edinburgh,3224.29,26.01,123.98,3.02,0.14,0
+BUCHAREST,duisburg,2065.88,16.56,124.78,3.02,0.87,"28 Std., 9 Min."
+lisboa,hamburg,2748.83,18.26,150.55,9.22,0.79,"46 Std., 36 Min."
+lisboa,warszawa,3476.31,22.5,154.49,9.22,0.81,0
+lisboa,vienna,3070.71,22.95,133.81,9.22,1.09,0
+lisboa,budapest,3338.08,25.24,132.25,9.22,1.1,"51 Std., 2 Min."
+lisboa,stockholm,3882.59,24.97,155.52,9.22,0.45,0
+lisboa,munich,2651.42,20.07,132.1,9.22,0.52,"43 Std., 26 Min."
+lisboa,valencia,1128.33,8.12,138.99,9.22,0.86,"19 Std., 43 Min."
+lisboa,bursa,4964.38,41.54,119.5,9.22,66.98,0
+lisboa,dublin,2742.7,19.82,138.39,9.22,107.42,0
+lisboa,lyon,1933.29,15.08,128.23,9.22,0.5,"28 Std., 36 Min."
+lisboa,prague,2970.12,19.74,150.49,9.22,0.91,0
+lisboa,brussels,2180.52,14.15,154.14,9.22,1.08,"39 Std., 47 Min."
+lisboa,rotterdam,2318.4,15.23,152.22,9.22,0.45,"41 Std., 2 Min."
+lisboa,sofia,3819.92,31.8,120.13,9.22,1.4,0
+lisboa,adana,5481.35,44.62,122.84,9.22,112.06,0
+lisboa,birmingham,2503.33,17.34,144.4,9.22,0.19,0
+lisboa,köln,2351.02,15.46,152.11,9.22,1.04,"42 Std., 16 Min."
+lisboa,amsterdam,2388.27,15.61,152.95,9.22,0.81,"41 Std., 50 Min."
+lisboa,porto,400.38,2.75,145.65,9.22,0.45,"2 Std., 38 Min."
+lisboa,marseille,1847.86,13.5,136.87,9.22,0.64,"28 Std., 32 Min."
+lisboa,lille,2094.35,12.93,161.96,9.22,0.94,"39 Std., 48 Min."
+lisboa,gaziantep,5876.85,46.46,126.5,9.22,23.61,0
+lisboa,sevilla,639.13,4.86,131.45,9.22,0.73,0
+lisboa,torino,2216.1,16.18,136.94,9.22,1.27,0
+lisboa,konya,5110.36,41.03,124.54,9.22,0.73,0
+lisboa,kraków,3411.31,22.64,150.67,9.22,0.8,"54 Std., 50 Min."
+lisboa,Den haag,2027.15,13.6,149.11,9.22,9.47,"41 Std., 31 Min."
+lisboa,bilbao,1003.59,7.58,132.48,9.22,0.31,"25 Std., 15 Min."
+lisboa,leeds,2613.6,18.23,143.39,9.22,0.18,0
+lisboa,frankfurt am main,2435.19,15.09,161.37,9.22,1.47,"41 Std., 59 Min."
+lisboa,zagreb,3013.03,22.39,134.6,9.22,1.2,0
+lisboa,bordeaux,1313.81,9.93,132.34,9.22,2.37,0
+lisboa,toulouse,1432.63,10.95,130.88,9.22,1.06,0
+lisboa,göteborg,3581.77,23.38,153.2,9.22,0.46,0
+lisboa,zürich,2343.09,17.43,134.43,9.22,0.1,"41 Std., 28 Min."
+lisboa,oslo,3917.89,25.47,153.84,9.22,0.12,0
+lisboa,antalya,5028.54,41.93,119.93,9.22,136.87,0
+lisboa,zaragoza,1119.24,7.7,145.45,9.22,1.58,0
+lisboa,helsinki,4350.66,32.55,133.65,9.22,74.83,0
+lisboa,wroclaw,3154.97,20.49,154.01,9.22,0.1,0
+lisboa,lodz,3375.82,22.87,147.58,9.22,0.2,0
+lisboa,stuttgart,2456.67,14.78,166.21,9.22,0.3,"41 Std., 4 Min."
+lisboa,palermo,3211.91,22.53,142.54,9.22,269.19,0
+lisboa,düsseldorf,2369.42,15.77,150.2,9.22,1.13,"43 Std., 36 Min."
+lisboa,glasgow,2961.65,22.82,129.76,9.22,0.45,0
+lisboa,leipzig,2803.8,17.66,158.78,9.22,0.9,"45 Std., 24 Min."
+lisboa,RIGA-,3904.85,28.49,137.05,9.22,0.37,0
+lisboa,diyarbakir,5907.62,46.72,126.46,9.22,2.73,0
+lisboa,dortmund,2439.69,16.38,148.96,9.22,0.4,"44 Std., 21 Min."
+lisboa,málaga,753.95,5.59,134.95,9.22,92.61,0
+lisboa,vilnius,3831.66,27.57,138.96,9.22,2.03,0
+lisboa,essen,2405.56,16.06,149.77,9.22,0.62,"44 Std., 2 Min."
+lisboa,sheffield,2575.11,18.1,142.31,9.22,0.41,0
+lisboa,kayseri,5358.69,43.6,122.91,9.22,0.36,0
+lisboa,bremen,2648.7,17.63,150.23,9.22,0.91,"46 Std., 15 Min."
+lisboa,dresden,2919.99,18.49,157.93,9.22,1.12,"46 Std., 39 Min."
+lisboa,genova,2247.91,16.64,135.06,9.22,0.43,0
+lisboa,københavn,3252.78,21.53,151.06,9.22,0.18,0
+lisboa,manchester,2614.3,17.93,145.82,9.22,0.6,0
+lisboa,poznan,3166.01,20.28,156.12,9.22,1.07,0
+lisboa,hannover,2645.63,17.4,152.02,9.22,0.96,0
+lisboa,antwerpen,2224.96,14.49,153.51,9.22,1.48,"40 Std., 27 Min."
+lisboa,bradford,2633.33,18.45,142.74,9.22,0.35,0
+lisboa,nürnberg,2619.27,16.36,160.05,9.22,1.0,"44 Std., 20 Min."
+lisboa,edinburgh,2946.2,21.34,138.07,9.22,0.14,0
+lisboa,duisburg,2387.11,15.93,149.89,9.22,0.87,"43 Std., 49 Min."
+hamburg,warszawa,863.24,5.49,157.16,0.79,0.81,"7 Std., 24 Min."
+hamburg,vienna,983.14,8.09,121.49,0.79,1.09,"8 Std., 45 Min."
+hamburg,budapest,1314.72,11.64,112.98,0.79,1.1,12 Std.
+hamburg,stockholm,1133.76,6.71,169.04,0.79,0.45,"10 Std., 40 Min."
+hamburg,munich,750.26,5.53,135.68,0.79,0.52,"5 Std., 39 Min."
+hamburg,valencia,2148.22,14.37,149.5,0.79,0.86,0
+hamburg,bursa,3102.16,28.04,110.64,0.79,66.98,0
+hamburg,dublin,1374.62,10.98,125.15,0.79,107.42,0
+hamburg,lyon,1162.05,8.88,130.91,0.79,0.5,"9 Std., 32 Min."
+hamburg,prague,649.92,5.58,116.41,0.79,0.91,"6 Std., 31 Min."
+hamburg,brussels,587.76,4.34,135.57,0.79,1.08,"6 Std., 4 Min."
+hamburg,rotterdam,498.74,3.54,140.92,0.79,0.45,"5 Std., 35 Min."
+hamburg,sofia,1957.71,18.29,107.01,0.79,1.4,0
+hamburg,adana,3619.14,31.12,116.3,0.79,112.06,"97 Std., 42 Min."
+hamburg,birmingham,1135.24,8.5,133.54,0.79,0.19,"10 Std., 54 Min."
+hamburg,köln,420.8,3.26,129.14,0.79,1.04,"3 Std., 35 Min."
+hamburg,amsterdam,467.38,3.35,139.38,0.79,0.81,"5 Std., 9 Min."
+hamburg,porto,2611.1,16.57,157.62,0.79,0.45,"35 Std., 54 Min."
+hamburg,marseille,1478.78,10.56,140.09,0.79,0.64,"11 Std., 22 Min."
+hamburg,lille,688.5,4.93,139.79,0.79,0.94,"7 Std., 29 Min."
+hamburg,gaziantep,4014.64,32.96,121.82,0.79,23.61,0
+hamburg,sevilla,2715.18,15.2,178.68,0.79,0.73,"29 Std., 52 Min."
+hamburg,torino,1239.45,8.25,150.32,0.79,1.27,"12 Std., 16 Min."
+hamburg,konya,3248.15,27.53,117.98,0.79,0.73,0
+hamburg,kraków,875.53,6.45,135.84,0.79,0.8,"9 Std., 15 Min."
+hamburg,Den haag,1209.14,8.03,150.63,0.79,9.47,"5 Std., 31 Min."
+hamburg,bilbao,1954.65,12.26,159.43,0.79,0.31,"21 Std., 35 Min."
+hamburg,leeds,1245.52,9.39,132.61,0.79,0.18,"11 Std., 58 Min."
+hamburg,frankfurt am main,498.67,3.09,161.31,0.79,1.47,"3 Std., 26 Min."
+hamburg,zagreb,1287.46,10.92,117.85,0.79,1.2,"16 Std., 26 Min."
+hamburg,bordeaux,1435.11,8.34,172.15,0.79,2.37,"11 Std., 20 Min."
+hamburg,toulouse,1600.34,11.55,138.59,0.79,1.06,"13 Std., 23 Min."
+hamburg,göteborg,832.94,5.12,162.65,0.79,0.46,"8 Std., 12 Min."
+hamburg,zürich,908.33,5.93,153.16,0.79,0.1,"7 Std., 36 Min."
+hamburg,oslo,1169.07,7.21,162.2,0.79,0.12,"12 Std., 54 Min."
+hamburg,antalya,3166.33,28.42,111.39,0.79,136.87,0
+hamburg,zaragoza,2003.85,12.57,159.37,0.79,1.58,"22 Std., 56 Min."
+hamburg,helsinki,1698.56,16.51,102.88,0.79,74.83,0
+hamburg,wroclaw,619.19,4.29,144.34,0.79,0.1,"6 Std., 13 Min."
+hamburg,lodz,792.39,6.11,129.59,0.79,0.2,"7 Std., 42 Min."
+hamburg,stuttgart,670.78,4.59,146.04,0.79,0.3,"5 Std., 2 Min."
+hamburg,palermo,2085.92,12.76,163.46,0.79,269.19,"28 Std., 3 Min."
+hamburg,düsseldorf,386.67,2.5,154.43,0.79,1.13,"3 Std., 10 Min."
+hamburg,glasgow,1593.57,13.99,113.92,0.79,0.45,0
+hamburg,leipzig,364.24,2.96,122.89,0.79,0.9,"3 Std., 7 Min."
+hamburg,RIGA-,1252.75,12.45,100.62,0.79,0.37,0
+hamburg,diyarbakir,4045.41,33.21,121.8,0.79,2.73,"94 Std., 26 Min."
+hamburg,dortmund,326.9,2.54,128.75,0.79,0.4,"2 Std., 46 Min."
+hamburg,málaga,2648.45,15.05,175.99,0.79,92.61,"30 Std., 27 Min."
+hamburg,vilnius,1179.56,11.53,102.29,0.79,2.03,0
+hamburg,essen,354.22,2.22,159.37,0.79,0.62,"2 Std., 43 Min."
+hamburg,sheffield,1207.03,9.26,130.34,0.79,0.41,"11 Std., 50 Min."
+hamburg,kayseri,3496.48,30.1,116.17,0.79,0.36,"85 Std., 2 Min."
+hamburg,bremen,115.98,0.72,161.51,0.79,0.91,54 Min.
+hamburg,dresden,458.7,3.99,114.98,0.79,1.12,"3 Std., 52 Min."
+hamburg,genova,1278.48,8.65,147.83,0.79,0.43,"12 Std., 59 Min."
+hamburg,københavn,503.96,3.27,153.94,0.79,0.18,"4 Std., 42 Min."
+hamburg,manchester,1246.22,9.09,137.04,0.79,0.6,"11 Std., 50 Min."
+hamburg,poznan,552.94,3.27,169.07,0.79,1.07,"4 Std., 54 Min."
+hamburg,hannover,165.63,1.38,119.81,0.79,0.96,"1 Std., 13 Min."
+hamburg,antwerpen,552.26,3.76,146.85,0.79,1.48,"6 Std., 40 Min."
+hamburg,bradford,1265.25,9.61,131.61,0.79,0.35,"12 Std., 30 Min."
+hamburg,nürnberg,577.42,4.66,123.91,0.79,1.0,"4 Std., 22 Min."
+hamburg,edinburgh,1578.12,12.5,126.22,0.79,0.14,"13 Std., 50 Min."
+hamburg,duisburg,362.37,2.33,155.46,0.79,0.87,"3 Std., 1 Min."
+warszawa,vienna,656.66,5.13,128.11,0.81,1.09,"7 Std., 31 Min."
+warszawa,budapest,973.98,8.8,110.69,0.81,1.1,"10 Std., 10 Min."
+warszawa,stockholm,1934.0,12.91,149.78,0.81,0.45,"20 Std., 33 Min."
+warszawa,munich,1075.93,8.01,134.4,0.81,0.52,"10 Std., 3 Min."
+warszawa,valencia,2694.45,17.43,154.59,0.81,0.86,0
+warszawa,bursa,2587.16,24.6,105.15,0.81,66.98,0
+warszawa,dublin,2109.67,16.32,129.23,0.81,107.42,0
+warszawa,lyon,1708.28,11.94,143.11,0.81,0.5,"18 Std., 8 Min."
+warszawa,prague,665.81,6.17,107.91,0.81,0.91,"8 Std., 2 Min."
+warszawa,brussels,1316.46,9.4,140.06,0.81,1.08,"12 Std., 35 Min."
+warszawa,rotterdam,1240.56,8.68,142.93,0.81,0.45,"12 Std., 40 Min."
+warszawa,sofia,1517.85,15.03,101.01,0.81,1.4,0
+warszawa,adana,3104.14,27.68,112.13,0.81,112.06,0
+warszawa,birmingham,1870.3,13.84,135.12,0.81,0.19,0
+warszawa,köln,1131.75,7.66,147.69,0.81,1.04,"10 Std., 15 Min."
+warszawa,amsterdam,1209.2,8.49,142.37,0.81,0.81,"11 Std., 59 Min."
+warszawa,porto,3338.49,20.8,160.48,0.81,0.45,0
+warszawa,marseille,2023.73,15.86,127.59,0.81,0.64,"20 Std., 57 Min."
+warszawa,lille,1423.55,10.27,138.66,0.81,0.94,"13 Std., 30 Min."
+warszawa,gaziantep,3499.64,29.52,118.55,0.81,23.61,0
+warszawa,sevilla,3421.94,19.24,177.87,0.81,0.73,0
+warszawa,torino,1643.02,12.42,132.27,0.81,1.27,0
+warszawa,konya,2733.15,24.1,113.42,0.81,0.73,0
+warszawa,kraków,298.21,2.18,137.05,0.81,0.8,"2 Std., 18 Min."
+warszawa,Den haag,1937.85,13.09,148.03,0.81,9.47,"12 Std., 36 Min."
+warszawa,bilbao,2682.03,16.5,162.56,0.81,0.31,"29 Std., 21 Min."
+warszawa,leeds,1980.57,14.73,134.43,0.81,0.18,0
+warszawa,frankfurt am main,1042.84,7.46,139.74,0.81,1.47,"9 Std., 44 Min."
+warszawa,zagreb,1021.38,9.17,111.43,0.81,1.2,"16 Std., 2 Min."
+warszawa,bordeaux,2162.5,12.57,171.98,0.81,2.37,"20 Std., 58 Min."
+warszawa,toulouse,2245.72,16.87,133.13,0.81,1.06,"22 Std., 20 Min."
+warszawa,göteborg,1633.18,11.33,144.2,0.81,0.46,"17 Std., 20 Min."
+warszawa,zürich,1388.11,13.12,105.81,0.81,0.1,14 Std.
+warszawa,oslo,1969.3,13.41,146.82,0.81,0.12,0
+warszawa,antalya,2651.33,24.99,106.1,0.81,136.87,0
+warszawa,zaragoza,2667.83,16.48,161.84,0.81,1.58,"28 Std., 42 Min."
+warszawa,helsinki,1233.3,11.23,109.78,0.81,74.83,0
+warszawa,wroclaw,376.14,3.24,115.92,0.81,0.1,"3 Std., 31 Min."
+warszawa,lodz,135.47,1.04,130.1,0.81,0.2,"1 Std., 6 Min."
+warszawa,stuttgart,1166.42,8.14,143.33,0.81,0.3,"11 Std., 38 Min."
+warszawa,palermo,2220.89,15.12,146.86,0.81,269.19,"33 Std., 54 Min."
+warszawa,düsseldorf,1108.57,7.66,144.8,0.81,1.13,"10 Std., 7 Min."
+warszawa,glasgow,2328.63,19.33,120.47,0.81,0.45,0
+warszawa,leipzig,677.65,5.39,125.66,0.81,0.9,"7 Std., 15 Min."
+warszawa,RIGA-,787.49,7.17,109.76,0.81,0.37,0
+warszawa,diyarbakir,3530.41,29.78,118.56,0.81,2.73,"84 Std., 27 Min."
+warszawa,dortmund,1037.84,6.94,149.47,0.81,0.4,"9 Std., 10 Min."
+warszawa,málaga,3355.21,19.09,175.75,0.81,92.61,0
+warszawa,vilnius,535.97,4.87,110.09,0.81,2.03,0
+warszawa,essen,1072.85,7.28,147.3,0.81,0.62,"9 Std., 35 Min."
+warszawa,sheffield,1942.08,14.6,133.0,0.81,0.41,0
+warszawa,kayseri,2981.48,26.66,111.83,0.81,0.36,"75 Std., 3 Min."
+warszawa,bremen,913.65,6.91,132.16,0.81,0.91,"8 Std., 39 Min."
+warszawa,dresden,635.88,5.41,117.52,0.81,1.12,"7 Std., 27 Min."
+warszawa,genova,1631.04,12.77,127.69,0.81,0.43,"21 Std., 18 Min."
+warszawa,københavn,1304.19,9.48,137.59,0.81,0.18,"12 Std., 38 Min."
+warszawa,manchester,1981.27,14.44,137.25,0.81,0.6,0
+warszawa,poznan,312.37,2.17,144.17,0.81,1.07,"2 Std., 18 Min."
+warszawa,hannover,834.8,5.66,147.37,0.81,0.96,7 Std.
+warszawa,antwerpen,1291.4,9.16,141.04,0.81,1.48,"13 Std., 30 Min."
+warszawa,bradford,2000.3,14.96,133.75,0.81,0.35,0
+warszawa,nürnberg,979.44,6.68,146.63,0.81,1.0,"8 Std., 57 Min."
+warszawa,edinburgh,2313.17,17.84,129.63,0.81,0.14,"20 Std., 43 Min."
+warszawa,duisburg,1091.03,7.4,147.49,0.81,0.87,"9 Std., 48 Min."
+vienna,budapest,361.21,3.68,98.09,1.09,1.1,"2 Std., 20 Min."
+vienna,stockholm,2100.42,15.1,139.07,1.09,0.45,0
+vienna,munich,419.29,2.88,145.58,1.09,0.52,"3 Std., 58 Min."
+vienna,valencia,2157.2,14.31,150.73,1.09,0.86,0
+vienna,bursa,2178.82,19.86,109.74,1.09,66.98,0
+vienna,dublin,1924.58,14.04,137.09,1.09,107.42,0
+vienna,lyon,1171.04,8.82,132.78,1.09,0.5,"12 Std., 28 Min."
+vienna,prague,350.64,2.9,121.09,1.09,0.91,4 Std.
+vienna,brussels,1130.31,7.04,160.48,1.09,1.08,"10 Std., 22 Min."
+vienna,rotterdam,1151.27,7.42,155.13,1.09,0.45,"11 Std., 42 Min."
+vienna,sofia,1034.37,10.11,102.3,1.09,1.4,0
+vienna,adana,2695.8,22.94,117.54,1.09,112.06,"74 Std., 3 Min."
+vienna,birmingham,1685.21,11.56,145.82,1.09,0.19,0
+vienna,köln,913.7,5.77,158.38,1.09,1.04,"7 Std., 52 Min."
+vienna,amsterdam,1163.81,7.66,151.96,1.09,0.81,"11 Std., 16 Min."
+vienna,porto,2932.89,21.25,138.04,1.09,0.45,0
+vienna,marseille,1367.09,10.74,127.35,1.09,0.64,"14 Std., 17 Min."
+vienna,lille,1236.8,7.99,154.78,1.09,0.94,"11 Std., 17 Min."
+vienna,gaziantep,3091.3,24.77,124.79,1.09,23.61,0
+vienna,sevilla,2884.7,16.12,178.95,1.09,0.73,"33 Std., 29 Min."
+vienna,torino,986.38,7.3,135.18,1.09,1.27,"11 Std., 2 Min."
+vienna,konya,2324.81,19.35,120.16,1.09,0.73,0
+vienna,kraków,422.16,4.05,104.31,1.09,0.8,"5 Std., 12 Min."
+vienna,Den haag,1621.96,9.53,170.26,1.09,9.47,0
+vienna,bilbao,2276.43,16.94,134.37,1.09,0.31,"22 Std., 6 Min."
+vienna,leeds,1795.48,12.45,144.24,1.09,0.18,0
+vienna,frankfurt am main,734.27,4.97,147.81,1.09,1.47,"6 Std., 23 Min."
+vienna,zagreb,367.92,3.42,107.48,1.09,1.2,"6 Std., 22 Min."
+vienna,bordeaux,1756.92,13.01,135.03,1.09,2.37,"12 Std., 22 Min."
+vienna,toulouse,1716.34,12.05,142.41,1.09,1.06,"15 Std., 24 Min."
+vienna,göteborg,1799.61,13.52,133.13,1.09,0.46,"20 Std., 7 Min."
+vienna,zürich,744.56,5.39,138.18,1.09,0.1,"7 Std., 52 Min."
+vienna,oslo,2135.73,15.6,136.87,1.09,0.12,0
+vienna,antalya,2242.99,20.24,110.81,1.09,136.87,0
+vienna,zaragoza,2130.58,13.37,159.39,1.09,1.58,"22 Std., 14 Min."
+vienna,helsinki,1829.99,17.41,105.11,1.09,74.83,0
+vienna,wroclaw,439.49,4.58,96.03,1.09,0.1,"5 Std., 15 Min."
+vienna,lodz,561.81,5.35,104.92,1.09,0.2,"7 Std., 58 Min."
+vienna,stuttgart,657.53,4.33,151.71,1.09,0.3,"6 Std., 15 Min."
+vienna,palermo,1564.25,10.0,156.48,1.09,269.19,"23 Std., 44 Min."
+vienna,düsseldorf,946.92,5.96,158.98,1.09,1.13,"8 Std., 19 Min."
+vienna,glasgow,2143.53,17.04,125.76,1.09,0.45,0
+vienna,leipzig,651.95,6.17,105.68,1.09,0.9,"6 Std., 57 Min."
+vienna,RIGA-,1384.17,13.35,103.68,1.09,0.37,0
+vienna,diyarbakir,3122.07,25.03,124.74,1.09,2.73,"80 Std., 29 Min."
+vienna,dortmund,969.47,7.16,135.36,1.09,0.4,"9 Std., 3 Min."
+vienna,málaga,2817.96,15.97,176.42,1.09,92.61,"34 Std., 1 Min."
+vienna,vilnius,1150.29,9.46,121.55,1.09,2.03,0
+vienna,essen,981.21,6.33,155.04,1.09,0.62,"8 Std., 45 Min."
+vienna,sheffield,1756.99,12.32,142.66,1.09,0.41,0
+vienna,kayseri,2573.14,21.91,117.42,1.09,0.36,"61 Std., 23 Min."
+vienna,bremen,1019.6,8.63,118.19,1.09,0.91,"8 Std., 37 Min."
+vienna,dresden,539.61,4.82,112.04,1.09,1.12,"6 Std., 40 Min."
+vienna,genova,974.41,7.65,127.41,1.09,0.43,"11 Std., 40 Min."
+vienna,københavn,1470.62,11.67,126.02,1.09,0.18,"14 Std., 25 Min."
+vienna,manchester,1796.18,12.15,147.84,1.09,0.6,0
+vienna,poznan,604.19,5.66,106.73,1.09,1.07,"8 Std., 13 Min."
+vienna,hannover,901.04,8.09,111.35,1.09,0.96,"7 Std., 18 Min."
+vienna,antwerpen,1137.26,7.52,151.31,1.09,1.48,"10 Std., 53 Min."
+vienna,bradford,1815.21,12.67,143.27,1.09,0.35,0
+vienna,nürnberg,512.3,3.5,146.19,1.09,1.0,"4 Std., 14 Min."
+vienna,edinburgh,2128.08,15.56,136.78,1.09,0.14,0
+vienna,duisburg,969.67,6.11,158.75,1.09,0.87,"8 Std., 32 Min."
+budapest,stockholm,2432.0,18.65,130.42,1.1,0.45,0
+budapest,munich,773.68,6.43,120.23,1.1,0.52,"6 Std., 36 Min."
+budapest,valencia,2346.5,16.56,141.72,1.1,0.86,"37 Std., 10 Min."
+budapest,bursa,2015.29,17.97,112.17,1.1,66.98,0
+budapest,dublin,2278.97,17.59,129.53,1.1,107.42,0
+budapest,lyon,1429.55,11.66,122.58,1.1,0.5,"14 Std., 40 Min."
+budapest,prague,709.51,6.38,111.22,1.1,0.91,"6 Std., 44 Min."
+budapest,brussels,1484.7,10.6,140.09,1.1,1.08,"13 Std., 52 Min."
+budapest,rotterdam,1505.66,10.98,137.18,1.1,0.45,"15 Std., 7 Min."
+budapest,sofia,870.84,8.22,105.92,1.1,1.4,0
+budapest,adana,2532.26,21.05,120.32,1.1,112.06,"68 Std., 33 Min."
+budapest,birmingham,2039.6,15.11,134.97,1.1,0.19,0
+budapest,köln,1268.09,9.32,136.01,1.1,1.04,"11 Std., 10 Min."
+budapest,amsterdam,1518.2,11.21,135.39,1.1,0.81,"14 Std., 49 Min."
+budapest,porto,3200.24,23.54,135.96,1.1,0.45,0
+budapest,marseille,1508.2,12.59,119.78,1.1,0.64,"18 Std., 36 Min."
+budapest,lille,1591.19,11.55,137.82,1.1,0.94,"13 Std., 53 Min."
+budapest,gaziantep,2927.76,22.88,127.95,1.1,23.61,0
+budapest,sevilla,3074.0,18.37,167.37,1.1,0.73,0
+budapest,torino,1127.49,9.15,123.19,1.1,1.27,"13 Std., 35 Min."
+budapest,konya,2161.28,17.46,123.8,1.1,0.73,0
+budapest,kraków,711.7,7.22,98.56,1.1,0.8,"8 Std., 42 Min."
+budapest,Den haag,1976.35,13.08,151.08,1.1,9.47,"15 Std., 11 Min."
+budapest,bilbao,2543.78,19.23,132.26,1.1,0.31,0
+budapest,leeds,2149.87,16.0,134.34,1.1,0.18,"18 Std., 36 Min."
+budapest,frankfurt am main,1088.66,8.52,127.74,1.1,1.47,"9 Std., 41 Min."
+budapest,zagreb,349.44,3.19,109.53,1.1,1.2,"8 Std., 51 Min."
+budapest,bordeaux,2048.86,16.83,121.77,1.1,2.37,"14 Std., 55 Min."
+budapest,toulouse,1905.64,14.3,133.28,1.1,1.06,0
+budapest,göteborg,2131.18,17.06,124.9,1.1,0.46,"23 Std., 25 Min."
+budapest,zürich,1097.31,9.13,120.14,1.1,0.1,"10 Std., 32 Min."
+budapest,oslo,2467.31,19.15,128.85,1.1,0.12,0
+budapest,antalya,2079.46,18.35,113.31,1.1,136.87,0
+budapest,zaragoza,2319.88,15.61,148.59,1.1,1.58,"25 Std., 2 Min."
+budapest,helsinki,2147.3,21.08,101.85,1.1,74.83,0
+budapest,wroclaw,756.81,8.25,91.74,1.1,0.1,"8 Std., 45 Min."
+budapest,lodz,879.12,9.03,97.38,1.1,0.2,"11 Std., 13 Min."
+budapest,stuttgart,1011.92,7.89,128.27,1.1,0.3,"8 Std., 48 Min."
+budapest,palermo,1703.79,11.75,145.03,1.1,269.19,0
+budapest,düsseldorf,1301.31,9.51,136.82,1.1,1.13,"11 Std., 41 Min."
+budapest,glasgow,2497.92,20.6,121.26,1.1,0.45,"21 Std., 58 Min."
+budapest,leipzig,988.35,9.22,107.21,1.1,0.9,"10 Std., 7 Min."
+budapest,RIGA-,1701.49,17.02,99.95,1.1,0.37,0
+budapest,diyarbakir,2958.53,23.14,127.86,1.1,2.73,"65 Std., 17 Min."
+budapest,dortmund,1323.86,10.72,123.53,1.1,0.4,"12 Std., 32 Min."
+budapest,málaga,3007.26,18.22,165.06,1.1,92.61,0
+budapest,vilnius,1467.6,13.14,111.72,1.1,2.03,0
+budapest,essen,1335.6,9.88,135.13,1.1,0.62,"12 Std., 7 Min."
+budapest,sheffield,2111.38,15.87,133.03,1.1,0.41,"18 Std., 5 Min."
+budapest,kayseri,2409.6,20.02,120.34,1.1,0.36,"55 Std., 53 Min."
+budapest,bremen,1351.17,12.17,111.01,1.1,0.91,"11 Std., 55 Min."
+budapest,dresden,871.19,8.36,104.19,1.1,1.12,"9 Std., 20 Min."
+budapest,genova,1115.52,9.5,117.38,1.1,0.43,"14 Std., 13 Min."
+budapest,københavn,1802.2,15.21,118.45,1.1,0.18,"18 Std., 9 Min."
+budapest,manchester,2150.57,15.7,136.94,1.1,0.6,0
+budapest,poznan,921.51,9.33,98.73,1.1,1.07,"11 Std., 46 Min."
+budapest,hannover,1233.04,11.46,107.56,1.1,0.96,"10 Std., 36 Min."
+budapest,antwerpen,1491.65,11.07,134.74,1.1,1.48,"14 Std., 32 Min."
+budapest,bradford,2169.6,16.22,133.73,1.1,0.35,"20 Std., 19 Min."
+budapest,nürnberg,866.69,7.06,122.78,1.1,1.0,"7 Std., 32 Min."
+budapest,edinburgh,2482.47,19.11,129.88,1.1,0.14,"22 Std., 10 Min."
+budapest,duisburg,1324.06,9.66,137.02,1.1,0.87,"11 Std., 54 Min."
+stockholm,munich,1884.02,12.26,153.63,0.45,0.52,0
+stockholm,valencia,3281.97,21.1,155.52,0.45,0.86,"45 Std., 38 Min."
+stockholm,bursa,4219.44,35.08,120.29,0.45,66.98,0
+stockholm,dublin,2508.37,17.72,141.58,0.45,107.42,0
+stockholm,lyon,2295.8,15.61,147.07,0.45,0.5,"22 Std., 32 Min."
+stockholm,prague,1778.14,11.81,150.51,0.45,0.91,"18 Std., 59 Min."
+stockholm,brussels,1721.51,11.07,155.53,0.45,1.08,"19 Std., 11 Min."
+stockholm,rotterdam,1632.5,10.27,158.91,0.45,0.45,"18 Std., 1 Min."
+stockholm,sofia,3074.99,25.33,121.39,0.45,1.4,0
+stockholm,adana,4736.42,38.16,124.13,0.45,112.06,0
+stockholm,birmingham,2269.0,15.23,148.94,0.45,0.19,0
+stockholm,köln,1554.56,9.99,155.58,0.45,1.04,"16 Std., 25 Min."
+stockholm,amsterdam,1601.14,10.09,158.73,0.45,0.81,"17 Std., 35 Min."
+stockholm,porto,3744.86,23.3,160.73,0.45,0.45,0
+stockholm,marseille,2612.53,17.29,151.11,0.45,0.64,0
+stockholm,lille,1822.25,11.66,156.3,0.45,0.94,0
+stockholm,gaziantep,5131.92,39.99,128.32,0.45,23.61,0
+stockholm,sevilla,3848.94,21.93,175.51,0.45,0.73,0
+stockholm,torino,2373.21,14.98,158.43,0.45,1.27,0
+stockholm,konya,4365.43,34.57,126.28,0.45,0.73,0
+stockholm,kraków,1992.81,13.48,147.81,0.45,0.8,"21 Std., 45 Min."
+stockholm,Den haag,2342.9,14.76,158.72,0.45,9.47,"17 Std., 57 Min."
+stockholm,bilbao,3088.4,18.99,162.6,0.45,0.31,"33 Std., 56 Min."
+stockholm,leeds,2379.27,16.13,147.54,0.45,0.18,0
+stockholm,frankfurt am main,1632.42,9.83,166.15,0.45,1.47,"15 Std., 36 Min."
+stockholm,zagreb,2421.21,17.66,137.12,0.45,1.2,0
+stockholm,bordeaux,2568.87,15.07,170.46,0.45,2.37,"22 Std., 47 Min."
+stockholm,toulouse,2734.1,18.28,149.56,0.45,1.06,"25 Std., 17 Min."
+stockholm,göteborg,452.62,2.44,185.83,0.45,0.46,"3 Std., 18 Min."
+stockholm,zürich,2042.09,12.66,161.25,0.45,0.1,"20 Std., 2 Min."
+stockholm,oslo,691.65,4.07,169.86,0.45,0.12,"5 Std., 30 Min."
+stockholm,antalya,4283.61,35.46,120.8,0.45,136.87,0
+stockholm,zaragoza,3137.61,19.31,162.51,0.45,1.58,"35 Std., 17 Min."
+stockholm,helsinki,2759.9,22.77,121.23,0.45,74.83,0
+stockholm,wroclaw,1736.47,11.33,153.31,0.45,0.1,"18 Std., 28 Min."
+stockholm,lodz,1871.5,12.55,149.09,0.45,0.2,"20 Std., 53 Min."
+stockholm,stuttgart,1804.53,11.33,159.32,0.45,0.3,"17 Std., 27 Min."
+stockholm,palermo,3219.67,19.5,165.15,0.45,269.19,0
+stockholm,düsseldorf,1520.43,9.24,164.59,0.45,1.13,"16 Std., 1 Min."
+stockholm,glasgow,2727.33,20.72,131.61,0.45,0.45,"28 Std., 30 Min."
+stockholm,leipzig,1498.0,9.7,154.47,0.45,0.9,"15 Std., 18 Min."
+stockholm,RIGA-,2314.08,18.71,123.7,0.45,0.37,0
+stockholm,diyarbakir,5162.69,40.25,128.27,0.45,2.73,0
+stockholm,dortmund,1460.65,9.27,157.52,0.45,0.4,"15 Std., 8 Min."
+stockholm,málaga,3782.21,21.78,173.64,0.45,92.61,0
+stockholm,vilnius,2240.9,17.79,125.98,0.45,2.03,0
+stockholm,essen,1487.98,8.96,166.14,0.45,0.62,"15 Std., 34 Min."
+stockholm,sheffield,2340.78,15.99,146.35,0.45,0.41,0
+stockholm,kayseri,4613.76,37.13,124.25,0.45,0.36,0
+stockholm,bremen,1249.73,7.45,167.71,0.45,0.91,"11 Std., 59 Min."
+stockholm,dresden,1586.92,10.22,155.27,0.45,1.12,"16 Std., 5 Min."
+stockholm,genova,2412.24,15.38,156.82,0.45,0.43,0
+stockholm,københavn,636.97,3.55,179.66,0.45,0.18,"5 Std., 8 Min."
+stockholm,manchester,2379.97,15.83,150.37,0.45,0.6,"25 Std., 20 Min."
+stockholm,poznan,1622.3,10.78,150.52,0.45,1.07,"18 Std., 6 Min."
+stockholm,hannover,1299.38,8.12,160.1,0.45,0.96,"13 Std., 13 Min."
+stockholm,antwerpen,1686.01,10.49,160.66,0.45,1.48,"19 Std., 6 Min."
+stockholm,bradford,2399.0,16.35,146.75,0.45,0.35,0
+stockholm,nürnberg,1711.18,11.39,150.19,0.45,1.0,"16 Std., 36 Min."
+stockholm,edinburgh,2711.87,19.24,140.97,0.45,0.14,0
+stockholm,duisburg,1496.12,9.06,165.05,0.45,0.87,"15 Std., 47 Min."
+munich,valencia,1737.92,11.43,151.98,0.52,0.86,"18 Std., 35 Min."
+munich,bursa,2518.16,24.32,103.56,0.52,66.98,0
+munich,dublin,1556.92,12.78,121.79,0.52,107.42,0
+munich,lyon,751.75,5.94,126.51,0.52,0.5,"7 Std., 49 Min."
+munich,prague,418.39,4.68,89.46,0.52,0.91,"5 Std., 38 Min."
+munich,brussels,789.69,5.48,144.04,0.52,1.08,"6 Std., 45 Min."
+munich,rotterdam,811.81,4.79,169.63,0.52,0.45,"7 Std., 12 Min."
+munich,sofia,1373.71,14.57,94.27,0.52,1.4,0
+munich,adana,3035.14,27.4,110.78,0.52,112.06,"76 Std., 21 Min."
+munich,birmingham,1317.55,10.3,127.9,0.52,0.19,"10 Std., 10 Min."
+munich,köln,574.24,3.13,183.27,0.52,1.04,"3 Std., 57 Min."
+munich,amsterdam,824.36,5.02,164.12,0.52,0.81,"7 Std., 1 Min."
+munich,porto,2513.6,18.37,136.83,0.52,0.45,"33 Std., 16 Min."
+munich,marseille,1052.33,9.11,115.46,0.52,0.64,"10 Std., 7 Min."
+munich,lille,869.14,6.74,129.0,0.52,0.94,"7 Std., 2 Min."
+munich,gaziantep,3430.64,29.23,117.35,0.52,23.61,0
+munich,sevilla,2465.41,13.24,186.16,0.52,0.73,"28 Std., 33 Min."
+munich,torino,661.74,5.29,125.11,0.52,1.27,"7 Std., 56 Min."
+munich,konya,2664.15,23.81,111.89,0.52,0.73,0
+munich,kraków,841.42,6.93,121.47,0.52,0.8,"9 Std., 37 Min."
+munich,Den haag,1202.68,6.65,180.87,0.52,9.47,"7 Std., 23 Min."
+munich,bilbao,1857.15,14.06,132.04,0.52,0.31,"15 Std., 22 Min."
+munich,leeds,1427.82,11.19,127.57,0.52,0.18,"11 Std., 17 Min."
+munich,frankfurt am main,394.81,2.33,169.31,0.52,1.47,"3 Std., 6 Min."
+munich,zagreb,566.82,5.16,109.84,0.52,1.2,"10 Std., 3 Min."
+munich,bordeaux,1337.63,10.13,132.0,0.52,2.37,"8 Std., 4 Min."
+munich,toulouse,1297.05,9.17,141.37,0.52,1.06,"10 Std., 55 Min."
+munich,göteborg,1583.2,10.65,148.63,0.52,0.46,"14 Std., 53 Min."
+munich,zürich,325.27,2.51,129.54,0.52,0.1,"3 Std., 32 Min."
+munich,oslo,1919.32,12.74,150.67,0.52,0.12,"19 Std., 35 Min."
+munich,antalya,2582.33,24.7,104.54,0.52,136.87,0
+munich,zaragoza,1711.3,10.49,163.14,0.52,1.58,"16 Std., 43 Min."
+munich,helsinki,2065.55,16.73,123.5,0.52,74.83,0
+munich,wroclaw,721.31,8.54,84.51,0.52,0.1,"8 Std., 52 Min."
+munich,lodz,970.65,10.76,90.24,0.52,0.2,"10 Std., 29 Min."
+munich,stuttgart,238.25,1.46,163.51,0.52,0.3,"1 Std., 56 Min."
+munich,palermo,1363.32,8.46,161.1,0.52,269.19,"21 Std., 49 Min."
+munich,düsseldorf,607.46,3.32,182.94,0.52,1.13,"4 Std., 18 Min."
+munich,glasgow,1775.88,15.79,112.48,0.52,0.45,"13 Std., 20 Min."
+munich,leipzig,472.85,4.24,111.55,0.52,0.9,"2 Std., 52 Min."
+munich,RIGA-,1619.73,12.67,127.88,0.52,0.37,0
+munich,diyarbakir,3461.41,29.49,117.37,0.52,2.73,"88 Std., 59 Min."
+munich,dortmund,630.02,4.53,139.18,0.52,0.4,"5 Std., 28 Min."
+munich,málaga,2398.68,13.1,183.16,0.52,92.61,0
+munich,vilnius,1546.55,11.75,131.66,0.52,2.03,0
+munich,essen,641.75,3.69,173.77,0.52,0.62,"5 Std., 10 Min."
+munich,sheffield,1389.33,11.06,125.61,0.52,0.41,"11 Std., 5 Min."
+munich,kayseri,2912.48,26.37,110.43,0.52,0.36,"63 Std., 40 Min."
+munich,bremen,717.5,4.17,172.13,0.52,0.91,"5 Std., 28 Min."
+munich,dresden,541.1,5.51,98.2,0.52,1.12,"4 Std., 42 Min."
+munich,genova,693.65,5.41,128.3,0.52,0.43,"8 Std., 35 Min."
+munich,københavn,1254.21,8.8,142.45,0.52,0.18,"10 Std., 50 Min."
+munich,manchester,1428.52,10.89,131.13,0.52,0.6,"11 Std., 6 Min."
+munich,poznan,836.79,7.36,113.65,0.52,1.07,"7 Std., 36 Min."
+munich,hannover,595.39,3.36,177.13,0.52,0.96,"4 Std., 12 Min."
+munich,antwerpen,796.64,5.95,133.78,0.52,1.48,"7 Std., 19 Min."
+munich,bradford,1447.55,11.41,126.82,0.52,0.35,"11 Std., 38 Min."
+munich,nürnberg,172.84,0.87,198.98,0.52,1.0,"1 Std., 2 Min."
+munich,edinburgh,1760.42,14.3,123.08,0.52,0.14,"13 Std., 20 Min."
+munich,duisburg,630.21,3.47,181.49,0.52,0.87,"4 Std., 54 Min."
+valencia,bursa,3972.82,32.86,120.89,0.86,66.98,0
+valencia,dublin,2295.39,15.09,152.13,0.86,107.42,0
+valencia,lyon,987.55,5.51,179.35,0.86,0.5,"10 Std., 11 Min."
+valencia,prague,2122.1,14.59,145.48,0.86,0.91,"30 Std., 57 Min."
+valencia,brussels,1725.37,10.9,158.28,0.86,1.08,"21 Std., 22 Min."
+valencia,rotterdam,1857.38,11.91,155.94,0.86,0.45,"22 Std., 37 Min."
+valencia,sofia,2828.37,23.12,122.35,0.86,1.4,0
+valencia,adana,4489.79,35.94,124.92,0.86,112.06,0
+valencia,birmingham,2056.02,12.61,163.11,0.86,0.19,"24 Std., 2 Min."
+valencia,köln,1735.79,11.23,154.61,0.86,1.04,0
+valencia,amsterdam,1906.83,12.91,147.76,0.86,0.81,"23 Std., 25 Min."
+valencia,porto,1061.35,5.44,195.0,0.86,0.45,"9 Std., 51 Min."
+valencia,marseille,856.3,4.82,177.61,0.86,0.64,"10 Std., 7 Min."
+valencia,lille,1634.46,7.9,206.99,0.86,0.94,"21 Std., 33 Min."
+valencia,gaziantep,4885.29,37.78,129.31,0.86,23.61,0
+valencia,sevilla,758.98,4.75,159.71,0.86,0.73,"4 Std., 26 Min."
+valencia,torino,1224.54,7.5,163.2,0.86,1.27,"26 Std., 5 Min."
+valencia,konya,4118.8,32.35,127.3,0.86,0.73,0
+valencia,kraków,2587.01,18.45,140.25,0.86,0.8,0
+valencia,Den haag,1634.96,10.12,161.6,0.86,9.47,"23 Std., 6 Min."
+valencia,bilbao,693.31,4.77,145.49,0.86,0.31,"6 Std., 54 Min."
+valencia,leeds,2166.29,13.5,160.5,0.86,0.18,"24 Std., 51 Min."
+valencia,frankfurt am main,1653.33,10.01,165.13,0.86,1.47,"23 Std., 34 Min."
+valencia,zagreb,2021.48,13.71,147.49,0.86,1.2,"40 Std., 38 Min."
+valencia,bordeaux,921.61,6.45,142.88,0.86,2.37,"12 Std., 29 Min."
+valencia,toulouse,735.68,4.16,176.76,0.86,1.06,"9 Std., 16 Min."
+valencia,göteborg,2981.15,19.48,153.03,0.86,0.46,0
+valencia,zürich,1422.12,9.02,157.7,0.86,0.1,"23 Std., 3 Min."
+valencia,oslo,3317.28,21.57,153.81,0.86,0.12,"50 Std., 20 Min."
+valencia,antalya,4036.99,33.25,121.42,0.86,136.87,0
+valencia,zaragoza,361.88,2.32,156.14,0.86,1.58,"3 Std., 40 Min."
+valencia,helsinki,3607.73,26.6,135.63,0.86,74.83,0
+valencia,wroclaw,2373.11,15.41,154.02,0.86,0.1,0
+valencia,lodz,2593.97,17.8,145.76,0.86,0.2,0
+valencia,stuttgart,1603.57,10.12,158.39,0.86,0.3,0
+valencia,palermo,2220.35,13.85,160.28,0.86,269.19,"45 Std., 57 Min."
+valencia,düsseldorf,1771.83,11.54,153.48,0.86,1.13,"25 Std., 11 Min."
+valencia,glasgow,2514.35,18.09,138.97,0.86,0.45,"27 Std., 37 Min."
+valencia,leipzig,2021.95,12.58,160.72,0.86,0.9,"26 Std., 59 Min."
+valencia,RIGA-,3161.92,22.54,140.27,0.86,0.37,0
+valencia,diyarbakir,4916.06,38.04,129.25,0.86,2.73,0
+valencia,dortmund,1830.38,12.09,151.4,0.86,0.4,"25 Std., 56 Min."
+valencia,málaga,689.98,4.58,150.52,0.86,92.61,"5 Std., 3 Min."
+valencia,vilnius,3088.73,21.62,142.85,0.86,2.03,0
+valencia,essen,1806.12,11.92,151.56,0.86,0.62,0
+valencia,sheffield,2127.8,13.37,159.21,0.86,0.41,"25 Std., 23 Min."
+valencia,kayseri,4367.13,34.92,125.06,0.86,0.36,0
+valencia,bremen,2056.81,13.4,153.5,0.86,0.91,"27 Std., 50 Min."
+valencia,dresden,2138.14,13.41,159.43,0.86,1.12,"28 Std., 14 Min."
+valencia,genova,1256.35,7.96,157.76,0.86,0.43,"25 Std., 3 Min."
+valencia,københavn,2652.16,17.63,150.4,0.86,0.18,"34 Std., 13 Min."
+valencia,manchester,2166.99,13.2,164.19,0.86,0.6,"24 Std., 40 Min."
+valencia,poznan,2384.15,15.2,156.83,0.86,1.07,0
+valencia,hannover,1984.66,11.67,170.08,0.86,0.96,"26 Std., 31 Min."
+valencia,antwerpen,1763.94,11.17,157.86,0.86,1.48,"22 Std., 2 Min."
+valencia,bradford,2186.02,13.72,159.35,0.86,0.35,"25 Std., 13 Min."
+valencia,nürnberg,1771.26,11.22,157.93,0.86,1.0,"25 Std., 55 Min."
+valencia,edinburgh,2498.89,16.61,150.47,0.86,0.14,"27 Std., 1 Min."
+valencia,duisburg,1794.58,11.7,153.44,0.86,0.87,"25 Std., 24 Min."
+bursa,dublin,4070.49,35.45,114.83,66.98,107.42,0
+bursa,lyon,3055.5,27.93,109.4,66.98,0.5,0
+bursa,prague,2517.17,23.17,108.65,66.98,0.91,0
+bursa,brussels,3276.22,28.45,115.15,66.98,1.08,0
+bursa,rotterdam,3297.18,28.83,114.37,66.98,0.45,0
+bursa,sofia,1148.48,9.73,117.98,66.98,1.4,0
+bursa,adana,936.57,6.96,134.5,66.98,112.06,0
+bursa,birmingham,3831.11,32.96,116.22,66.98,0.19,0
+bursa,köln,3059.61,27.18,112.58,66.98,1.04,0
+bursa,amsterdam,3309.72,29.07,113.87,66.98,0.81,0
+bursa,porto,4826.19,39.81,121.24,66.98,0.45,0
+bursa,marseille,3134.15,28.86,108.61,66.98,0.64,0
+bursa,lille,3382.71,29.4,115.06,66.98,0.94,0
+bursa,gaziantep,1332.07,8.8,151.37,66.98,23.61,0
+bursa,sevilla,4699.94,34.63,135.71,66.98,0.73,0
+bursa,torino,2753.44,25.42,108.32,66.98,1.27,0
+bursa,konya,565.58,3.38,167.55,66.98,0.73,0
+bursa,kraków,2391.54,23.4,102.18,66.98,0.8,0
+bursa,Den haag,3720.48,30.93,120.29,66.98,9.47,0
+bursa,bilbao,4169.73,35.5,117.46,66.98,0.31,0
+bursa,leeds,3941.39,33.86,116.42,66.98,0.18,0
+bursa,frankfurt am main,2880.18,26.38,109.2,66.98,1.47,0
+bursa,zagreb,1950.99,19.12,102.03,66.98,1.2,0
+bursa,bordeaux,3674.81,33.09,111.05,66.98,2.37,0
+bursa,toulouse,3531.59,30.56,115.55,66.98,1.06,0
+bursa,göteborg,3918.27,33.43,117.21,66.98,0.46,0
+bursa,zürich,2756.93,26.25,105.02,66.98,0.1,0
+bursa,oslo,4254.4,35.52,119.79,66.98,0.12,0
+bursa,antalya,350.95,3.14,111.77,66.98,136.87,0
+bursa,zaragoza,3945.83,31.88,123.77,66.98,1.58,0
+bursa,helsinki,3683.94,34.74,106.04,66.98,74.83,0
+bursa,wroclaw,2486.22,23.33,106.56,66.98,0.1,0
+bursa,lodz,2585.86,25.06,103.18,66.98,0.2,0
+bursa,stuttgart,2756.06,25.74,107.09,66.98,0.3,0
+bursa,palermo,3329.74,28.01,118.86,66.98,269.19,0
+bursa,düsseldorf,3092.83,27.36,113.02,66.98,1.13,0
+bursa,glasgow,4289.44,38.45,111.55,66.98,0.45,0
+bursa,leipzig,2775.44,25.59,108.47,66.98,0.9,0
+bursa,RIGA-,3238.13,30.68,105.54,66.98,0.37,0
+bursa,diyarbakir,1362.84,9.06,150.48,66.98,2.73,0
+bursa,dortmund,3115.38,28.57,109.04,66.98,0.4,0
+bursa,málaga,4633.21,34.49,134.35,66.98,92.61,0
+bursa,vilnius,2979.24,27.73,107.45,66.98,2.03,0
+bursa,essen,3127.12,27.74,112.74,66.98,0.62,0
+bursa,sheffield,3902.9,33.72,115.73,66.98,0.41,0
+bursa,kayseri,813.91,5.94,137.0,66.98,0.36,0
+bursa,bremen,3138.26,28.54,109.96,66.98,0.91,0
+bursa,dresden,2658.28,24.73,107.5,66.98,1.12,0
+bursa,genova,2741.46,25.77,106.38,66.98,0.43,0
+bursa,københavn,3589.29,31.58,113.65,66.98,0.18,0
+bursa,manchester,3942.09,33.56,117.47,66.98,0.6,0
+bursa,poznan,2648.26,24.87,106.47,66.98,1.07,0
+bursa,hannover,3020.13,27.83,108.51,66.98,0.96,0
+bursa,antwerpen,3283.17,28.92,113.51,66.98,1.48,0
+bursa,bradford,3961.12,34.08,116.24,66.98,0.35,0
+bursa,nürnberg,2658.2,24.91,106.7,66.98,1.0,0
+bursa,edinburgh,4273.99,36.97,115.62,66.98,0.14,0
+bursa,duisburg,3115.57,27.52,113.23,66.98,0.87,0
+dublin,lyon,1309.23,9.56,136.94,107.42,0.5,0
+dublin,prague,1763.13,13.88,126.98,107.42,0.91,0
+dublin,brussels,796.54,6.77,117.68,107.42,1.08,0
+dublin,rotterdam,915.8,7.96,115.12,107.42,0.45,0
+dublin,sofia,2926.38,25.72,113.79,107.42,1.4,0
+dublin,adana,4587.81,38.54,119.04,107.42,112.06,0
+dublin,birmingham,255.09,3.32,76.91,107.42,0.19,0
+dublin,köln,1013.39,8.35,121.32,107.42,1.04,0
+dublin,amsterdam,985.67,8.34,118.19,107.42,0.81,0
+dublin,porto,2604.97,18.09,144.01,107.42,0.45,0
+dublin,marseille,1625.96,11.24,144.66,107.42,0.64,0
+dublin,lille,689.94,6.09,113.31,107.42,0.94,0
+dublin,gaziantep,4983.31,40.38,123.42,107.42,23.61,0
+dublin,sevilla,2709.05,16.72,162.04,107.42,0.73,0
+dublin,torino,1600.42,12.02,133.16,107.42,1.27,0
+dublin,konya,4216.82,34.95,120.64,107.42,0.73,0
+dublin,kraków,2086.1,18.79,111.04,107.42,0.8,0
+dublin,Den haag,1145.38,9.45,121.15,107.42,9.47,0
+dublin,bilbao,1948.51,13.78,141.37,107.42,0.31,0
+dublin,leeds,268.22,3.72,72.06,107.42,0.18,0
+dublin,frankfurt am main,1192.57,9.1,131.07,107.42,1.47,0
+dublin,zagreb,2122.31,16.78,126.49,107.42,1.2,0
+dublin,bordeaux,1428.98,9.86,144.94,107.42,2.37,0
+dublin,toulouse,1594.2,13.07,121.98,107.42,1.06,0
+dublin,göteborg,2207.55,16.09,137.16,107.42,0.46,0
+dublin,zürich,1405.56,11.24,125.01,107.42,0.1,0
+dublin,oslo,2543.67,18.18,139.91,107.42,0.12,0
+dublin,antalya,4135.0,35.85,115.35,107.42,136.87,0
+dublin,zaragoza,1997.72,14.1,141.72,107.42,1.58,0
+dublin,helsinki,2983.87,25.91,115.17,107.42,74.83,0
+dublin,wroclaw,1829.76,16.63,110.02,107.42,0.1,0
+dublin,lodz,2038.81,16.95,120.29,107.42,0.2,0
+dublin,stuttgart,1325.54,11.35,116.76,107.42,0.3,0
+dublin,palermo,2669.98,17.57,151.99,107.42,269.19,0
+dublin,düsseldorf,1018.74,8.94,113.99,107.42,1.13,0
+dublin,glasgow,521.78,5.74,90.93,107.42,0.45,0
+dublin,leipzig,1481.46,13.49,109.84,107.42,0.9,0
+dublin,RIGA-,2538.06,21.85,116.16,107.42,0.37,0
+dublin,diyarbakir,5014.08,40.63,123.39,107.42,2.73,0
+dublin,dortmund,1071.82,9.38,114.23,107.42,0.4,0
+dublin,málaga,2642.32,16.57,159.45,107.42,92.61,0
+dublin,vilnius,2464.87,20.93,117.77,107.42,2.03,0
+dublin,essen,1037.69,9.07,114.44,107.42,0.62,0
+dublin,sheffield,256.85,3.47,73.99,107.42,0.41,0
+dublin,kayseri,4465.15,37.52,119.01,107.42,0.36,0
+dublin,bremen,1270.53,11.0,115.51,107.42,0.91,0
+dublin,dresden,1597.64,14.32,111.57,107.42,1.12,0
+dublin,genova,1744.94,14.41,121.07,107.42,0.43,0
+dublin,københavn,1878.56,14.25,131.85,107.42,0.18,0
+dublin,manchester,201.1,2.74,73.39,107.42,0.6,0
+dublin,poznan,1799.36,14.1,127.57,107.42,1.07,0
+dublin,hannover,1278.83,10.76,118.85,107.42,0.96,0
+dublin,antwerpen,822.36,7.22,113.92,107.42,1.48,0
+dublin,bradford,288.2,3.95,72.91,107.42,0.35,0
+dublin,nürnberg,1412.28,10.51,134.33,107.42,1.0,0
+dublin,edinburgh,515.87,5.67,90.94,107.42,0.14,0
+dublin,duisburg,1019.24,8.93,114.12,107.42,0.87,0
+lyon,prague,1135.93,9.09,124.92,0.5,0.91,"13 Std., 44 Min."
+lyon,brussels,739.2,5.41,136.72,0.5,1.08,"3 Std., 35 Min."
+lyon,rotterdam,871.21,6.42,135.78,0.5,0.45,"4 Std., 58 Min."
+lyon,sofia,1911.4,18.22,104.9,0.5,1.4,0
+lyon,adana,3572.83,31.04,115.09,0.5,112.06,0
+lyon,birmingham,1069.85,7.11,150.45,0.5,0.19,"6 Std., 29 Min."
+lyon,köln,749.63,5.73,130.77,0.5,1.04,"5 Std., 41 Min."
+lyon,amsterdam,920.67,7.41,124.23,0.5,0.81,"5 Std., 46 Min."
+lyon,porto,1795.47,13.38,134.21,0.5,0.45,"28 Std., 40 Min."
+lyon,marseille,318.11,1.69,188.1,0.5,0.64,"1 Std., 39 Min."
+lyon,lille,648.29,2.4,269.89,0.5,0.94,"2 Std., 58 Min."
+lyon,gaziantep,3968.33,32.88,120.68,0.5,23.61,0
+lyon,sevilla,1715.05,7.31,234.52,0.5,0.73,"12 Std., 2 Min."
+lyon,torino,307.58,2.61,118.02,0.5,1.27,"5 Std., 37 Min."
+lyon,konya,3201.84,27.46,116.61,0.5,0.73,0
+lyon,kraków,1600.84,12.95,123.61,0.5,0.8,"20 Std., 16 Min."
+lyon,Den haag,808.08,4.14,195.07,0.5,9.47,"5 Std., 27 Min."
+lyon,bilbao,1139.01,9.07,125.54,0.5,0.31,"10 Std., 30 Min."
+lyon,leeds,1180.13,8.0,147.47,0.5,0.18,"7 Std., 21 Min."
+lyon,frankfurt am main,667.16,4.52,147.66,0.5,1.47,"5 Std., 55 Min."
+lyon,zagreb,1104.51,8.81,125.39,0.5,1.2,"20 Std., 29 Min."
+lyon,bordeaux,619.5,5.14,120.47,0.5,2.37,"4 Std., 16 Min."
+lyon,toulouse,546.69,3.24,168.5,0.5,1.06,"4 Std., 8 Min."
+lyon,göteborg,1994.98,13.99,142.63,0.5,0.46,"20 Std., 57 Min."
+lyon,zürich,435.95,3.52,123.73,0.5,0.1,"4 Std., 22 Min."
+lyon,oslo,2331.11,16.07,145.03,0.5,0.12,"26 Std., 7 Min."
+lyon,antalya,3120.02,28.35,110.05,0.5,136.87,0
+lyon,zaragoza,960.93,4.56,210.76,0.5,1.58,"7 Std., 7 Min."
+lyon,helsinki,2621.56,21.11,124.21,0.5,74.83,0
+lyon,wroclaw,1386.95,9.91,139.9,0.5,0.1,"18 Std., 50 Min."
+lyon,lodz,1607.8,12.3,130.69,0.5,0.2,"19 Std., 25 Min."
+lyon,stuttgart,617.41,4.63,133.36,0.5,0.3,"5 Std., 31 Min."
+lyon,palermo,1429.75,9.58,149.27,0.5,269.19,"22 Std., 44 Min."
+lyon,düsseldorf,785.66,6.05,129.87,0.5,1.13,"6 Std., 27 Min."
+lyon,glasgow,1528.18,12.6,121.29,0.5,0.45,"9 Std., 34 Min."
+lyon,leipzig,1035.78,7.09,146.16,0.5,0.9,"9 Std., 6 Min."
+lyon,RIGA-,2175.75,17.05,127.64,0.5,0.37,0
+lyon,diyarbakir,3999.1,33.14,120.68,0.5,2.73,0
+lyon,dortmund,844.21,6.6,128.01,0.5,0.4,"7 Std., 30 Min."
+lyon,málaga,1648.32,7.17,230.04,0.5,92.61,"12 Std., 37 Min."
+lyon,vilnius,2102.56,16.13,130.37,0.5,2.03,0
+lyon,essen,819.95,6.42,127.67,0.5,0.62,7 Std.
+lyon,sheffield,1141.64,7.87,145.05,0.5,0.41,"7 Std., 15 Min."
+lyon,kayseri,3450.17,30.02,114.92,0.5,0.36,0
+lyon,bremen,1070.64,7.91,135.44,0.5,0.91,"9 Std., 41 Min."
+lyon,dresden,1151.97,7.92,145.51,0.5,1.12,"10 Std., 35 Min."
+lyon,genova,465.75,3.69,126.26,0.5,0.43,"8 Std., 28 Min."
+lyon,københavn,1666.0,12.14,137.24,0.5,0.18,"16 Std., 12 Min."
+lyon,manchester,1180.83,7.7,153.28,0.5,0.6,"7 Std., 17 Min."
+lyon,poznan,1397.98,9.71,144.01,0.5,1.07,"15 Std., 31 Min."
+lyon,hannover,998.49,6.17,161.7,0.5,0.96,"8 Std., 13 Min."
+lyon,antwerpen,777.77,5.68,136.94,0.5,1.48,"4 Std., 23 Min."
+lyon,bradford,1199.86,8.22,145.9,0.5,0.35,"7 Std., 51 Min."
+lyon,nürnberg,785.09,5.72,137.22,0.5,1.0,"8 Std., 14 Min."
+lyon,edinburgh,1512.73,11.11,136.12,0.5,0.14,"9 Std., 14 Min."
+lyon,duisburg,808.41,6.2,130.36,0.5,0.87,"6 Std., 46 Min."
+prague,brussels,968.87,6.91,140.23,0.91,1.08,"11 Std., 30 Min."
+prague,rotterdam,957.29,7.88,121.54,0.91,0.45,"11 Std., 57 Min."
+prague,sofia,1373.07,13.46,102.04,0.91,1.4,0
+prague,adana,3034.5,26.28,115.46,0.91,112.06,"77 Std., 30 Min."
+prague,birmingham,1523.76,11.42,133.4,0.91,0.19,"15 Std., 43 Min."
+prague,köln,752.26,5.63,133.5,0.91,1.04,"8 Std., 42 Min."
+prague,amsterdam,925.93,7.69,120.4,0.91,0.81,"11 Std., 31 Min."
+prague,porto,2832.3,18.03,157.1,0.91,0.45,0
+prague,marseille,1450.64,13.14,110.44,0.91,0.64,"16 Std., 11 Min."
+prague,lille,1075.36,7.86,136.88,0.91,0.94,"12 Std., 33 Min."
+prague,gaziantep,3430.0,28.12,121.98,0.91,23.61,0
+prague,sevilla,2849.59,16.39,173.84,0.91,0.73,"35 Std., 7 Min."
+prague,torino,1065.89,9.81,108.6,0.91,1.27,"13 Std., 55 Min."
+prague,konya,2663.51,22.69,117.37,0.91,0.73,0
+prague,kraków,479.21,5.02,95.37,0.91,0.8,"5 Std., 52 Min."
+prague,Den haag,1484.74,10.19,145.76,0.91,9.47,"11 Std., 53 Min."
+prague,bilbao,2175.84,13.72,158.55,0.91,0.31,"23 Std., 53 Min."
+prague,leeds,1634.03,12.31,132.7,0.91,0.18,"16 Std., 47 Min."
+prague,frankfurt am main,572.82,4.83,118.51,0.91,1.47,"7 Std., 11 Min."
+prague,zagreb,710.02,6.01,118.08,0.91,1.2,"11 Std., 36 Min."
+prague,bordeaux,1656.31,9.8,169.02,0.91,2.37,"15 Std., 15 Min."
+prague,toulouse,1673.37,14.02,119.34,0.91,1.06,"18 Std., 17 Min."
+prague,göteborg,1477.32,10.2,144.79,0.91,0.46,16 Std.
+prague,zürich,729.42,7.04,103.66,0.91,0.1,"10 Std., 52 Min."
+prague,oslo,1813.45,12.29,147.56,0.91,0.12,"20 Std., 42 Min."
+prague,antalya,2581.69,23.59,109.45,0.91,136.87,0
+prague,zaragoza,2095.48,13.64,153.64,0.91,1.58,"26 Std., 58 Min."
+prague,helsinki,1718.18,16.73,102.72,0.91,74.83,0
+prague,wroclaw,310.01,3.94,78.6,0.91,0.1,"3 Std., 56 Min."
+prague,lodz,559.35,6.16,90.74,0.91,0.2,"8 Std., 11 Min."
+prague,stuttgart,541.45,4.82,112.3,0.91,0.3,"8 Std., 10 Min."
+prague,palermo,1765.46,12.57,140.49,0.91,269.19,"27 Std., 47 Min."
+prague,düsseldorf,781.48,7.01,111.46,0.91,1.13,"9 Std., 14 Min."
+prague,glasgow,1982.09,16.91,117.21,0.91,0.45,"19 Std., 1 Min."
+prague,leipzig,310.87,2.47,126.01,0.91,0.9,"3 Std., 48 Min."
+prague,RIGA-,1272.36,12.67,100.45,0.91,0.37,0
+prague,diyarbakir,3460.77,28.37,121.97,0.91,2.73,"82 Std., 24 Min."
+prague,dortmund,720.28,6.48,111.1,0.91,0.4,"8 Std., 15 Min."
+prague,málaga,2782.86,16.25,171.31,0.91,92.61,"35 Std., 42 Min."
+prague,vilnius,1159.44,10.52,110.24,0.91,2.03,0
+prague,essen,752.04,6.87,109.46,0.91,0.62,"8 Std., 44 Min."
+prague,sheffield,1595.54,12.18,130.97,0.91,0.41,"16 Std., 43 Min."
+prague,kayseri,2911.84,25.26,115.28,0.91,0.36,"64 Std., 50 Min."
+prague,bremen,673.69,5.42,124.31,0.91,0.91,"7 Std., 17 Min."
+prague,dresden,193.71,1.61,120.36,0.91,1.12,"2 Std., 17 Min."
+prague,genova,1097.79,9.93,110.53,0.91,0.43,"14 Std., 33 Min."
+prague,københavn,1148.34,8.36,137.44,0.91,0.18,"12 Std., 33 Min."
+prague,manchester,1634.73,12.02,136.05,0.91,0.6,0
+prague,poznan,440.76,4.95,88.96,0.91,1.07,"6 Std., 30 Min."
+prague,hannover,555.55,4.71,117.9,0.91,0.96,"6 Std., 4 Min."
+prague,antwerpen,970.59,8.74,111.02,0.91,1.48,"12 Std., 31 Min."
+prague,bradford,1653.76,12.54,131.93,0.91,0.35,"17 Std., 19 Min."
+prague,nürnberg,350.85,3.37,104.12,0.91,1.0,"5 Std., 40 Min."
+prague,edinburgh,1966.63,15.42,127.5,0.91,0.14,"19 Std., 9 Min."
+prague,duisburg,770.22,6.98,110.28,0.91,0.87,"8 Std., 58 Min."
+brussels,rotterdam,137.91,1.11,124.07,1.08,0.45,"1 Std., 9 Min."
+brussels,sofia,2132.12,18.74,113.76,1.08,1.4,0
+brussels,adana,3793.54,31.57,120.18,1.08,112.06,0
+brussels,birmingham,557.17,4.31,129.38,1.08,0.19,"3 Std., 52 Min."
+brussels,köln,219.13,1.38,159.0,1.08,1.04,"1 Std., 50 Min."
+brussels,amsterdam,207.78,1.5,138.88,1.08,0.81,"1 Std., 56 Min."
+brussels,porto,2042.79,12.45,164.03,1.08,0.45,"28 Std., 35 Min."
+brussels,marseille,1055.93,7.08,149.05,1.08,0.64,"5 Std., 1 Min."
+brussels,lille,108.76,0.73,148.68,1.08,0.94,34 Min.
+brussels,gaziantep,4189.04,33.4,125.41,1.08,23.61,0
+brussels,sevilla,2146.87,11.08,193.69,1.08,0.73,"22 Std., 29 Min."
+brussels,torino,980.11,7.48,131.06,1.08,1.27,"9 Std., 3 Min."
+brussels,konya,3422.56,27.98,122.33,1.08,0.73,0
+brussels,kraków,1292.9,11.86,108.98,1.08,0.8,"14 Std., 25 Min."
+brussels,Den haag,621.41,3.72,167.09,1.08,9.47,"1 Std., 38 Min."
+brussels,bilbao,1386.33,8.15,170.13,1.08,0.31,"10 Std., 38 Min."
+brussels,leeds,667.44,5.2,128.41,1.08,0.18,"4 Std., 49 Min."
+brussels,frankfurt am main,398.31,2.12,187.58,1.08,1.47,"3 Std., 6 Min."
+brussels,zagreb,1328.05,9.8,135.48,1.08,1.2,"19 Std., 11 Min."
+brussels,bordeaux,866.8,4.22,205.18,1.08,2.37,"3 Std., 58 Min."
+brussels,toulouse,1032.03,7.44,138.8,1.08,1.06,"6 Std., 32 Min."
+brussels,göteborg,1420.7,9.46,150.14,1.08,0.46,"17 Std., 43 Min."
+brussels,zürich,661.96,4.54,145.73,1.08,0.1,"6 Std., 9 Min."
+brussels,oslo,1756.82,11.55,152.12,1.08,0.12,0
+brussels,antalya,3340.74,28.87,115.71,1.08,136.87,0
+brussels,zaragoza,1435.54,8.46,169.64,1.08,1.58,"11 Std., 25 Min."
+brussels,helsinki,2190.67,18.99,115.39,1.08,74.83,0
+brussels,wroclaw,1036.55,9.71,106.77,1.08,0.1,"11 Std., 23 Min."
+brussels,lodz,1245.61,10.03,124.25,1.08,0.2,
+brussels,stuttgart,558.3,4.06,137.55,1.08,0.3,"4 Std., 43 Min."
+brussels,palermo,1926.38,10.87,177.29,1.08,269.19,"26 Std., 5 Min."
+brussels,düsseldorf,225.54,2.01,111.99,1.08,1.13,"2 Std., 15 Min."
+brussels,glasgow,1015.5,9.79,103.68,1.08,0.45,"7 Std., 5 Min."
+brussels,leipzig,688.26,6.56,104.85,1.08,0.9,"6 Std., 45 Min."
+brussels,RIGA-,1744.85,14.93,116.9,1.08,0.37,0
+brussels,diyarbakir,4219.81,33.66,125.37,1.08,2.73,0
+brussels,dortmund,278.62,2.46,113.26,1.08,0.4,"3 Std., 13 Min."
+brussels,málaga,2080.14,10.94,190.2,1.08,92.61,"23 Std., 4 Min."
+brussels,vilnius,1671.67,14.01,119.35,1.08,2.03,0
+brussels,essen,244.49,2.14,114.04,1.08,0.62,"2 Std., 43 Min."
+brussels,sheffield,628.95,5.07,124.15,1.08,0.41,"4 Std., 44 Min."
+brussels,kayseri,3670.88,30.54,120.19,1.08,0.36,0
+brussels,bremen,487.62,3.71,131.34,1.08,0.91,"5 Std., 43 Min."
+brussels,dresden,804.44,7.4,108.76,1.08,1.12,"8 Std., 13 Min."
+brussels,genova,1019.14,7.88,129.32,1.08,0.43,"11 Std., 48 Min."
+brussels,københavn,1091.71,7.61,143.37,1.08,0.18,"12 Std., 13 Min."
+brussels,manchester,668.14,4.9,136.37,1.08,0.6,"4 Std., 48 Min."
+brussels,poznan,1006.16,7.18,140.11,1.08,1.07,"11 Std., 5 Min."
+brussels,hannover,485.63,3.84,126.56,1.08,0.96,"5 Std., 3 Min."
+brussels,antwerpen,44.47,0.38,118.52,1.08,1.48,0
+brussels,bradford,687.17,5.42,126.8,1.08,0.35,"5 Std., 11 Min."
+brussels,nürnberg,618.02,3.54,174.68,1.08,1.0,"5 Std., 33 Min."
+brussels,edinburgh,1000.04,8.31,120.36,1.08,0.14,"6 Std., 45 Min."
+brussels,duisburg,226.03,2.01,112.56,1.08,0.87,"2 Std., 29 Min."
+rotterdam,sofia,2153.07,19.12,112.61,0.45,1.4,0
+rotterdam,adana,3814.5,31.94,119.41,0.45,112.06,0
+rotterdam,birmingham,676.43,5.48,123.51,0.45,0.19,"5 Std., 50 Min."
+rotterdam,köln,240.21,1.82,132.06,0.45,1.04,"2 Std., 55 Min."
+rotterdam,amsterdam,69.87,0.38,181.71,0.45,0.81,33 Min.
+rotterdam,porto,2180.67,13.54,161.06,0.45,0.45,"30 Std., 20 Min."
+rotterdam,marseille,1187.94,8.1,146.74,0.45,0.64,"6 Std., 16 Min."
+rotterdam,lille,229.69,1.9,120.82,0.45,0.94,"1 Std., 53 Min."
+rotterdam,gaziantep,4210.0,33.78,124.63,0.45,23.61,0
+rotterdam,sevilla,2284.75,12.17,187.74,0.45,0.73,"23 Std., 44 Min."
+rotterdam,torino,1112.13,8.49,131.0,0.45,1.27,"11 Std., 5 Min."
+rotterdam,konya,3443.51,28.36,121.44,0.45,0.73,0
+rotterdam,kraków,1229.26,10.15,121.13,0.45,0.8,"14 Std., 15 Min."
+rotterdam,Den haag,755.97,5.48,137.91,0.45,9.47,0
+rotterdam,bilbao,1524.21,9.23,165.06,0.45,0.31,"11 Std., 23 Min."
+rotterdam,leeds,786.71,6.37,123.54,0.45,0.18,"6 Std., 45 Min."
+rotterdam,frankfurt am main,419.27,2.5,167.62,0.45,1.47,"3 Std., 57 Min."
+rotterdam,zagreb,1349.01,10.18,132.51,0.45,1.2,"20 Std., 19 Min."
+rotterdam,bordeaux,1004.68,5.31,189.19,0.45,2.37,"5 Std., 16 Min."
+rotterdam,toulouse,1169.91,8.52,137.29,0.45,1.06,"7 Std., 50 Min."
+rotterdam,göteborg,1331.68,8.65,153.87,0.45,0.46,16 Std.
+rotterdam,zürich,793.97,5.55,142.96,0.45,0.1,"7 Std., 28 Min."
+rotterdam,oslo,1667.8,10.74,155.27,0.45,0.12,0
+rotterdam,antalya,3361.7,29.25,114.93,0.45,136.87,0
+rotterdam,zaragoza,1573.42,9.55,164.79,0.45,1.58,"12 Std., 44 Min."
+rotterdam,helsinki,2114.77,18.25,115.85,0.45,74.83,0
+rotterdam,wroclaw,972.91,7.99,121.72,0.45,0.1,"11 Std., 13 Min."
+rotterdam,lodz,1169.7,9.29,125.85,0.45,0.2,"19 Std., 1 Min."
+rotterdam,stuttgart,584.19,4.17,140.08,0.45,0.3,"5 Std., 15 Min."
+rotterdam,palermo,2058.39,11.88,173.31,0.45,269.19,0
+rotterdam,düsseldorf,213.17,1.58,135.18,0.45,1.13,"2 Std., 32 Min."
+rotterdam,glasgow,1134.76,10.96,103.49,0.45,0.45,"9 Std., 2 Min."
+rotterdam,leipzig,655.23,6.15,106.55,0.45,0.9,"7 Std., 12 Min."
+rotterdam,RIGA-,1668.95,14.2,117.57,0.45,0.37,0
+rotterdam,diyarbakir,4240.77,34.04,124.59,0.45,2.73,"131 Std., 5 Min."
+rotterdam,dortmund,244.75,2.07,118.35,0.45,0.4,"3 Std., 1 Min."
+rotterdam,málaga,2218.02,12.02,184.49,0.45,92.61,"24 Std., 19 Min."
+rotterdam,vilnius,1595.77,13.28,120.2,0.45,2.03,0
+rotterdam,essen,215.27,1.78,120.95,0.45,0.62,"2 Std., 35 Min."
+rotterdam,sheffield,748.22,6.24,119.97,0.45,0.41,"6 Std., 12 Min."
+rotterdam,kayseri,3691.84,30.92,119.39,0.45,0.36,0
+rotterdam,bremen,394.66,3.56,110.9,0.45,0.91,"4 Std., 33 Min."
+rotterdam,dresden,766.07,6.28,122.07,0.45,1.12,"8 Std., 52 Min."
+rotterdam,genova,1151.16,8.89,129.46,0.45,0.43,"12 Std., 57 Min."
+rotterdam,københavn,1002.69,6.81,147.3,0.45,0.18,"11 Std., 18 Min."
+rotterdam,manchester,787.41,6.07,129.72,0.45,0.6,"6 Std., 46 Min."
+rotterdam,poznan,930.26,6.45,144.22,0.45,1.07,"9 Std., 55 Min."
+rotterdam,hannover,409.73,3.11,131.9,0.45,0.96,"4 Std., 26 Min."
+rotterdam,antwerpen,93.44,0.74,126.87,0.45,1.48,32 Min.
+rotterdam,bradford,806.44,6.59,122.38,0.45,0.35,"7 Std., 17 Min."
+rotterdam,nürnberg,638.97,3.92,163.17,0.45,1.0,"6 Std., 38 Min."
+rotterdam,edinburgh,1119.31,9.48,118.08,0.45,0.14,"8 Std., 43 Min."
+rotterdam,duisburg,206.52,1.65,124.97,0.45,0.87,"2 Std., 19 Min."
+sofia,adana,1665.81,12.85,129.65,1.4,112.06,0
+sofia,birmingham,2687.01,23.25,115.55,1.4,0.19,0
+sofia,köln,1915.51,17.47,109.67,1.4,1.04,0
+sofia,amsterdam,2165.62,19.36,111.88,1.4,0.81,0
+sofia,porto,3682.09,30.1,122.35,1.4,0.45,0
+sofia,marseille,1990.05,19.15,103.93,1.4,0.64,0
+sofia,lille,2238.61,19.69,113.7,1.4,0.94,0
+sofia,gaziantep,2061.31,14.69,140.36,1.4,23.61,0
+sofia,sevilla,3555.84,24.92,142.68,1.4,0.73,0
+sofia,torino,1609.34,15.71,102.45,1.4,1.27,0
+sofia,konya,1294.82,9.26,139.81,1.4,0.73,0
+sofia,kraków,1247.44,13.69,91.09,1.4,0.8,0
+sofia,Den haag,2576.38,21.22,121.42,1.4,9.47,0
+sofia,bilbao,3025.63,25.79,117.32,1.4,0.31,0
+sofia,leeds,2797.29,24.15,115.85,1.4,0.18,0
+sofia,frankfurt am main,1736.08,16.67,104.17,1.4,1.47,0
+sofia,zagreb,806.89,9.41,85.73,1.4,1.2,0
+sofia,bordeaux,2530.7,23.38,108.24,1.4,2.37,0
+sofia,toulouse,2387.48,20.85,114.48,1.4,1.06,0
+sofia,göteborg,2774.17,23.72,116.95,1.4,0.46,0
+sofia,zürich,1612.83,16.54,97.51,1.4,0.1,0
+sofia,oslo,3110.3,25.81,120.52,1.4,0.12,0
+sofia,antalya,1213.0,10.15,119.45,1.4,136.87,0
+sofia,zaragoza,2801.73,22.17,126.38,1.4,1.58,0
+sofia,helsinki,2708.8,25.74,105.24,1.4,74.83,0
+sofia,wroclaw,1342.12,13.62,98.52,1.4,0.1,0
+sofia,lodz,1441.75,15.35,93.91,1.4,0.2,0
+sofia,stuttgart,1611.95,16.03,100.58,1.4,0.3,0
+sofia,palermo,2185.63,18.3,119.41,1.4,269.19,0
+sofia,düsseldorf,1948.73,17.65,110.38,1.4,1.13,0
+sofia,glasgow,3145.34,28.74,109.43,1.4,0.45,0
+sofia,leipzig,1631.34,15.88,102.75,1.4,0.9,0
+sofia,RIGA-,2262.99,21.68,104.38,1.4,0.37,0
+sofia,diyarbakir,2092.08,14.94,140.01,1.4,2.73,0
+sofia,dortmund,1971.28,18.86,104.52,1.4,0.4,0
+sofia,málaga,3489.11,24.78,140.83,1.4,92.61,0
+sofia,vilnius,2011.47,19.37,103.82,1.4,2.03,0
+sofia,essen,1983.02,18.03,110.0,1.4,0.62,0
+sofia,sheffield,2758.8,24.01,114.88,1.4,0.41,0
+sofia,kayseri,1543.15,11.83,130.48,1.4,0.36,0
+sofia,bremen,1994.16,18.83,105.91,1.4,0.91,0
+sofia,dresden,1514.18,15.02,100.82,1.4,1.12,0
+sofia,genova,1597.36,16.06,99.46,1.4,0.43,0
+sofia,københavn,2445.19,21.87,111.79,1.4,0.18,0
+sofia,manchester,2797.99,23.85,117.33,1.4,0.6,0
+sofia,poznan,1504.16,15.16,99.2,1.4,1.07,0
+sofia,hannover,1876.03,18.12,103.53,1.4,0.96,0
+sofia,antwerpen,2139.07,19.21,111.33,1.4,1.48,0
+sofia,bradford,2817.02,24.37,115.61,1.4,0.35,0
+sofia,nürnberg,1514.1,15.2,99.6,1.4,1.0,0
+sofia,edinburgh,3129.89,27.26,114.83,1.4,0.14,0
+sofia,duisburg,1971.47,17.81,110.72,1.4,0.87,0
+adana,birmingham,4348.09,36.05,120.61,112.06,0.19,0
+adana,köln,3576.58,30.26,118.19,112.06,1.04,0
+adana,amsterdam,3826.7,32.15,119.02,112.06,0.81,0
+adana,porto,5343.16,42.89,124.58,112.06,0.45,0
+adana,marseille,3651.12,31.94,114.3,112.06,0.64,0
+adana,lille,3899.69,32.48,120.05,112.06,0.94,0
+adana,gaziantep,792.25,6.6,120.0,112.06,23.61,0
+adana,sevilla,5216.92,37.72,138.32,112.06,0.73,0
+adana,torino,3270.42,28.5,114.74,112.06,1.27,0
+adana,konya,789.71,5.26,150.07,112.06,0.73,0
+adana,kraków,2908.52,26.49,109.8,112.06,0.8,0
+adana,Den haag,4237.46,34.01,124.58,112.06,9.47,0
+adana,bilbao,4686.71,38.58,121.47,112.06,0.31,0
+adana,leeds,4458.36,36.94,120.69,112.06,0.18,0
+adana,frankfurt am main,3397.15,29.46,115.31,112.06,1.47,0
+adana,zagreb,2467.97,22.21,111.14,112.06,1.2,0
+adana,bordeaux,4191.78,36.18,115.87,112.06,2.37,0
+adana,toulouse,4048.56,33.65,120.32,112.06,1.06,0
+adana,göteborg,4435.25,36.51,121.46,112.06,0.46,0
+adana,zürich,3273.91,29.34,111.6,112.06,0.1,0
+adana,oslo,4771.38,38.6,123.61,112.06,0.12,0
+adana,antalya,1000.74,7.35,136.17,112.06,136.87,0
+adana,zaragoza,4462.81,34.96,127.64,112.06,1.58,0
+adana,helsinki,4200.92,37.83,111.06,112.06,74.83,0
+adana,wroclaw,3003.2,26.42,113.68,112.06,0.1,0
+adana,lodz,3102.83,28.15,110.24,112.06,0.2,0
+adana,stuttgart,3273.03,28.82,113.56,112.06,0.3,0
+adana,palermo,3846.71,31.1,123.69,112.06,269.19,0
+adana,düsseldorf,3609.8,30.45,118.55,112.06,1.13,0
+adana,glasgow,4806.42,41.54,115.71,112.06,0.45,0
+adana,leipzig,3292.42,28.67,114.83,112.06,0.9,0
+adana,RIGA-,3755.1,33.77,111.21,112.06,0.37,0
+adana,diyarbakir,823.02,6.86,120.0,112.06,2.73,"41 Std., 57 Min."
+adana,dortmund,3632.36,31.66,114.75,112.06,0.4,0
+adana,málaga,5150.19,37.57,137.08,112.06,92.61,0
+adana,vilnius,3496.22,30.81,113.47,112.06,2.03,0
+adana,essen,3644.1,30.82,118.23,112.06,0.62,0
+adana,sheffield,4419.87,36.81,120.08,112.06,0.41,0
+adana,kayseri,154.53,1.29,120.0,112.06,0.36,"6 Std., 7 Min."
+adana,bremen,3655.24,31.62,115.58,112.06,0.91,0
+adana,dresden,3175.26,27.81,114.16,112.06,1.12,0
+adana,genova,3258.44,28.85,112.92,112.06,0.43,0
+adana,københavn,4106.26,34.67,118.45,112.06,0.18,0
+adana,manchester,4459.06,36.64,121.69,112.06,0.6,0
+adana,poznan,3165.23,27.96,113.22,112.06,1.07,0
+adana,hannover,3537.1,30.92,114.41,112.06,0.96,0
+adana,antwerpen,3800.14,32.01,118.72,112.06,1.48,0
+adana,bradford,4478.09,37.16,120.5,112.06,0.35,0
+adana,nürnberg,3175.18,28.0,113.41,112.06,1.0,0
+adana,edinburgh,4790.96,40.05,119.62,112.06,0.14,0
+adana,duisburg,3632.55,30.6,118.71,112.06,0.87,0
+birmingham,köln,774.02,5.89,131.39,0.19,1.04,"5 Std., 58 Min."
+birmingham,amsterdam,746.3,5.88,126.97,0.19,0.81,"5 Std., 58 Min."
+birmingham,porto,2365.6,15.63,151.39,0.19,0.45,0
+birmingham,marseille,1386.59,8.78,157.97,0.19,0.64,"8 Std., 7 Min."
+birmingham,lille,450.57,3.63,124.22,0.19,0.94,"3 Std., 9 Min."
+birmingham,gaziantep,4743.94,37.92,125.12,0.19,23.61,0
+birmingham,sevilla,2469.68,14.26,173.23,0.19,0.73,0
+birmingham,torino,1361.05,9.56,142.42,0.19,1.27,"11 Std., 58 Min."
+birmingham,konya,3977.45,32.49,122.42,0.19,0.73,0
+birmingham,kraków,1846.73,16.32,113.12,0.19,0.8,"22 Std., 3 Min."
+birmingham,Den haag,906.01,6.99,129.58,0.19,9.47,"5 Std., 44 Min."
+birmingham,bilbao,1709.14,11.32,150.97,0.19,0.31,"13 Std., 15 Min."
+birmingham,leeds,187.47,2.34,80.18,0.19,0.18,"1 Std., 58 Min."
+birmingham,frankfurt am main,953.2,6.64,143.63,0.19,1.47,"7 Std., 32 Min."
+birmingham,zagreb,1882.95,14.32,131.53,0.19,1.2,"23 Std., 12 Min."
+birmingham,bordeaux,1189.61,7.4,160.82,0.19,2.37,"7 Std., 3 Min."
+birmingham,toulouse,1354.83,10.61,127.72,0.19,1.06,"9 Std., 29 Min."
+birmingham,göteborg,1968.18,13.63,144.37,0.19,0.46,0
+birmingham,zürich,1166.19,8.78,132.8,0.19,0.1,"8 Std., 39 Min."
+birmingham,oslo,2304.3,15.72,146.59,0.19,0.12,0
+birmingham,antalya,3895.63,33.38,116.69,0.19,136.87,0
+birmingham,zaragoza,1758.35,11.63,151.13,0.19,1.58,"14 Std., 36 Min."
+birmingham,helsinki,2744.5,23.45,117.05,0.19,74.83,0
+birmingham,wroclaw,1590.39,14.17,112.24,0.19,0.1,0
+birmingham,lodz,1799.44,14.49,124.22,0.19,0.2,"23 Std., 19 Min."
+birmingham,stuttgart,1086.17,8.89,122.18,0.19,0.3,"8 Std., 17 Min."
+birmingham,palermo,2430.61,15.1,160.92,0.19,269.19,0
+birmingham,düsseldorf,779.37,6.48,120.36,0.19,1.13,"6 Std., 44 Min."
+birmingham,glasgow,480.7,5.13,93.77,0.19,0.45,"4 Std., 5 Min."
+birmingham,leipzig,1242.09,11.03,112.66,0.19,0.9,"11 Std., 37 Min."
+birmingham,RIGA-,2298.69,19.39,118.57,0.19,0.37,0
+birmingham,diyarbakir,4774.71,38.17,125.08,0.19,2.73,0
+birmingham,dortmund,832.45,6.92,120.28,0.19,0.4,"7 Std., 57 Min."
+birmingham,málaga,2402.95,14.11,170.31,0.19,92.61,0
+birmingham,vilnius,2225.5,18.47,120.51,0.19,2.03,0
+birmingham,essen,798.32,6.61,120.86,0.19,0.62,"7 Std., 33 Min."
+birmingham,sheffield,128.7,1.65,78.05,0.19,0.41,1 Std.
+birmingham,kayseri,4225.78,35.06,120.54,0.19,0.36,0
+birmingham,bremen,1031.16,8.54,120.79,0.19,0.91,"9 Std., 58 Min."
+birmingham,dresden,1358.27,11.86,114.55,0.19,1.12,"12 Std., 52 Min."
+birmingham,genova,1505.57,11.95,125.98,0.19,0.43,0
+birmingham,københavn,1639.19,11.79,139.09,0.19,0.18,"17 Std., 59 Min."
+birmingham,manchester,132.88,1.6,82.83,0.19,0.6,"1 Std., 28 Min."
+birmingham,poznan,1559.99,11.64,133.99,0.19,1.07,0
+birmingham,hannover,1039.46,8.3,125.26,0.19,0.96,"10 Std., 3 Min."
+birmingham,antwerpen,582.99,4.76,122.56,0.19,1.48,"4 Std., 49 Min."
+birmingham,bradford,207.2,2.56,80.95,0.19,0.35,"2 Std., 24 Min."
+birmingham,nürnberg,1172.91,8.05,145.68,0.19,1.0,"10 Std., 10 Min."
+birmingham,edinburgh,474.8,5.06,93.82,0.19,0.14,"4 Std., 11 Min."
+birmingham,duisburg,779.87,6.47,120.55,0.19,0.87,"7 Std., 7 Min."
+köln,amsterdam,256.86,2.09,122.83,1.04,0.81,"2 Std., 39 Min."
+köln,porto,2213.29,13.76,160.81,1.04,0.45,0
+köln,marseille,1066.36,7.4,144.11,1.04,0.64,"7 Std., 13 Min."
+köln,lille,325.62,2.33,140.04,1.04,0.94,"2 Std., 46 Min."
+köln,gaziantep,3972.43,32.13,123.64,1.04,23.61,0
+köln,sevilla,2317.37,12.39,186.98,1.04,0.73,"25 Std., 58 Min."
+köln,torino,905.51,6.89,131.41,1.04,1.27,"9 Std., 35 Min."
+köln,konya,3205.95,26.7,120.06,1.04,0.73,0
+köln,kraków,1101.51,10.14,108.64,1.04,0.8,"11 Std., 32 Min."
+köln,Den haag,823.02,5.78,142.5,1.04,9.47,"3 Std., 10 Min."
+köln,bilbao,1556.83,9.46,164.6,1.04,0.31,"13 Std., 6 Min."
+köln,leeds,884.3,6.78,130.38,1.04,0.18,"7 Std., 3 Min."
+köln,frankfurt am main,181.7,0.85,214.04,1.04,1.47,52 Min.
+köln,zagreb,1111.44,8.53,130.33,1.04,1.2,"14 Std., 36 Min."
+köln,bordeaux,1037.3,5.53,187.44,1.04,2.37,"6 Std., 32 Min."
+köln,toulouse,1202.53,8.74,137.51,1.04,1.06,"8 Std., 38 Min."
+köln,göteborg,1253.74,8.37,149.84,1.04,0.46,"12 Std., 56 Min."
+köln,zürich,574.38,4.58,125.53,1.04,0.1,"4 Std., 46 Min."
+köln,oslo,1589.86,10.45,152.09,1.04,0.12,"17 Std., 38 Min."
+köln,antalya,3124.13,27.6,113.21,1.04,136.87,0
+köln,zaragoza,1606.04,9.77,164.36,1.04,1.58,"14 Std., 27 Min."
+köln,helsinki,2005.95,17.24,116.32,1.04,74.83,0
+köln,wroclaw,845.17,7.98,105.86,1.04,0.1,"8 Std., 30 Min."
+köln,lodz,1060.89,8.28,128.06,1.04,0.2,"10 Std., 38 Min."
+köln,stuttgart,344.04,2.39,144.21,1.04,0.3,"2 Std., 6 Min."
+köln,palermo,1838.8,10.9,168.71,1.04,269.19,0
+köln,düsseldorf,44.34,0.41,108.97,1.04,1.13,0
+köln,glasgow,1232.35,11.38,108.3,1.04,0.45,"9 Std., 16 Min."
+köln,leipzig,496.88,4.84,102.66,1.04,0.9,"4 Std., 26 Min."
+köln,RIGA-,1560.14,13.19,118.32,1.04,0.37,0
+köln,diyarbakir,4003.2,32.38,123.61,1.04,2.73,"93 Std., 32 Min."
+köln,dortmund,102.97,0.98,105.56,1.04,0.4,"1 Std., 5 Min."
+köln,málaga,2250.64,12.25,183.78,1.04,92.61,"26 Std., 14 Min."
+köln,vilnius,1486.95,12.27,121.22,1.04,2.03,0
+köln,essen,78.71,0.8,98.08,1.04,0.62,0
+köln,sheffield,845.81,6.65,127.17,1.04,0.41,"6 Std., 56 Min."
+köln,kayseri,3454.27,29.27,118.02,1.04,0.36,0
+köln,bremen,329.31,2.26,145.56,1.04,0.91,"2 Std., 59 Min."
+köln,dresden,613.06,5.67,108.09,1.04,1.12,"5 Std., 43 Min."
+köln,genova,944.53,7.29,129.51,1.04,0.43,"10 Std., 13 Min."
+köln,københavn,924.75,6.52,141.84,1.04,0.18,"9 Std., 27 Min."
+köln,manchester,885.0,6.48,136.49,1.04,0.6,7 Std.
+köln,poznan,821.44,5.44,150.99,1.04,1.07,"7 Std., 42 Min."
+köln,hannover,300.92,2.1,143.53,1.04,0.96,"2 Std., 31 Min."
+köln,antwerpen,226.08,1.85,122.16,1.04,1.48,"2 Std., 43 Min."
+köln,bradford,904.03,7.0,129.07,1.04,0.35,"7 Std., 31 Min."
+köln,nürnberg,401.41,2.26,177.33,1.04,1.0,"2 Std., 46 Min."
+köln,edinburgh,1216.9,9.89,123.0,1.04,0.14,"8 Std., 57 Min."
+köln,duisburg,67.08,0.56,120.06,1.04,0.87,
+amsterdam,porto,2250.54,13.92,161.63,0.81,0.45,0
+amsterdam,marseille,1237.39,9.09,136.15,0.81,0.64,"6 Std., 59 Min."
+amsterdam,lille,299.56,2.29,131.07,0.81,0.94,"2 Std., 35 Min."
+amsterdam,gaziantep,4222.55,34.02,124.13,0.81,23.61,0
+amsterdam,sevilla,2354.62,12.55,187.55,0.81,0.73,"24 Std., 32 Min."
+amsterdam,torino,1158.43,8.92,129.86,0.81,1.27,"11 Std., 43 Min."
+amsterdam,konya,3456.06,28.59,120.87,0.81,0.73,0
+amsterdam,kraków,1197.9,9.96,120.24,0.81,0.8,"13 Std., 50 Min."
+amsterdam,Den haag,825.85,5.87,140.78,0.81,9.47,37 Min.
+amsterdam,bilbao,1594.09,9.62,165.72,0.81,0.31,"12 Std., 5 Min."
+amsterdam,leeds,856.58,6.75,126.85,0.81,0.18,"7 Std., 33 Min."
+amsterdam,frankfurt am main,431.81,2.74,157.68,0.81,1.47,"3 Std., 36 Min."
+amsterdam,zagreb,1361.55,10.42,130.69,0.81,1.2,"20 Std., 9 Min."
+amsterdam,bordeaux,1074.55,5.7,188.68,0.81,2.37,"5 Std., 59 Min."
+amsterdam,toulouse,1239.78,8.91,139.21,0.81,1.06,"8 Std., 38 Min."
+amsterdam,göteborg,1300.32,8.47,153.54,0.81,0.46,"15 Std., 42 Min."
+amsterdam,zürich,827.31,6.61,125.25,0.81,0.1,"7 Std., 30 Min."
+amsterdam,oslo,1636.44,10.56,155.04,0.81,0.12,"19 Std., 45 Min."
+amsterdam,antalya,3374.24,29.49,114.43,0.81,136.87,0
+amsterdam,zaragoza,1643.29,9.93,165.45,0.81,1.58,"13 Std., 32 Min."
+amsterdam,helsinki,2083.41,18.07,115.31,0.81,74.83,0
+amsterdam,wroclaw,941.55,7.81,120.61,0.81,0.1,"10 Std., 48 Min."
+amsterdam,lodz,1138.34,9.11,124.97,0.81,0.2,"12 Std., 39 Min."
+amsterdam,stuttgart,596.97,4.42,135.19,0.81,0.3,"4 Std., 50 Min."
+amsterdam,palermo,2091.73,12.93,161.79,0.81,269.19,0
+amsterdam,düsseldorf,218.45,1.72,126.76,0.81,1.13,"2 Std., 14 Min."
+amsterdam,glasgow,1204.63,11.35,106.14,0.81,0.45,"9 Std., 50 Min."
+amsterdam,leipzig,630.45,5.17,121.92,0.81,0.9,"6 Std., 47 Min."
+amsterdam,RIGA-,1637.59,14.01,116.89,0.81,0.37,0
+amsterdam,diyarbakir,4253.32,34.27,124.1,0.81,2.73,"95 Std., 25 Min."
+amsterdam,dortmund,232.37,1.97,118.2,0.81,0.4,"2 Std., 43 Min."
+amsterdam,málaga,2287.89,12.41,184.4,0.81,92.61,"25 Std., 7 Min."
+amsterdam,vilnius,1564.41,13.09,119.51,0.81,2.03,0
+amsterdam,essen,202.9,1.68,120.94,0.81,0.62,"2 Std., 17 Min."
+amsterdam,sheffield,818.09,6.62,123.56,0.81,0.41,7 Std.
+amsterdam,kayseri,3704.39,31.16,118.89,0.81,0.36,"86 Std., 1 Min."
+amsterdam,bremen,363.3,3.37,107.72,0.81,0.91,"4 Std., 8 Min."
+amsterdam,dresden,734.71,6.09,120.64,0.81,1.12,"8 Std., 27 Min."
+amsterdam,genova,1197.46,9.32,128.44,0.81,0.43,"13 Std., 30 Min."
+amsterdam,københavn,971.33,6.62,146.7,0.81,0.18,11 Std.
+amsterdam,manchester,857.28,6.45,132.82,0.81,0.6,"7 Std., 28 Min."
+amsterdam,poznan,898.9,6.26,143.49,0.81,1.07,"9 Std., 30 Min."
+amsterdam,hannover,378.37,2.92,129.56,0.81,0.96,"4 Std., 1 Min."
+amsterdam,antwerpen,163.32,1.12,145.68,0.81,1.48,"1 Std., 14 Min."
+amsterdam,bradford,876.31,6.97,125.65,0.81,0.35,"8 Std., 5 Min."
+amsterdam,nürnberg,651.52,4.15,156.87,0.81,1.0,"6 Std., 20 Min."
+amsterdam,edinburgh,1189.18,9.86,120.56,0.81,0.14,"9 Std., 26 Min."
+amsterdam,duisburg,194.15,1.55,125.22,0.81,0.87,"2 Std., 1 Min."
+porto,marseille,1710.04,11.8,144.89,0.45,0.64,"25 Std., 22 Min."
+porto,lille,1956.53,11.23,174.18,0.45,0.94,"31 Std., 45 Min."
+porto,gaziantep,5739.03,44.76,128.22,0.45,23.61,0
+porto,sevilla,705.12,4.95,142.58,0.45,0.73,"12 Std., 1 Min."
+porto,torino,2078.28,14.48,143.48,0.45,1.27,"36 Std., 33 Min."
+porto,konya,4972.54,39.34,126.41,0.45,0.73,0
+porto,kraków,3273.49,20.94,156.31,0.45,0.8,0
+porto,Den haag,1889.33,11.9,158.81,0.45,9.47,0
+porto,bilbao,865.77,5.88,147.32,0.45,0.31,"22 Std., 5 Min."
+porto,leeds,2475.78,16.53,149.79,0.45,0.18,0
+porto,frankfurt am main,2297.37,13.39,171.55,0.45,1.47,"36 Std., 53 Min."
+porto,zagreb,2875.21,20.69,138.99,0.45,1.2,"50 Std., 20 Min."
+porto,bordeaux,1175.99,8.23,142.91,0.45,2.37,"25 Std., 29 Min."
+porto,toulouse,1294.81,9.25,140.01,0.45,1.06,"24 Std., 31 Min."
+porto,göteborg,3443.95,21.68,158.84,0.45,0.46,0
+porto,zürich,2205.27,15.73,140.19,0.45,0.1,"34 Std., 15 Min."
+porto,oslo,3780.07,23.77,159.04,0.45,0.12,"60 Std., 31 Min."
+porto,antalya,4890.72,40.23,121.57,0.45,136.87,0
+porto,zaragoza,994.8,6.85,145.22,0.45,1.58,"10 Std., 32 Min."
+porto,helsinki,4212.84,30.85,136.55,0.45,74.83,0
+porto,wroclaw,3017.15,18.79,160.6,0.45,0.1,0
+porto,lodz,3238.0,21.18,152.91,0.45,0.2,0
+porto,stuttgart,2318.85,13.08,177.26,0.45,0.3,"35 Std., 51 Min."
+porto,palermo,3074.08,20.83,147.55,0.45,269.19,"57 Std., 49 Min."
+porto,düsseldorf,2231.6,14.08,158.54,0.45,1.13,0
+porto,glasgow,2823.83,21.12,133.67,0.45,0.45,0
+porto,leipzig,2665.98,15.96,167.04,0.45,0.9,"43 Std., 35 Min."
+porto,RIGA-,3767.03,26.79,140.59,0.45,0.37,0
+porto,diyarbakir,5769.8,45.02,128.17,0.45,2.73,0
+porto,dortmund,2301.87,14.68,156.81,0.45,0.4,"37 Std., 1 Min."
+porto,málaga,819.94,5.67,144.61,0.45,92.61,"12 Std., 30 Min."
+porto,vilnius,3693.84,25.87,142.76,0.45,2.03,0
+porto,essen,2267.74,14.36,157.88,0.45,0.62,"36 Std., 37 Min."
+porto,sheffield,2437.29,16.4,148.64,0.45,0.41,"54 Std., 35 Min."
+porto,kayseri,5220.87,41.9,124.6,0.45,0.36,0
+porto,bremen,2510.87,15.93,157.6,0.45,0.91,0
+porto,dresden,2782.17,16.79,165.7,0.45,1.12,0
+porto,genova,2110.09,14.94,141.2,0.45,0.43,"35 Std., 55 Min."
+porto,københavn,3114.96,19.83,157.05,0.45,0.18,"50 Std., 53 Min."
+porto,manchester,2476.48,16.23,152.59,0.45,0.6,0
+porto,poznan,3028.19,18.58,162.97,0.45,1.07,0
+porto,hannover,2507.81,15.7,159.68,0.45,0.96,"39 Std., 5 Min."
+porto,antwerpen,2087.14,12.8,163.12,0.45,1.48,"33 Std., 14 Min."
+porto,bradford,2495.51,16.75,148.99,0.45,0.35,"57 Std., 1 Min."
+porto,nürnberg,2481.45,14.67,169.2,0.45,1.0,0
+porto,edinburgh,2808.38,19.64,143.0,0.45,0.14,0
+porto,duisburg,2249.29,14.23,158.09,0.45,0.87,0
+marseille,lille,965.02,4.08,236.44,0.64,0.94,"4 Std., 32 Min."
+marseille,gaziantep,4046.97,33.81,119.7,0.64,23.61,0
+marseille,sevilla,1583.79,6.63,238.96,0.64,0.73,"10 Std., 38 Min."
+marseille,torino,430.65,4.17,103.29,0.64,1.27,"7 Std., 38 Min."
+marseille,konya,3280.49,28.38,115.57,0.64,0.73,0
+marseille,kraków,1789.22,14.78,121.04,0.64,0.8,"22 Std., 8 Min."
+marseille,Den haag,1124.81,5.82,193.2,0.64,9.47,"6 Std., 45 Min."
+marseille,bilbao,1053.58,7.5,140.57,0.64,0.31,"12 Std., 58 Min."
+marseille,leeds,1496.85,9.68,154.61,0.64,0.18,"8 Std., 58 Min."
+marseille,frankfurt am main,983.89,6.2,158.76,0.64,1.47,"7 Std., 47 Min."
+marseille,zagreb,1183.16,9.74,121.53,0.64,1.2,"28 Std., 5 Min."
+marseille,bordeaux,672.96,4.21,159.84,0.64,2.37,"6 Std., 24 Min."
+marseille,toulouse,415.44,2.56,162.31,0.64,1.06,"3 Std., 50 Min."
+marseille,göteborg,2311.71,15.67,147.56,0.64,0.46,"22 Std., 2 Min."
+marseille,zürich,749.66,6.87,109.15,0.64,0.1,"6 Std., 14 Min."
+marseille,oslo,2647.84,17.75,149.15,0.64,0.12,0
+marseille,antalya,3198.67,29.28,109.25,0.64,136.87,0
+marseille,zaragoza,829.68,3.87,214.15,0.64,1.58,"6 Std., 18 Min."
+marseille,helsinki,2938.29,22.79,128.96,0.64,74.83,0
+marseille,wroclaw,1703.67,11.59,146.96,0.64,0.1,"19 Std., 58 Min."
+marseille,lodz,1924.52,13.98,137.65,0.64,0.2,"21 Std., 18 Min."
+marseille,stuttgart,934.13,6.31,148.06,0.64,0.3,"7 Std., 1 Min."
+marseille,palermo,1366.6,9.08,150.48,0.64,269.19,"25 Std., 10 Min."
+marseille,düsseldorf,1102.39,7.73,142.63,0.64,1.13,"7 Std., 37 Min."
+marseille,glasgow,1844.91,14.28,129.21,0.64,0.45,"11 Std., 27 Min."
+marseille,leipzig,1352.51,8.77,154.29,0.64,0.9,"10 Std., 58 Min."
+marseille,RIGA-,2492.48,18.73,133.1,0.64,0.37,0
+marseille,diyarbakir,4077.74,34.07,119.7,0.64,2.73,0
+marseille,dortmund,1160.94,8.27,140.3,0.64,0.4,"8 Std., 35 Min."
+marseille,málaga,1517.06,6.48,234.1,0.64,92.61,"11 Std., 13 Min."
+marseille,vilnius,2419.29,17.81,135.86,0.64,2.03,0
+marseille,essen,1136.68,8.1,140.3,0.64,0.62,"8 Std., 5 Min."
+marseille,sheffield,1458.36,9.55,152.71,0.64,0.41,"8 Std., 43 Min."
+marseille,kayseri,3528.81,30.95,114.02,0.64,0.36,0
+marseille,bremen,1387.37,9.58,144.75,0.64,0.91,"11 Std., 17 Min."
+marseille,dresden,1468.7,9.6,153.05,0.64,1.12,"12 Std., 27 Min."
+marseille,genova,402.6,3.19,126.11,0.64,0.43,"6 Std., 11 Min."
+marseille,københavn,1982.72,13.82,143.48,0.64,0.18,"18 Std., 4 Min."
+marseille,manchester,1497.55,9.38,159.6,0.64,0.6,"8 Std., 47 Min."
+marseille,poznan,1714.71,11.39,150.59,0.64,1.07,"17 Std., 24 Min."
+marseille,hannover,1315.22,7.85,167.45,0.64,0.96,"10 Std., 5 Min."
+marseille,antwerpen,1094.5,7.36,148.73,0.64,1.48,"5 Std., 41 Min."
+marseille,bradford,1516.58,9.9,153.14,0.64,0.35,"9 Std., 26 Min."
+marseille,nürnberg,1101.82,7.4,148.88,0.64,1.0,"10 Std., 6 Min."
+marseille,edinburgh,1829.45,12.79,143.01,0.64,0.14,"10 Std., 53 Min."
+marseille,duisburg,1125.13,7.88,142.77,0.64,0.87,"7 Std., 51 Min."
+lille,gaziantep,4295.54,34.35,125.05,0.94,23.61,0
+lille,sevilla,2060.72,9.87,208.78,0.94,0.73,22 Std.
+lille,torino,939.48,4.86,193.3,0.94,1.27,"8 Std., 34 Min."
+lille,konya,3529.05,28.93,122.0,0.94,0.73,0
+lille,kraków,1399.99,12.75,109.81,0.94,0.8,"16 Std., 31 Min."
+lille,Den haag,527.99,3.63,145.3,0.94,9.47,"2 Std., 22 Min."
+lille,bilbao,1300.18,6.93,187.48,0.94,0.31,"10 Std., 9 Min."
+lille,leeds,560.84,4.52,124.12,0.94,0.18,"4 Std., 7 Min."
+lille,frankfurt am main,504.8,3.07,164.4,0.94,1.47,"4 Std., 10 Min."
+lille,zagreb,1434.54,10.75,133.45,0.94,1.2,"19 Std., 21 Min."
+lille,bordeaux,780.65,3.01,259.26,0.94,2.37,"3 Std., 59 Min."
+lille,toulouse,945.87,6.22,152.03,0.94,1.06,"6 Std., 29 Min."
+lille,göteborg,1521.43,10.06,151.28,0.94,0.46,"19 Std., 11 Min."
+lille,zürich,717.78,5.22,137.57,0.94,0.1,"5 Std., 44 Min."
+lille,oslo,1857.56,12.14,152.97,0.94,0.12,"22 Std., 51 Min."
+lille,antalya,3447.23,29.82,115.61,0.94,136.87,0
+lille,zaragoza,1349.39,7.25,186.16,0.94,1.58,"10 Std., 41 Min."
+lille,helsinki,2297.76,19.87,115.64,0.94,74.83,0
+lille,wroclaw,1143.64,10.59,107.96,0.94,0.1,"13 Std., 29 Min."
+lille,lodz,1352.69,10.91,123.98,0.94,0.2,"17 Std., 29 Min."
+lille,stuttgart,637.76,5.33,119.74,0.94,0.3,"4 Std., 52 Min."
+lille,palermo,1982.2,11.54,171.75,0.94,269.19,0
+lille,düsseldorf,332.63,2.9,114.73,0.94,1.13,"3 Std., 38 Min."
+lille,glasgow,908.9,9.11,99.72,0.94,0.45,"6 Std., 26 Min."
+lille,leipzig,795.35,7.45,106.76,0.94,0.9,"7 Std., 57 Min."
+lille,RIGA-,1851.94,15.81,117.13,0.94,0.37,0
+lille,diyarbakir,4326.31,34.61,125.01,0.94,2.73,0
+lille,dortmund,385.71,3.35,115.3,0.94,0.4,"4 Std., 37 Min."
+lille,málaga,1993.99,9.72,205.08,0.94,92.61,"22 Std., 28 Min."
+lille,vilnius,1778.75,14.89,119.44,0.94,2.03,0
+lille,essen,351.58,3.03,116.06,0.94,0.62,"4 Std., 13 Min."
+lille,sheffield,522.35,4.39,119.07,0.94,0.41,"4 Std., 5 Min."
+lille,kayseri,3777.38,31.49,119.95,0.94,0.36,0
+lille,bremen,584.42,4.96,117.8,0.94,0.91,"6 Std., 31 Min."
+lille,dresden,911.53,8.28,110.07,0.94,1.12,"9 Std., 11 Min."
+lille,genova,1057.16,8.39,126.05,0.94,0.43,"11 Std., 43 Min."
+lille,københavn,1192.44,8.21,145.25,0.94,0.18,"14 Std., 19 Min."
+lille,manchester,561.54,4.22,133.07,0.94,0.6,"4 Std., 9 Min."
+lille,poznan,1113.25,8.07,138.01,0.94,1.07,"12 Std., 58 Min."
+lille,hannover,592.72,4.72,125.51,0.94,0.96,"6 Std., 35 Min."
+lille,antwerpen,136.24,1.18,115.37,0.94,1.48,"1 Std., 18 Min."
+lille,bradford,580.57,4.74,122.48,0.94,0.35,"4 Std., 32 Min."
+lille,nürnberg,724.51,4.49,161.53,0.94,1.0,"6 Std., 31 Min."
+lille,edinburgh,893.44,7.63,117.11,0.94,0.14,"6 Std., 6 Min."
+lille,duisburg,333.12,2.89,115.13,0.94,0.87,"3 Std., 58 Min."
+gaziantep,sevilla,5609.16,39.53,141.91,23.61,0.73,0
+gaziantep,torino,3662.65,30.31,120.83,23.61,1.27,0
+gaziantep,konya,1181.95,7.07,167.12,23.61,0.73,0
+gaziantep,kraków,3300.75,28.3,116.64,23.61,0.8,0
+gaziantep,Den haag,4629.7,35.82,129.24,23.61,9.47,0
+gaziantep,bilbao,5078.94,40.39,125.73,23.61,0.31,0
+gaziantep,leeds,4850.6,38.75,125.17,23.61,0.18,0
+gaziantep,frankfurt am main,3789.39,31.27,121.18,23.61,1.47,0
+gaziantep,zagreb,2860.2,24.02,119.09,23.61,1.2,0
+gaziantep,bordeaux,4584.02,37.99,120.68,23.61,2.37,0
+gaziantep,toulouse,4440.8,35.46,125.24,23.61,1.06,0
+gaziantep,göteborg,4827.49,38.32,125.96,23.61,0.46,0
+gaziantep,zürich,3666.14,31.14,117.71,23.61,0.1,0
+gaziantep,oslo,5163.61,40.41,127.78,23.61,0.12,0
+gaziantep,antalya,1392.97,9.16,152.09,23.61,136.87,0
+gaziantep,zaragoza,4855.04,36.77,132.02,23.61,1.58,0
+gaziantep,helsinki,4593.15,39.64,115.88,23.61,74.83,0
+gaziantep,wroclaw,3395.44,28.23,120.29,23.61,0.1,0
+gaziantep,lodz,3495.07,29.96,116.67,23.61,0.2,0
+gaziantep,stuttgart,3665.27,30.63,119.66,23.61,0.3,0
+gaziantep,palermo,4238.95,32.91,128.81,23.61,269.19,0
+gaziantep,düsseldorf,4002.04,32.26,124.06,23.61,1.13,0
+gaziantep,glasgow,5198.65,43.35,119.93,23.61,0.45,0
+gaziantep,leipzig,3684.66,30.48,120.88,23.61,0.9,0
+gaziantep,RIGA-,4147.34,35.58,116.58,23.61,0.37,0
+gaziantep,diyarbakir,470.26,3.92,120.0,23.61,2.73,0
+gaziantep,dortmund,4024.6,33.47,120.26,23.61,0.4,0
+gaziantep,málaga,5542.43,39.38,140.74,23.61,92.61,0
+gaziantep,vilnius,3888.45,32.62,119.2,23.61,2.03,0
+gaziantep,essen,4036.33,32.63,123.69,23.61,0.62,0
+gaziantep,sheffield,4812.11,38.62,124.6,23.61,0.41,0
+gaziantep,kayseri,637.84,5.32,120.0,23.61,0.36,0
+gaziantep,bremen,4047.48,33.43,121.06,23.61,0.91,0
+gaziantep,dresden,3567.5,29.62,120.43,23.61,1.12,0
+gaziantep,genova,3650.68,30.66,119.05,23.61,0.43,0
+gaziantep,københavn,4498.5,36.48,123.32,23.61,0.18,0
+gaziantep,manchester,4851.3,38.45,126.16,23.61,0.6,0
+gaziantep,poznan,3557.47,29.77,119.51,23.61,1.07,0
+gaziantep,hannover,3929.34,32.73,120.07,23.61,0.96,0
+gaziantep,antwerpen,4192.38,33.82,123.97,23.61,1.48,0
+gaziantep,bradford,4870.33,38.97,124.97,23.61,0.35,0
+gaziantep,nürnberg,3567.42,29.81,119.68,23.61,1.0,0
+gaziantep,edinburgh,5183.2,41.86,123.82,23.61,0.14,0
+gaziantep,duisburg,4024.79,32.41,124.18,23.61,0.87,0
+sevilla,torino,1952.03,9.31,209.63,0.73,1.27,"27 Std., 38 Min."
+sevilla,konya,4846.3,34.16,141.86,0.73,0.73,0
+sevilla,kraków,3314.5,20.25,163.65,0.73,0.8,0
+sevilla,Den haag,1993.41,10.53,189.37,0.73,9.47,"24 Std., 1 Min."
+sevilla,bilbao,969.85,4.51,215.18,0.73,0.31,"8 Std., 21 Min."
+sevilla,leeds,2579.86,15.16,170.19,0.73,0.18,"25 Std., 46 Min."
+sevilla,frankfurt am main,2380.82,11.82,201.41,0.73,1.47,"24 Std., 29 Min."
+sevilla,zagreb,2748.97,15.51,177.19,0.73,1.2,"41 Std., 38 Min."
+sevilla,bordeaux,1280.07,6.86,186.62,0.73,2.37,"13 Std., 24 Min."
+sevilla,toulouse,1398.89,7.88,177.57,0.73,1.06,"10 Std., 11 Min."
+sevilla,göteborg,3548.03,20.31,174.68,0.73,0.46,0
+sevilla,zürich,2149.61,10.83,198.56,0.73,0.1,"23 Std., 58 Min."
+sevilla,oslo,3884.15,22.4,173.41,0.73,0.12,0
+sevilla,antalya,4764.48,35.06,135.91,0.73,136.87,0
+sevilla,zaragoza,758.99,2.9,261.84,0.73,1.58,"3 Std., 38 Min."
+sevilla,helsinki,4316.92,29.48,146.42,0.73,74.83,0
+sevilla,wroclaw,3100.61,17.22,180.1,0.73,0.1,0
+sevilla,lodz,3321.46,19.6,169.42,0.73,0.2,0
+sevilla,stuttgart,2331.07,11.93,195.36,0.73,0.3,"23 Std., 34 Min."
+sevilla,palermo,2947.84,15.66,188.22,0.73,269.19,"46 Std., 52 Min."
+sevilla,düsseldorf,2335.68,12.71,183.82,0.73,1.13,"26 Std., 6 Min."
+sevilla,glasgow,2927.91,19.76,148.21,0.73,0.45,0
+sevilla,leipzig,2749.44,14.39,191.08,0.73,0.9,"27 Std., 54 Min."
+sevilla,RIGA-,3871.11,25.42,152.26,0.73,0.37,0
+sevilla,diyarbakir,5643.55,39.84,141.64,0.73,2.73,0
+sevilla,dortmund,2405.95,13.31,180.77,0.73,0.4,"26 Std., 51 Min."
+sevilla,málaga,184.35,1.17,157.44,0.73,92.61,"1 Std., 47 Min."
+sevilla,vilnius,3797.92,24.5,154.99,0.73,2.03,0
+sevilla,essen,2371.82,12.99,182.54,0.73,0.62,"26 Std., 32 Min."
+sevilla,sheffield,2541.37,15.03,169.12,0.73,0.41,0
+sevilla,kayseri,5094.62,36.73,138.71,0.73,0.36,0
+sevilla,bremen,2614.96,14.56,179.57,0.73,0.91,"28 Std., 45 Min."
+sevilla,dresden,2865.63,15.22,188.29,0.73,1.12,"29 Std., 9 Min."
+sevilla,genova,1983.84,9.77,203.01,0.73,0.43,"25 Std., 58 Min."
+sevilla,københavn,3219.04,18.46,174.34,0.73,0.18,0
+sevilla,manchester,2580.56,14.86,173.66,0.73,0.6,"25 Std., 35 Min."
+sevilla,poznan,3111.64,17.01,182.93,0.73,1.07,0
+sevilla,hannover,2611.89,14.34,182.2,0.73,0.96,"27 Std., 26 Min."
+sevilla,antwerpen,2191.22,11.43,191.78,0.73,1.48,"22 Std., 57 Min."
+sevilla,bradford,2599.59,15.38,169.02,0.73,0.35,0
+sevilla,nürnberg,2498.75,13.02,191.86,0.73,1.0,"26 Std., 50 Min."
+sevilla,edinburgh,2912.46,18.27,159.42,0.73,0.14,"27 Std., 56 Min."
+sevilla,duisburg,2353.37,12.86,183.03,0.73,0.87,0
+torino,konya,2899.78,24.95,116.24,1.27,0.73,0
+torino,kraków,1408.52,11.34,124.17,1.27,0.8,"18 Std., 50 Min."
+torino,Den haag,1099.27,6.6,166.58,1.27,9.47,"12 Std., 21 Min."
+torino,bilbao,1421.81,10.18,139.73,1.27,0.31,"24 Std., 40 Min."
+torino,leeds,1471.31,10.46,140.68,1.27,0.18,"14 Std., 27 Min."
+torino,frankfurt am main,742.51,5.2,142.77,1.27,1.47,"8 Std., 22 Min."
+torino,zagreb,802.45,6.3,127.44,1.27,1.2,"14 Std., 20 Min."
+torino,bordeaux,926.88,7.77,119.33,1.27,2.37,"11 Std., 44 Min."
+torino,toulouse,783.66,5.24,149.56,1.27,1.06,"13 Std., 16 Min."
+torino,göteborg,2072.39,13.36,155.08,1.27,0.46,"22 Std., 35 Min."
+torino,zürich,367.9,2.84,129.42,1.27,0.1,"4 Std., 25 Min."
+torino,oslo,2408.52,15.45,155.89,1.27,0.12,0
+torino,antalya,2817.96,25.84,109.06,1.27,136.87,0
+torino,zaragoza,1197.91,6.55,182.76,1.27,1.58,"15 Std., 42 Min."
+torino,helsinki,2644.25,21.8,121.27,1.27,74.83,0
+torino,wroclaw,1368.81,13.68,100.03,1.27,0.1,"19 Std., 35 Min."
+torino,lodz,1548.16,12.65,122.38,1.27,0.2,"21 Std., 28 Min."
+torino,stuttgart,649.66,5.27,123.3,1.27,0.3,"7 Std., 32 Min."
+torino,palermo,1125.36,7.02,160.32,1.27,269.19,"15 Std., 50 Min."
+torino,düsseldorf,941.54,7.21,130.52,1.27,1.13,"9 Std., 39 Min."
+torino,glasgow,1819.36,15.06,120.85,1.27,0.45,0
+torino,leipzig,1058.47,7.79,135.96,1.27,0.9,"11 Std., 40 Min."
+torino,RIGA-,2198.43,17.75,123.89,1.27,0.37,0
+torino,diyarbakir,3697.04,30.63,120.71,1.27,2.73,0
+torino,dortmund,999.0,7.54,132.46,1.27,0.4,"10 Std., 33 Min."
+torino,málaga,1885.29,9.16,205.8,1.27,92.61,"27 Std., 29 Min."
+torino,vilnius,2125.25,16.83,126.31,1.27,2.03,0
+torino,essen,975.83,7.59,128.63,1.27,0.62,"10 Std., 10 Min."
+torino,sheffield,1432.82,10.33,138.74,1.27,0.41,0
+torino,kayseri,3148.11,27.51,114.43,1.27,0.36,0
+torino,bremen,1195.93,7.66,156.03,1.27,0.91,"12 Std., 17 Min."
+torino,dresden,1146.36,9.46,121.17,1.27,1.12,"13 Std., 8 Min."
+torino,genova,161.36,1.13,142.83,1.27,0.43,"1 Std., 50 Min."
+torino,københavn,1743.4,11.52,151.39,1.27,0.18,"18 Std., 34 Min."
+torino,manchester,1472.01,10.16,144.88,1.27,0.6,
+torino,poznan,1420.67,10.41,136.52,1.27,1.07,"17 Std., 9 Min."
+torino,hannover,1073.83,6.86,156.59,1.27,0.96,"10 Std., 47 Min."
+torino,antwerpen,1018.69,7.74,131.56,1.27,1.48,"11 Std., 37 Min."
+torino,bradford,1491.04,10.68,139.61,1.27,0.35,0
+torino,nürnberg,754.58,5.92,127.37,1.27,1.0,"9 Std., 24 Min."
+torino,edinburgh,1803.91,13.57,132.94,1.27,0.14,"16 Std., 30 Min."
+torino,duisburg,964.29,7.37,130.91,1.27,0.87,"9 Std., 52 Min."
+konya,kraków,2537.53,22.9,110.8,0.73,0.8,0
+konya,Den haag,3866.47,30.43,127.08,0.73,9.47,0
+konya,bilbao,4315.72,35.0,123.32,0.73,0.31,0
+konya,leeds,4087.37,33.35,122.55,0.73,0.18,0
+konya,frankfurt am main,3026.16,25.87,116.96,0.73,1.47,0
+konya,zagreb,2096.98,18.62,112.62,0.73,1.2,0
+konya,bordeaux,3820.79,32.59,117.24,0.73,2.37,0
+konya,toulouse,3677.57,30.06,122.33,0.73,1.06,0
+konya,göteborg,4064.26,32.93,123.43,0.73,0.46,0
+konya,zürich,2902.92,25.75,112.74,0.73,0.1,0
+konya,oslo,4400.39,35.01,125.67,0.73,0.12,0
+konya,antalya,629.75,3.76,167.42,0.73,136.87,0
+konya,zaragoza,4091.82,31.38,130.41,0.73,1.58,0
+konya,helsinki,3829.93,34.24,111.86,0.73,74.83,0
+konya,wroclaw,2632.21,22.83,115.3,0.73,0.1,0
+konya,lodz,2731.84,24.56,111.23,0.73,0.2,0
+konya,stuttgart,2902.04,25.23,115.0,0.73,0.3,0
+konya,palermo,3475.72,27.51,126.34,0.73,269.19,0
+konya,düsseldorf,3238.82,26.86,120.57,0.73,1.13,0
+konya,glasgow,4435.43,37.95,116.88,0.73,0.45,0
+konya,leipzig,2921.43,25.08,116.47,0.73,0.9,0
+konya,RIGA-,3384.11,30.18,112.14,0.73,0.37,0
+konya,diyarbakir,1215.98,7.36,165.31,0.73,2.73,"19 Std., 2 Min."
+konya,dortmund,3261.37,28.07,116.2,0.73,0.4,0
+konya,málaga,4779.2,33.98,140.64,0.73,92.61,0
+konya,vilnius,3125.23,27.22,114.8,0.73,2.03,0
+konya,essen,3273.11,27.23,120.18,0.73,0.62,0
+konya,sheffield,4048.88,33.22,121.87,0.73,0.41,0
+konya,kayseri,667.05,4.24,157.31,0.73,0.36,"9 Std., 38 Min."
+konya,bremen,3284.25,28.04,117.14,0.73,0.91,0
+konya,dresden,2804.27,24.23,115.75,0.73,1.12,0
+konya,genova,2887.45,25.27,114.27,0.73,0.43,0
+konya,københavn,3735.27,31.08,120.18,0.73,0.18,0
+konya,manchester,4088.07,33.05,123.67,0.73,0.6,0
+konya,poznan,2794.24,24.37,114.66,0.73,1.07,0
+konya,hannover,3166.11,27.33,115.85,0.73,0.96,0
+konya,antwerpen,3429.16,28.42,120.65,0.73,1.48,0
+konya,bradford,4107.1,33.57,122.33,0.73,0.35,0
+konya,nürnberg,2804.19,24.41,114.88,0.73,1.0,0
+konya,edinburgh,4419.97,36.46,121.21,0.73,0.14,0
+konya,duisburg,3261.56,27.01,120.74,0.73,0.87,0
+kraków,Den haag,1914.27,15.56,123.02,0.8,9.47,14 Std.
+kraków,bilbao,2617.04,16.65,157.21,0.8,0.31,0
+kraków,leeds,1957.0,17.2,113.76,0.8,0.18,0
+kraków,frankfurt am main,977.85,7.61,128.47,0.8,1.47,"11 Std., 31 Min."
+kraków,zagreb,759.11,7.59,100.03,0.8,1.2,"14 Std., 27 Min."
+kraków,bordeaux,2097.5,12.72,164.86,0.8,2.37,"21 Std., 31 Min."
+kraków,toulouse,2138.47,16.1,132.84,0.8,1.06,"25 Std., 18 Min."
+kraków,göteborg,1692.0,11.88,142.42,0.8,0.46,0
+kraków,zürich,1166.69,9.43,123.66,0.8,0.1,"14 Std., 37 Min."
+kraków,oslo,2028.12,13.97,145.21,0.8,0.12,"27 Std., 45 Min."
+kraków,antalya,2456.06,23.82,103.09,0.8,136.87,0
+kraków,zaragoza,2552.71,17.41,146.59,0.8,1.58,"29 Std., 56 Min."
+kraków,helsinki,1489.17,12.89,115.54,0.8,74.83,0
+kraków,wroclaw,256.36,2.16,118.66,0.8,0.1,"2 Std., 47 Min."
+kraków,lodz,263.77,2.04,129.54,0.8,0.2,"2 Std., 28 Min."
+kraków,stuttgart,1013.54,9.77,103.76,0.8,0.3,"12 Std., 49 Min."
+kraków,palermo,1986.38,14.04,141.45,0.8,269.19,"31 Std., 50 Min."
+kraków,düsseldorf,1078.72,9.89,109.02,0.8,1.13,"11 Std., 46 Min."
+kraków,glasgow,2305.05,21.8,105.74,0.8,0.45,"26 Std., 14 Min."
+kraków,leipzig,610.96,5.03,121.35,0.8,0.9,"8 Std., 52 Min."
+kraków,RIGA-,1043.35,8.83,118.17,0.8,0.37,0
+kraków,diyarbakir,3335.14,28.61,116.57,0.8,2.73,"81 Std., 44 Min."
+kraków,dortmund,1017.51,9.37,108.64,0.8,0.4,"10 Std., 49 Min."
+kraków,málaga,3240.1,20.02,161.85,0.8,92.61,"38 Std., 56 Min."
+kraków,vilnius,791.83,6.52,121.39,0.8,2.03,0
+kraków,essen,1049.28,9.75,107.58,0.8,0.62,"11 Std., 14 Min."
+kraków,sheffield,1918.51,17.07,112.38,0.8,0.41,"19 Std., 22 Min."
+kraków,kayseri,2786.21,25.5,109.28,0.8,0.36,"65 Std., 44 Min."
+kraków,bremen,925.94,7.88,117.58,0.8,0.91,"10 Std., 20 Min."
+kraków,dresden,522.89,4.44,117.8,0.8,1.12,"9 Std., 13 Min."
+kraków,genova,1396.54,11.69,119.42,0.8,0.43,"19 Std., 31 Min."
+kraków,københavn,1363.01,10.03,135.86,0.8,0.18,15 Std.
+kraków,manchester,1957.7,16.91,115.8,0.8,0.6,0
+kraków,poznan,397.28,4.01,99.03,0.8,1.07,"4 Std., 42 Min."
+kraków,hannover,827.52,7.0,118.22,0.8,0.96,"9 Std., 7 Min."
+kraków,antwerpen,1267.83,11.63,109.05,0.8,1.48,"15 Std., 9 Min."
+kraków,bradford,1976.73,17.43,113.44,0.8,0.35,0
+kraków,nürnberg,822.95,8.32,98.96,0.8,1.0,"10 Std., 16 Min."
+kraków,edinburgh,2289.6,20.31,112.71,0.8,0.14,"21 Std., 22 Min."
+kraków,duisburg,1067.46,9.87,108.18,0.8,0.87,"11 Std., 27 Min."
+Den haag,bilbao,1232.87,7.6,162.29,9.47,0.31,"11 Std., 51 Min."
+Den haag,leeds,1016.28,7.9,128.67,9.47,0.18,"7 Std., 28 Min."
+Den haag,frankfurt am main,949.81,5.55,171.28,9.47,1.47,"3 Std., 56 Min."
+Den haag,zagreb,1769.5,11.8,149.91,9.47,1.2,"20 Std., 23 Min."
+Den haag,bordeaux,713.34,3.67,194.21,9.47,2.37,"5 Std., 44 Min."
+Den haag,toulouse,945.83,6.94,136.32,9.47,1.06,"8 Std., 29 Min."
+Den haag,göteborg,2042.08,13.15,155.27,9.47,0.46,"16 Std., 10 Min."
+Den haag,zürich,984.91,6.71,146.73,9.47,0.1,"7 Std., 50 Min."
+Den haag,oslo,2378.2,15.24,156.07,9.47,0.12,"21 Std., 35 Min."
+Den haag,antalya,3785.01,31.35,120.75,9.47,136.87,0
+Den haag,zaragoza,1282.08,7.91,162.07,9.47,1.58,"13 Std., 12 Min."
+Den haag,helsinki,2812.05,22.68,124.01,9.47,74.83,0
+Den haag,wroclaw,1657.94,13.4,123.74,9.47,0.1,"11 Std., 8 Min."
+Den haag,lodz,1866.99,13.72,136.13,9.47,0.2,0
+Den haag,stuttgart,971.29,5.24,185.53,9.47,0.3,"5 Std., 10 Min."
+Den haag,palermo,2191.59,12.5,175.35,9.47,269.19,0
+Den haag,düsseldorf,841.42,6.09,138.1,9.47,1.13,"2 Std., 41 Min."
+Den haag,glasgow,1364.34,12.5,109.19,9.47,0.45,"9 Std., 41 Min."
+Den haag,leipzig,1309.65,10.25,127.72,9.47,0.9,"7 Std., 7 Min."
+Den haag,RIGA-,2366.24,18.62,127.11,9.47,0.37,0
+Den haag,diyarbakir,4664.08,36.13,129.08,9.47,2.73,0
+Den haag,dortmund,900.0,6.15,146.34,9.47,0.4,"3 Std., 11 Min."
+Den haag,málaga,1926.68,10.38,185.53,9.47,92.61,"24 Std., 58 Min."
+Den haag,vilnius,2293.05,17.7,129.57,9.47,2.03,0
+Den haag,essen,865.88,5.83,148.42,9.47,0.62,"2 Std., 45 Min."
+Den haag,sheffield,977.79,7.77,125.89,9.47,0.41,"7 Std., 19 Min."
+Den haag,kayseri,4115.15,33.02,124.63,9.47,0.36,0
+Den haag,bremen,1109.01,7.4,149.82,9.47,0.91,"4 Std., 28 Min."
+Den haag,dresden,1425.82,11.09,128.61,9.47,1.12,"8 Std., 47 Min."
+Den haag,genova,1254.76,7.62,164.68,9.47,0.43,"13 Std., 34 Min."
+Den haag,københavn,1713.09,11.3,151.54,9.47,0.18,"11 Std., 28 Min."
+Den haag,manchester,1016.98,7.6,133.81,9.47,0.6,"7 Std., 25 Min."
+Den haag,poznan,1627.54,10.87,149.71,9.47,1.07,"9 Std., 50 Min."
+Den haag,hannover,1107.02,7.53,147.07,9.47,0.96,"10 Std., 58 Min."
+Den haag,antwerpen,662.53,4.76,139.2,9.47,1.48,1 Std.
+Den haag,bradford,1036.01,8.12,127.59,9.47,0.35,0
+Den haag,nürnberg,1133.89,6.82,166.26,9.47,1.0,"6 Std., 48 Min."
+Den haag,edinburgh,1348.88,11.01,122.52,9.47,0.14,"9 Std., 22 Min."
+Den haag,duisburg,847.42,5.7,148.72,9.47,0.87,"2 Std., 28 Min."
+bilbao,leeds,1819.32,12.22,148.84,0.31,0.18,0
+bilbao,frankfurt am main,1640.91,9.09,180.59,0.31,1.47,"13 Std., 1 Min."
+bilbao,zagreb,2218.76,16.38,135.44,0.31,1.2,0
+bilbao,bordeaux,519.53,3.92,132.4,0.31,2.37,"6 Std., 6 Min."
+bilbao,toulouse,638.35,4.94,129.16,0.31,1.06,"8 Std., 39 Min."
+bilbao,göteborg,2787.49,17.38,160.42,0.31,0.46,0
+bilbao,zürich,1548.82,11.43,135.56,0.31,0.1,"13 Std., 28 Min."
+bilbao,oslo,3123.62,19.46,160.49,0.31,0.12,0
+bilbao,antalya,4234.27,35.92,117.87,0.31,136.87,0
+bilbao,zaragoza,340.43,2.55,133.37,0.31,1.58,"4 Std., 29 Min."
+bilbao,helsinki,3556.39,26.55,133.96,0.31,74.83,0
+bilbao,wroclaw,2360.69,14.48,163.01,0.31,0.1,"27 Std., 27 Min."
+bilbao,lodz,2581.54,16.87,153.02,0.31,0.2,"29 Std., 10 Min."
+bilbao,stuttgart,1662.39,8.78,189.42,0.31,0.3,"13 Std., 6 Min."
+bilbao,palermo,2417.63,16.53,146.27,0.31,269.19,0
+bilbao,düsseldorf,1575.15,9.77,161.21,0.31,1.13,"13 Std., 43 Min."
+bilbao,glasgow,2167.38,16.82,128.86,0.31,0.45,0
+bilbao,leipzig,2009.53,11.66,172.42,0.31,0.9,"16 Std., 26 Min."
+bilbao,RIGA-,3110.57,22.49,138.32,0.31,0.37,0
+bilbao,diyarbakir,5113.34,40.71,125.6,0.31,2.73,0
+bilbao,dortmund,1645.41,10.37,158.61,0.31,0.4,"14 Std., 40 Min."
+bilbao,málaga,903.12,4.36,207.15,0.31,92.61,"8 Std., 5 Min."
+bilbao,vilnius,3037.38,21.57,140.82,0.31,2.03,0
+bilbao,essen,1611.29,10.06,160.2,0.31,0.62,"14 Std., 10 Min."
+bilbao,sheffield,1780.83,12.09,147.28,0.31,0.41,0
+bilbao,kayseri,4564.41,37.6,121.41,0.31,0.36,0
+bilbao,bremen,1854.42,11.63,159.5,0.31,0.91,"17 Std., 22 Min."
+bilbao,dresden,2125.72,12.49,170.26,0.31,1.12,"17 Std., 41 Min."
+bilbao,genova,1453.63,10.64,136.63,0.31,0.43,0
+bilbao,københavn,2458.5,15.53,158.32,0.31,0.18,0
+bilbao,manchester,1820.02,11.92,152.63,0.31,0.6,0
+bilbao,poznan,2371.73,14.28,166.14,0.31,1.07,"26 Std., 32 Min."
+bilbao,hannover,1851.35,11.4,162.4,0.31,0.96,"15 Std., 58 Min."
+bilbao,antwerpen,1430.68,8.49,168.51,0.31,1.48,"17 Std., 29 Min."
+bilbao,bradford,1839.05,12.44,147.78,0.31,0.35,0
+bilbao,nürnberg,1824.99,10.36,176.14,0.31,1.0,"15 Std., 59 Min."
+bilbao,edinburgh,2151.92,15.33,140.34,0.31,0.14,0
+bilbao,duisburg,1592.83,9.92,160.53,0.31,0.87,"13 Std., 56 Min."
+leeds,frankfurt am main,1063.48,7.62,139.61,0.18,1.47,"8 Std., 9 Min."
+leeds,zagreb,1993.22,15.3,130.3,0.18,1.2,"23 Std., 48 Min."
+leeds,bordeaux,1299.88,8.38,155.16,0.18,2.37,"7 Std., 44 Min."
+leeds,toulouse,1465.11,11.59,126.43,0.18,1.06,"10 Std., 30 Min."
+leeds,göteborg,2078.45,14.61,142.23,0.18,0.46,0
+leeds,zürich,1276.46,9.76,130.76,0.18,0.1,"9 Std., 41 Min."
+leeds,oslo,2414.58,16.7,144.58,0.18,0.12,0
+leeds,antalya,4005.91,34.37,116.57,0.18,136.87,0
+leeds,zaragoza,1868.62,12.62,148.12,0.18,1.58,"15 Std., 12 Min."
+leeds,helsinki,2854.77,24.43,116.87,0.18,74.83,0
+leeds,wroclaw,1700.66,15.15,112.25,0.18,0.1,"19 Std., 43 Min."
+leeds,lodz,1909.71,15.47,123.47,0.18,0.2,0
+leeds,stuttgart,1196.44,9.87,121.21,0.18,0.3,"9 Std., 4 Min."
+leeds,palermo,2540.88,16.09,157.96,0.18,269.19,0
+leeds,düsseldorf,889.65,7.46,119.32,0.18,1.13,"7 Std., 40 Min."
+leeds,glasgow,350.03,4.64,75.43,0.18,0.45,"3 Std., 56 Min."
+leeds,leipzig,1352.37,12.01,112.64,0.18,0.9,"12 Std., 24 Min."
+leeds,RIGA-,2408.96,20.37,118.27,0.18,0.37,0
+leeds,diyarbakir,4884.98,39.15,124.77,0.18,2.73,0
+leeds,dortmund,942.73,7.9,119.3,0.18,0.4,"8 Std., 34 Min."
+leeds,málaga,2513.22,15.09,166.55,0.18,92.61,0
+leeds,vilnius,2335.77,19.45,120.1,0.18,2.03,0
+leeds,essen,908.6,7.59,119.77,0.18,0.62,"8 Std., 10 Min."
+leeds,sheffield,60.2,0.88,68.45,0.18,0.41,0
+leeds,kayseri,4336.05,36.04,120.32,0.18,0.36,0
+leeds,bremen,1141.43,9.52,119.93,0.18,0.91,"10 Std., 28 Min."
+leeds,dresden,1468.55,12.84,114.39,0.18,1.12,"13 Std., 39 Min."
+leeds,genova,1615.84,12.93,124.95,0.18,0.43,0
+leeds,københavn,1749.46,12.77,137.04,0.18,0.18,0
+leeds,manchester,68.33,1.05,64.89,0.18,0.6,0
+leeds,poznan,1670.27,12.62,132.32,0.18,1.07,0
+leeds,hannover,1149.74,9.28,123.91,0.18,0.96,"10 Std., 40 Min."
+leeds,antwerpen,693.26,5.74,120.83,0.18,1.48,"5 Std., 26 Min."
+leeds,bradford,21.71,0.27,81.71,0.18,0.35,0
+leeds,nürnberg,1283.18,9.03,142.07,0.18,1.0,"10 Std., 47 Min."
+leeds,edinburgh,344.13,4.57,75.22,0.18,0.14,"2 Std., 53 Min."
+leeds,duisburg,890.14,7.45,119.48,0.18,0.87,"8 Std., 3 Min."
+frankfurt am main,zagreb,932.01,7.73,120.62,1.47,1.2,"13 Std., 26 Min."
+frankfurt am main,bordeaux,1121.38,5.17,217.01,1.47,2.37,"6 Std., 45 Min."
+frankfurt am main,toulouse,1204.6,9.46,127.32,1.47,1.06,"9 Std., 26 Min."
+frankfurt am main,göteborg,1331.6,8.21,162.12,1.47,0.46,"12 Std., 7 Min."
+frankfurt am main,zürich,411.39,2.89,142.11,1.47,0.1,"3 Std., 51 Min."
+frankfurt am main,oslo,1667.73,10.3,161.91,1.47,0.12,"16 Std., 49 Min."
+frankfurt am main,antalya,2944.7,26.8,109.89,1.47,136.87,0
+frankfurt am main,zaragoza,1626.71,9.08,179.2,1.47,1.58,"14 Std., 46 Min."
+frankfurt am main,helsinki,1956.12,16.64,117.56,1.47,74.83,0
+frankfurt am main,wroclaw,721.5,5.45,132.47,1.47,0.1,"8 Std., 51 Min."
+frankfurt am main,lodz,942.35,7.83,120.28,1.47,0.2,"10 Std., 9 Min."
+frankfurt am main,stuttgart,178.96,1.13,157.78,1.47,0.3,"1 Std., 11 Min."
+frankfurt am main,palermo,1675.81,9.22,181.79,1.47,269.19,"23 Std., 31 Min."
+frankfurt am main,düsseldorf,214.92,1.04,207.41,1.47,1.13,"1 Std., 9 Min."
+frankfurt am main,glasgow,1411.53,12.12,116.42,1.47,0.45,"10 Std., 34 Min."
+frankfurt am main,leipzig,370.34,2.62,141.38,1.47,0.9,"2 Std., 56 Min."
+frankfurt am main,RIGA-,1510.3,12.58,120.06,1.47,0.37,0
+frankfurt am main,diyarbakir,3823.77,31.58,121.07,1.47,2.73,"92 Std., 5 Min."
+frankfurt am main,dortmund,262.34,2.46,106.73,1.47,0.4,"2 Std., 9 Min."
+frankfurt am main,málaga,2314.09,11.68,198.06,1.47,92.61,"26 Std., 33 Min."
+frankfurt am main,vilnius,1437.12,11.66,123.25,1.47,2.03,0
+frankfurt am main,essen,249.21,1.41,176.91,1.47,0.62,"1 Std., 45 Min."
+frankfurt am main,sheffield,1024.99,7.4,138.58,1.47,0.41,"8 Std., 7 Min."
+frankfurt am main,kayseri,3274.84,28.47,115.04,1.47,0.36,"82 Std., 41 Min."
+frankfurt am main,bremen,455.15,2.51,180.99,1.47,0.91,"3 Std., 29 Min."
+frankfurt am main,dresden,486.53,3.45,141.03,1.47,1.12,"4 Std., 20 Min."
+frankfurt am main,genova,781.54,5.61,139.25,1.47,0.43,"9 Std., 18 Min."
+frankfurt am main,københavn,1002.61,6.37,157.49,1.47,0.18,"8 Std., 40 Min."
+frankfurt am main,manchester,1064.18,7.23,147.2,1.47,0.6,"8 Std., 17 Min."
+frankfurt am main,poznan,732.54,5.24,139.79,1.47,1.07,"7 Std., 16 Min."
+frankfurt am main,hannover,333.04,1.71,195.03,1.47,0.96,"2 Std., 14 Min."
+frankfurt am main,antwerpen,405.26,2.6,156.11,1.47,1.48,"3 Std., 56 Min."
+frankfurt am main,bradford,1083.21,7.75,139.78,1.47,0.35,"8 Std., 49 Min."
+frankfurt am main,nürnberg,221.97,1.46,151.82,1.47,1.0,"1 Std., 55 Min."
+frankfurt am main,edinburgh,1396.08,10.64,131.22,1.47,0.14,"10 Std., 14 Min."
+frankfurt am main,duisburg,237.66,1.19,200.04,1.47,0.87,"1 Std., 28 Min."
+zagreb,bordeaux,1723.82,13.97,123.4,1.2,2.37,0
+zagreb,toulouse,1580.6,11.44,138.14,1.2,1.06,"25 Std., 1 Min."
+zagreb,göteborg,2120.4,16.05,132.14,1.2,0.46,"29 Std., 40 Min."
+zagreb,zürich,805.94,7.13,113.06,1.2,0.1,"14 Std., 15 Min."
+zagreb,oslo,2456.52,18.13,135.47,1.2,0.12,"36 Std., 41 Min."
+zagreb,antalya,2015.51,19.54,103.14,1.2,136.87,0
+zagreb,zaragoza,1994.84,12.76,156.37,1.2,1.58,0
+zagreb,helsinki,2194.71,21.45,102.31,1.2,74.83,0
+zagreb,wroclaw,804.21,8.62,93.32,1.2,0.1,"13 Std., 41 Min."
+zagreb,lodz,926.53,9.4,98.62,1.2,0.2,"15 Std., 3 Min."
+zagreb,stuttgart,805.07,6.61,121.71,1.2,0.3,"12 Std., 53 Min."
+zagreb,palermo,1378.75,8.89,155.05,1.2,269.19,"28 Std., 52 Min."
+zagreb,düsseldorf,1144.66,8.72,131.34,1.2,1.13,"15 Std., 31 Min."
+zagreb,glasgow,2341.27,19.8,118.22,1.2,0.45,"26 Std., 23 Min."
+zagreb,leipzig,942.71,8.68,108.6,1.2,0.9,"14 Std., 5 Min."
+zagreb,RIGA-,1748.9,17.39,100.56,1.2,0.37,0
+zagreb,diyarbakir,2894.59,24.33,118.97,1.2,2.73,0
+zagreb,dortmund,1167.21,9.92,117.64,1.2,0.4,"16 Std., 22 Min."
+zagreb,málaga,2682.22,15.36,174.59,1.2,92.61,"48 Std., 37 Min."
+zagreb,vilnius,1515.01,13.5,112.19,1.2,2.03,0
+zagreb,essen,1178.95,9.09,129.73,1.2,0.62,"15 Std., 57 Min."
+zagreb,sheffield,1954.73,15.08,129.66,1.2,0.41,"23 Std., 29 Min."
+zagreb,kayseri,2345.66,21.21,110.57,1.2,0.36,0
+zagreb,bremen,1254.7,9.56,131.2,1.2,0.91,"16 Std., 46 Min."
+zagreb,dresden,900.25,7.88,114.21,1.2,1.12,"15 Std., 33 Min."
+zagreb,genova,790.47,6.65,118.9,1.2,0.43,"15 Std., 13 Min."
+zagreb,københavn,1791.41,14.2,126.16,1.2,0.18,"24 Std., 58 Min."
+zagreb,manchester,1993.92,14.91,133.74,1.2,0.6,"23 Std., 39 Min."
+zagreb,poznan,968.92,9.7,99.87,1.2,1.07,"15 Std., 36 Min."
+zagreb,hannover,1132.59,8.76,129.35,1.2,0.96,"15 Std., 26 Min."
+zagreb,antwerpen,1335.0,10.28,129.92,1.2,1.48,"19 Std., 40 Min."
+zagreb,bradford,2012.95,15.43,130.47,1.2,0.35,"23 Std., 58 Min."
+zagreb,nürnberg,710.04,6.26,113.36,1.2,1.0,"11 Std., 51 Min."
+zagreb,edinburgh,2325.82,18.32,126.97,1.2,0.14,"25 Std., 49 Min."
+zagreb,duisburg,1167.41,8.87,131.65,1.2,0.87,"15 Std., 44 Min."
+bordeaux,toulouse,257.53,1.64,156.77,2.37,1.06,"2 Std., 23 Min."
+bordeaux,göteborg,2267.96,13.45,168.59,2.37,0.46,"22 Std., 7 Min."
+bordeaux,zürich,1029.3,7.49,137.34,2.37,0.1,"6 Std., 40 Min."
+bordeaux,oslo,2604.08,15.54,167.58,2.37,0.12,0
+bordeaux,antalya,3739.33,33.51,111.58,2.37,136.87,0
+bordeaux,zaragoza,568.74,4.24,134.22,2.37,1.58,"8 Std., 12 Min."
+bordeaux,helsinki,3036.85,22.62,134.23,2.37,74.83,0
+bordeaux,wroclaw,1841.16,10.56,174.38,2.37,0.1,"19 Std., 59 Min."
+bordeaux,lodz,2062.01,12.95,159.27,2.37,0.2,"20 Std., 13 Min."
+bordeaux,stuttgart,1142.86,4.85,235.53,2.37,0.3,"6 Std., 18 Min."
+bordeaux,palermo,2037.01,13.24,153.81,2.37,269.19,0
+bordeaux,düsseldorf,1055.61,5.85,180.53,2.37,1.13,"6 Std., 49 Min."
+bordeaux,glasgow,1647.84,12.9,127.78,2.37,0.45,0
+bordeaux,leipzig,1489.99,7.73,192.73,2.37,0.9,"9 Std., 58 Min."
+bordeaux,RIGA-,2591.04,18.56,139.57,2.37,0.37,0
+bordeaux,diyarbakir,4618.41,38.3,120.58,2.37,2.73,0
+bordeaux,dortmund,1125.88,6.45,174.55,2.37,0.4,"7 Std., 55 Min."
+bordeaux,málaga,1213.34,6.71,180.77,2.37,92.61,"12 Std., 19 Min."
+bordeaux,vilnius,2517.85,17.65,142.69,2.37,2.03,0
+bordeaux,essen,1091.75,6.13,177.98,2.37,0.62,"7 Std., 29 Min."
+bordeaux,sheffield,1261.3,8.17,154.43,2.37,0.41,"7 Std., 53 Min."
+bordeaux,kayseri,4069.48,35.18,115.66,2.37,0.36,0
+bordeaux,bremen,1334.88,7.7,173.3,2.37,0.91,"10 Std., 3 Min."
+bordeaux,dresden,1606.18,8.56,187.6,2.37,1.12,"11 Std., 41 Min."
+bordeaux,genova,1073.01,7.35,145.91,2.37,0.43,"12 Std., 22 Min."
+bordeaux,københavn,1938.97,11.6,167.08,2.37,0.18,17 Std.
+bordeaux,manchester,1300.49,8.0,162.54,2.37,0.6,"7 Std., 53 Min."
+bordeaux,poznan,1852.2,10.35,178.92,2.37,1.07,"18 Std., 23 Min."
+bordeaux,hannover,1331.82,7.48,178.15,2.37,0.96,"9 Std., 5 Min."
+bordeaux,antwerpen,911.15,4.57,199.54,2.37,1.48,"4 Std., 41 Min."
+bordeaux,bradford,1319.52,8.52,154.86,2.37,0.35,"8 Std., 25 Min."
+bordeaux,nürnberg,1305.46,6.44,202.81,2.37,1.0,"9 Std., 4 Min."
+bordeaux,edinburgh,1632.39,11.41,143.06,2.37,0.14,"10 Std., 10 Min."
+bordeaux,duisburg,1073.3,6.0,178.93,2.37,0.87,"7 Std., 13 Min."
+toulouse,göteborg,2433.19,16.66,146.01,1.06,0.46,0
+toulouse,zürich,981.26,6.76,145.21,1.06,0.1,"10 Std., 6 Min."
+toulouse,oslo,2769.31,18.75,147.69,1.06,0.12,0
+toulouse,antalya,3596.12,30.99,116.05,1.06,136.87,0
+toulouse,zaragoza,687.56,5.26,130.81,1.06,1.58,"5 Std., 40 Min."
+toulouse,helsinki,3158.99,26.05,121.25,1.06,74.83,0
+toulouse,wroclaw,1924.37,14.86,129.5,1.06,0.1,0
+toulouse,lodz,2145.22,17.25,124.37,1.06,0.2,0
+toulouse,stuttgart,1154.83,9.58,120.59,1.06,0.3,"8 Std., 31 Min."
+toulouse,palermo,1779.48,11.59,153.49,1.06,269.19,"32 Std., 5 Min."
+toulouse,düsseldorf,1220.84,9.06,134.76,1.06,1.13,"9 Std., 21 Min."
+toulouse,glasgow,1813.07,16.11,112.56,1.06,0.45,"13 Std., 44 Min."
+toulouse,leipzig,1573.2,12.03,130.74,1.06,0.9,"12 Std., 4 Min."
+toulouse,RIGA-,2713.17,21.99,123.36,1.06,0.37,0
+toulouse,diyarbakir,4475.2,35.78,125.09,1.06,2.73,0
+toulouse,dortmund,1291.11,9.66,133.62,1.06,0.4,"10 Std., 18 Min."
+toulouse,málaga,1332.16,7.73,172.32,1.06,92.61,"10 Std., 35 Min."
+toulouse,vilnius,2639.98,21.07,125.27,1.06,2.03,0
+toulouse,essen,1256.98,9.35,134.49,1.06,0.62,"9 Std., 48 Min."
+toulouse,sheffield,1426.53,11.38,125.35,1.06,0.41,"10 Std., 42 Min."
+toulouse,kayseri,3926.27,32.66,120.22,1.06,0.36,0
+toulouse,bremen,1500.11,10.92,137.43,1.06,0.91,13 Std.
+toulouse,dresden,1689.39,12.86,131.33,1.06,1.12,"13 Std., 19 Min."
+toulouse,genova,815.49,5.7,142.98,1.06,0.43,"10 Std., 26 Min."
+toulouse,københavn,2104.2,14.82,142.01,1.06,0.18,"19 Std., 52 Min."
+toulouse,manchester,1465.72,11.21,130.71,1.06,0.6,"10 Std., 41 Min."
+toulouse,poznan,1935.41,14.65,132.07,1.06,1.07,"22 Std., 10 Min."
+toulouse,hannover,1497.04,10.69,140.06,1.06,0.96,"11 Std., 57 Min."
+toulouse,antwerpen,1076.37,7.78,138.38,1.06,1.48,"7 Std., 7 Min."
+toulouse,bradford,1484.75,11.73,126.54,1.06,0.35,"11 Std., 14 Min."
+toulouse,nürnberg,1322.51,10.67,123.97,1.06,1.0,"11 Std., 37 Min."
+toulouse,edinburgh,1797.62,14.62,122.93,1.06,0.14,13 Std.
+toulouse,duisburg,1238.53,9.21,134.46,1.06,0.87,"9 Std., 34 Min."
+göteborg,zürich,1741.27,11.08,157.17,0.46,0.1,"17 Std., 36 Min."
+göteborg,oslo,337.68,2.11,160.38,0.46,0.12,"3 Std., 29 Min."
+göteborg,antalya,3982.8,33.88,117.57,0.46,136.87,0
+göteborg,zaragoza,2836.79,17.72,160.07,0.46,1.58,"34 Std., 2 Min."
+göteborg,helsinki,2459.08,21.18,116.1,0.46,74.83,0
+göteborg,wroclaw,1435.65,9.74,147.38,0.46,0.1,"16 Std., 4 Min."
+göteborg,lodz,1570.68,10.97,143.22,0.46,0.2,"17 Std., 10 Min."
+göteborg,stuttgart,1503.71,9.74,154.37,0.46,0.3,"14 Std., 14 Min."
+göteborg,palermo,2918.86,17.91,162.98,0.46,269.19,0
+göteborg,düsseldorf,1219.61,7.65,159.39,0.46,1.13,"13 Std., 1 Min."
+göteborg,glasgow,2426.51,19.14,126.8,0.46,0.45,"28 Std., 20 Min."
+göteborg,leipzig,1197.18,8.11,147.58,0.46,0.9,"12 Std., 24 Min."
+göteborg,RIGA-,2013.27,17.12,117.59,0.46,0.37,0
+göteborg,diyarbakir,4861.87,38.66,125.75,0.46,2.73,0
+göteborg,dortmund,1159.84,7.69,150.88,0.46,0.4,"12 Std., 8 Min."
+göteborg,málaga,3481.39,20.2,172.38,0.46,92.61,"45 Std., 49 Min."
+göteborg,vilnius,1940.08,16.2,119.74,0.46,2.03,0
+göteborg,essen,1187.16,7.37,161.07,0.46,0.62,"12 Std., 34 Min."
+göteborg,sheffield,2039.97,14.41,141.58,0.46,0.41,"26 Std., 8 Min."
+göteborg,kayseri,4312.94,35.55,121.33,0.46,0.36,0
+göteborg,bremen,948.91,5.87,161.76,0.46,0.91,10 Std.
+göteborg,dresden,1286.1,8.63,148.94,0.46,1.12,"13 Std., 5 Min."
+göteborg,genova,2111.42,13.8,153.04,0.46,0.43,0
+göteborg,københavn,336.16,1.96,171.53,0.46,0.18,"3 Std., 15 Min."
+göteborg,manchester,2079.15,14.24,145.99,0.46,0.6,0
+göteborg,poznan,1321.48,9.19,143.76,0.46,1.07,"14 Std., 6 Min."
+göteborg,hannover,998.56,6.53,152.91,0.46,0.96,"10 Std., 14 Min."
+göteborg,antwerpen,1385.19,8.91,155.49,0.46,1.48,"16 Std., 42 Min."
+göteborg,bradford,2098.19,14.76,142.13,0.46,0.35,0
+göteborg,nürnberg,1410.36,9.81,143.8,0.46,1.0,14 Std.
+göteborg,edinburgh,2411.05,17.65,136.59,0.46,0.14,0
+göteborg,duisburg,1195.31,7.48,159.82,0.46,0.87,"12 Std., 47 Min."
+zürich,oslo,2077.39,13.14,158.16,0.1,0.12,"21 Std., 46 Min."
+zürich,antalya,2821.45,26.67,105.79,0.1,136.87,0
+zürich,zaragoza,1387.83,7.99,173.65,0.1,1.58,"12 Std., 38 Min."
+zürich,helsinki,2307.77,19.02,121.32,0.1,74.83,0
+zürich,wroclaw,1032.33,10.9,94.69,0.1,0.1,"12 Std., 49 Min."
+zürich,lodz,1281.18,11.33,113.06,0.1,0.2,"15 Std., 35 Min."
+zürich,stuttgart,292.28,2.53,115.38,0.1,0.3,"2 Std., 55 Min."
+zürich,palermo,1293.97,6.76,191.41,0.1,269.19,"19 Std., 17 Min."
+zürich,düsseldorf,610.42,4.9,124.6,0.1,1.13,"5 Std., 10 Min."
+zürich,glasgow,1624.52,14.27,113.84,0.1,0.45,0
+zürich,leipzig,721.99,5.0,144.32,0.1,0.9,"7 Std., 11 Min."
+zürich,RIGA-,1861.96,14.96,124.44,0.1,0.37,0
+zürich,diyarbakir,3700.53,31.46,117.63,0.1,2.73,0
+zürich,dortmund,667.87,5.23,127.78,0.1,0.4,"6 Std., 4 Min."
+zürich,málaga,2075.21,10.6,195.81,0.1,92.61,"24 Std., 25 Min."
+zürich,vilnius,1788.77,14.04,127.37,0.1,2.03,0
+zürich,essen,644.71,5.27,122.3,0.1,0.62,"5 Std., 40 Min."
+zürich,sheffield,1237.97,9.54,129.74,0.1,0.41,"9 Std., 27 Min."
+zürich,kayseri,3151.6,28.34,111.2,0.1,0.36,0
+zürich,bremen,864.81,5.35,161.66,0.1,0.91,"7 Std., 48 Min."
+zürich,dresden,809.89,6.68,121.27,0.1,1.12,"8 Std., 39 Min."
+zürich,genova,399.8,2.96,135.26,0.1,0.43,"5 Std., 3 Min."
+zürich,københavn,1412.28,9.2,153.49,0.1,0.18,"13 Std., 39 Min."
+zürich,manchester,1277.16,9.37,136.23,0.1,0.6,"9 Std., 31 Min."
+zürich,poznan,1084.19,7.62,142.22,0.1,1.07,"11 Std., 55 Min."
+zürich,hannover,742.71,4.54,163.5,0.1,0.96,"6 Std., 18 Min."
+zürich,antwerpen,700.54,4.82,145.45,0.1,1.48,"6 Std., 53 Min."
+zürich,bradford,1296.19,9.89,131.0,0.1,0.35,0
+zürich,nürnberg,418.1,3.14,133.08,0.1,1.0,"4 Std., 55 Min."
+zürich,edinburgh,1609.06,12.78,125.86,0.1,0.14,"11 Std., 46 Min."
+zürich,duisburg,633.16,5.05,125.36,0.1,0.87,"5 Std., 23 Min."
+oslo,antalya,4318.92,35.96,120.09,0.12,136.87,0
+oslo,zaragoza,3172.92,19.81,160.18,0.12,1.58,"39 Std., 31 Min."
+oslo,helsinki,2795.21,23.27,120.14,0.12,74.83,0
+oslo,wroclaw,1771.78,11.83,149.8,0.12,0.1,"21 Std., 7 Min."
+oslo,lodz,1906.81,13.05,146.08,0.12,0.2,0
+oslo,stuttgart,1839.84,11.83,155.56,0.12,0.3,"18 Std., 40 Min."
+oslo,palermo,3254.98,20.0,162.78,0.12,269.19,0
+oslo,düsseldorf,1555.73,9.74,159.75,0.12,1.13,"17 Std., 14 Min."
+oslo,glasgow,2762.63,21.22,130.17,0.12,0.45,0
+oslo,leipzig,1533.31,10.2,150.35,0.12,0.9,0
+oslo,RIGA-,2349.39,19.21,122.32,0.12,0.37,0
+oslo,diyarbakir,5198.0,40.75,127.56,0.12,2.73,0
+oslo,dortmund,1495.96,9.77,153.06,0.12,0.4,"16 Std., 21 Min."
+oslo,málaga,3817.52,22.28,171.32,0.12,92.61,0
+oslo,vilnius,2276.2,18.29,124.46,0.12,2.03,0
+oslo,essen,1523.29,9.46,161.07,0.12,0.62,"16 Std., 47 Min."
+oslo,sheffield,2376.09,16.5,144.05,0.12,0.41,0
+oslo,kayseri,4649.07,37.63,123.53,0.12,0.36,0
+oslo,bremen,1285.04,7.95,161.59,0.12,0.91,"14 Std., 13 Min."
+oslo,dresden,1622.23,10.72,151.31,0.12,1.12,"20 Std., 41 Min."
+oslo,genova,2447.55,15.88,154.1,0.12,0.43,0
+oslo,københavn,672.28,4.05,166.15,0.12,0.18,"7 Std., 25 Min."
+oslo,manchester,2415.28,16.33,147.92,0.12,0.6,0
+oslo,poznan,1657.6,11.28,146.97,0.12,1.07,0
+oslo,hannover,1334.69,8.62,154.89,0.12,0.96,"14 Std., 27 Min."
+oslo,antwerpen,1721.32,11.0,156.55,0.12,1.48,"21 Std., 45 Min."
+oslo,bradford,2434.31,16.85,144.48,0.12,0.35,0
+oslo,nürnberg,1746.49,11.89,146.83,0.12,1.0,"18 Std., 38 Min."
+oslo,edinburgh,2747.18,19.74,139.18,0.12,0.14,0
+oslo,duisburg,1531.43,9.57,160.1,0.12,0.87,17 Std.
+antalya,zaragoza,4010.0,32.27,124.28,136.87,1.58,0
+antalya,helsinki,3748.11,35.13,106.7,136.87,74.83,0
+antalya,wroclaw,2550.39,23.72,107.53,136.87,0.1,0
+antalya,lodz,2650.02,25.45,104.14,136.87,0.2,0
+antalya,stuttgart,2820.22,26.12,107.96,136.87,0.3,0
+antalya,palermo,3393.9,28.4,119.5,136.87,269.19,0
+antalya,düsseldorf,3157.0,27.75,113.76,136.87,1.13,0
+antalya,glasgow,4353.61,38.84,112.09,136.87,0.45,0
+antalya,leipzig,2839.61,25.97,109.33,136.87,0.9,0
+antalya,RIGA-,3302.29,31.07,106.29,136.87,0.37,0
+antalya,diyarbakir,1427.01,9.44,151.13,136.87,2.73,0
+antalya,dortmund,3179.55,28.96,109.8,136.87,0.4,0
+antalya,málaga,4697.38,34.87,134.71,136.87,92.61,0
+antalya,vilnius,3043.41,28.11,108.26,136.87,2.03,0
+antalya,essen,3191.29,28.12,113.48,136.87,0.62,0
+antalya,sheffield,3967.07,34.11,116.3,136.87,0.41,0
+antalya,kayseri,878.08,6.33,138.79,136.87,0.36,0
+antalya,bremen,3202.43,28.93,110.71,136.87,0.91,0
+antalya,dresden,2722.45,25.12,108.4,136.87,1.12,0
+antalya,genova,2805.63,26.16,107.26,136.87,0.43,0
+antalya,københavn,3653.46,31.97,114.28,136.87,0.18,0
+antalya,manchester,4006.26,33.94,118.03,136.87,0.6,0
+antalya,poznan,2712.43,25.26,107.38,136.87,1.07,0
+antalya,hannover,3084.3,28.22,109.3,136.87,0.96,0
+antalya,antwerpen,3347.34,29.31,114.2,136.87,1.48,0
+antalya,bradford,4025.29,34.46,116.8,136.87,0.35,0
+antalya,nürnberg,2722.37,25.3,107.61,136.87,1.0,0
+antalya,edinburgh,4338.16,37.35,116.14,136.87,0.14,0
+antalya,duisburg,3179.74,27.9,113.96,136.87,0.87,0
+zaragoza,helsinki,3581.11,25.65,139.59,1.58,74.83,0
+zaragoza,wroclaw,2346.49,14.46,162.25,1.58,0.1,"29 Std., 58 Min."
+zaragoza,lodz,2567.34,16.85,152.35,1.58,0.2,"34 Std., 55 Min."
+zaragoza,stuttgart,1576.95,9.18,171.81,1.58,0.3,"19 Std., 14 Min."
+zaragoza,palermo,2193.73,12.91,169.95,1.58,269.19,"42 Std., 32 Min."
+zaragoza,düsseldorf,1624.35,10.08,161.07,1.58,1.13,"21 Std., 46 Min."
+zaragoza,glasgow,2216.58,17.13,129.37,1.58,0.45,"24 Std., 12 Min."
+zaragoza,leipzig,1995.33,11.64,171.48,1.58,0.9,"23 Std., 34 Min."
+zaragoza,RIGA-,3135.3,21.6,145.18,1.58,0.37,0
+zaragoza,diyarbakir,4889.44,37.09,131.83,1.58,2.73,0
+zaragoza,dortmund,1694.62,10.69,158.56,1.58,0.4,"22 Std., 31 Min."
+zaragoza,málaga,692.26,2.75,251.62,1.58,92.61,"4 Std., 11 Min."
+zaragoza,vilnius,3062.11,20.68,148.1,1.58,2.03,0
+zaragoza,essen,1660.49,10.37,160.1,1.58,0.62,"22 Std., 12 Min."
+zaragoza,sheffield,1830.04,12.41,147.52,1.58,0.41,"21 Std., 58 Min."
+zaragoza,kayseri,4340.51,33.97,127.76,1.58,0.36,0
+zaragoza,bremen,1903.63,11.94,159.43,1.58,0.91,"24 Std., 25 Min."
+zaragoza,dresden,2111.52,12.47,169.38,1.58,1.12,"24 Std., 49 Min."
+zaragoza,genova,1229.73,7.02,175.22,1.58,0.43,"21 Std., 38 Min."
+zaragoza,københavn,2507.71,15.84,158.29,1.58,0.18,"30 Std., 48 Min."
+zaragoza,manchester,1869.23,12.24,152.74,1.58,0.6,"21 Std., 15 Min."
+zaragoza,poznan,2357.53,14.26,165.37,1.58,1.07,"36 Std., 19 Min."
+zaragoza,hannover,1900.56,11.71,162.26,1.58,0.96,"23 Std., 27 Min."
+zaragoza,antwerpen,1479.89,8.8,168.1,1.58,1.48,"18 Std., 37 Min."
+zaragoza,bradford,1888.26,12.76,148.0,1.58,0.35,"21 Std., 48 Min."
+zaragoza,nürnberg,1744.63,10.27,169.87,1.58,1.0,"22 Std., 30 Min."
+zaragoza,edinburgh,2201.13,15.65,140.67,1.58,0.14,"23 Std., 36 Min."
+zaragoza,duisburg,1642.04,10.24,160.42,1.58,0.87,"21 Std., 59 Min."
+helsinki,wroclaw,1418.11,13.16,107.79,74.83,0.1,0
+helsinki,lodz,1320.71,12.18,108.44,74.83,0.2,0
+helsinki,stuttgart,2079.69,17.31,120.12,74.83,0.3,0
+helsinki,palermo,3394.21,27.4,123.85,74.83,269.19,0
+helsinki,düsseldorf,1982.77,17.24,115.03,74.83,1.13,0
+helsinki,glasgow,3202.83,28.91,110.78,74.83,0.45,0
+helsinki,leipzig,1617.2,14.61,110.69,74.83,0.9,0
+helsinki,RIGA-,445.81,4.06,109.8,74.83,0.37,0
+helsinki,diyarbakir,4627.54,39.95,115.84,74.83,2.73,0
+helsinki,dortmund,1912.05,16.53,115.71,74.83,0.4,0
+helsinki,málaga,4250.28,29.34,144.85,74.83,92.61,0
+helsinki,vilnius,755.93,8.22,91.93,74.83,2.03,0
+helsinki,essen,1947.05,16.87,115.45,74.83,0.62,0
+helsinki,sheffield,2816.29,24.18,116.46,74.83,0.41,0
+helsinki,kayseri,4078.61,36.83,110.74,74.83,0.36,0
+helsinki,bremen,1787.86,16.49,108.39,74.83,0.91,0
+helsinki,dresden,1609.91,14.68,109.66,74.83,1.12,0
+helsinki,genova,2676.15,21.92,122.1,74.83,0.43,0
+helsinki,københavn,2130.09,19.31,110.33,74.83,0.18,0
+helsinki,manchester,2855.48,24.02,118.9,74.83,0.6,0
+helsinki,poznan,1277.42,11.77,108.53,74.83,1.07,0
+helsinki,hannover,1709.0,15.25,112.09,74.83,0.96,0
+helsinki,antwerpen,2165.6,18.74,115.58,74.83,1.48,0
+helsinki,bradford,2874.51,24.54,117.15,74.83,0.35,0
+helsinki,nürnberg,1892.71,15.86,119.37,74.83,1.0,0
+helsinki,edinburgh,3187.38,27.43,116.22,74.83,0.14,0
+helsinki,duisburg,1965.23,16.98,115.75,74.83,0.87,0
+wroclaw,lodz,252.74,2.26,111.71,0.1,0.2,"2 Std., 53 Min."
+wroclaw,stuttgart,807.46,7.48,108.0,0.1,0.3,"10 Std., 10 Min."
+wroclaw,palermo,2003.72,14.57,137.49,0.1,269.19,"33 Std., 47 Min."
+wroclaw,düsseldorf,822.37,7.73,106.39,0.1,1.13,"8 Std., 54 Min."
+wroclaw,glasgow,2048.71,19.64,104.34,0.1,0.45,0
+wroclaw,leipzig,354.62,2.87,123.57,0.1,0.9,"5 Std., 33 Min."
+wroclaw,RIGA-,972.3,9.1,106.86,0.1,0.37,0
+wroclaw,diyarbakir,3429.82,28.54,120.18,0.1,2.73,0
+wroclaw,dortmund,761.17,7.2,105.7,0.1,0.4,"7 Std., 57 Min."
+wroclaw,málaga,3033.87,17.07,177.68,0.1,92.61,0
+wroclaw,vilnius,869.76,7.59,114.57,0.1,2.03,0
+wroclaw,essen,792.93,7.59,104.49,0.1,0.62,"8 Std., 22 Min."
+wroclaw,sheffield,1662.17,14.91,111.5,0.1,0.41,0
+wroclaw,kayseri,2880.89,25.42,113.31,0.1,0.36,0
+wroclaw,bremen,669.6,5.71,117.26,0.1,0.91,"7 Std., 28 Min."
+wroclaw,dresden,266.55,2.27,117.23,0.1,1.12,"5 Std., 23 Min."
+wroclaw,genova,1400.71,13.79,101.57,0.1,0.43,"21 Std., 8 Min."
+wroclaw,københavn,1106.66,7.87,140.66,0.1,0.18,"11 Std., 48 Min."
+wroclaw,manchester,1701.35,14.74,115.42,0.1,0.6,0
+wroclaw,poznan,164.71,1.08,152.45,0.1,1.07,"1 Std., 17 Min."
+wroclaw,hannover,571.17,4.84,118.13,0.1,0.96,"6 Std., 10 Min."
+wroclaw,antwerpen,1011.48,9.46,106.91,0.1,1.48,"12 Std., 17 Min."
+wroclaw,bradford,1720.39,15.26,112.74,0.1,0.35,0
+wroclaw,nürnberg,617.74,6.04,102.29,0.1,1.0,"7 Std., 39 Min."
+wroclaw,edinburgh,2033.25,18.15,112.03,0.1,0.14,0
+wroclaw,duisburg,811.11,7.7,105.31,0.1,0.87,"8 Std., 35 Min."
+lodz,stuttgart,1053.39,9.63,109.37,0.2,0.3,"12 Std., 13 Min."
+lodz,palermo,2126.03,15.35,138.49,0.2,269.19,"33 Std., 59 Min."
+lodz,düsseldorf,1037.71,8.28,125.37,0.2,1.13,"10 Std., 23 Min."
+lodz,glasgow,2257.77,19.95,113.16,0.2,0.45,0
+lodz,leipzig,577.16,5.77,100.11,0.2,0.9,"8 Std., 3 Min."
+lodz,RIGA-,874.9,8.12,107.73,0.2,0.37,0
+lodz,diyarbakir,3529.45,30.27,116.6,0.2,2.73,0
+lodz,dortmund,966.99,7.57,127.82,0.2,0.4,"9 Std., 24 Min."
+lodz,málaga,3254.72,19.46,167.23,0.2,92.61,0
+lodz,vilnius,629.09,5.39,116.75,0.2,2.03,0
+lodz,essen,1001.99,7.91,126.75,0.2,0.62,"9 Std., 48 Min."
+lodz,sheffield,1871.23,15.22,122.92,0.2,0.41,0
+lodz,kayseri,2980.52,27.15,109.76,0.2,0.36,0
+lodz,bremen,842.8,7.53,111.85,0.2,0.91,"8 Std., 54 Min."
+lodz,dresden,512.48,4.43,115.73,0.2,1.12,"7 Std., 40 Min."
+lodz,genova,1536.18,13.0,118.15,0.2,0.43,"20 Std., 20 Min."
+lodz,københavn,1241.69,9.09,136.55,0.2,0.18,"12 Std., 51 Min."
+lodz,manchester,1910.42,15.06,126.88,0.2,0.6,0
+lodz,poznan,249.87,1.78,140.25,0.2,1.07,"2 Std., 25 Min."
+lodz,hannover,763.94,6.29,121.53,0.2,0.96,"7 Std., 31 Min."
+lodz,antwerpen,1220.54,9.78,124.83,0.2,1.48,"14 Std., 19 Min."
+lodz,bradford,1929.45,15.58,123.87,0.2,0.35,0
+lodz,nürnberg,863.67,8.19,105.41,0.2,1.0,"9 Std., 13 Min."
+lodz,edinburgh,2242.32,18.47,121.43,0.2,0.14,0
+lodz,duisburg,1020.17,8.02,127.22,0.2,0.87,"10 Std., 1 Min."
+stuttgart,palermo,1528.66,10.01,152.74,0.3,269.19,"22 Std., 55 Min."
+stuttgart,düsseldorf,380.08,2.72,139.96,0.3,1.13,"2 Std., 28 Min."
+stuttgart,glasgow,1544.49,14.38,107.42,0.3,0.45,"11 Std., 14 Min."
+stuttgart,leipzig,493.92,3.29,149.9,0.3,0.9,"4 Std., 19 Min."
+stuttgart,RIGA-,1633.88,13.25,123.27,0.3,0.37,0
+stuttgart,diyarbakir,3699.65,30.94,119.56,0.3,2.73,"81 Std., 41 Min."
+stuttgart,dortmund,435.45,3.47,125.48,0.3,0.4,"3 Std., 25 Min."
+stuttgart,málaga,2264.33,11.79,192.11,0.3,92.61,0
+stuttgart,vilnius,1560.7,12.34,126.52,0.3,2.03,0
+stuttgart,essen,414.37,3.09,134.18,0.3,0.62,"3 Std., 1 Min."
+stuttgart,sheffield,1157.95,9.65,120.0,0.3,0.41,"8 Std., 50 Min."
+stuttgart,kayseri,3150.72,27.83,113.22,0.3,0.36,"67 Std., 24 Min."
+stuttgart,bremen,627.26,4.02,156.18,0.3,0.91,"5 Std., 17 Min."
+stuttgart,dresden,582.09,4.98,116.92,0.3,1.12,"5 Std., 47 Min."
+stuttgart,genova,681.56,5.38,126.64,0.3,0.43,"8 Std., 16 Min."
+stuttgart,københavn,1174.72,7.87,149.31,0.3,0.18,"10 Std., 14 Min."
+stuttgart,manchester,1197.14,9.48,126.24,0.3,0.6,"8 Std., 52 Min."
+stuttgart,poznan,856.12,5.92,144.72,0.3,1.07,"9 Std., 6 Min."
+stuttgart,hannover,505.15,3.21,157.41,0.3,0.96,"3 Std., 49 Min."
+stuttgart,antwerpen,565.25,4.54,124.4,0.3,1.48,"5 Std., 15 Min."
+stuttgart,bradford,1216.17,10.0,121.58,0.3,0.35,"9 Std., 27 Min."
+stuttgart,nürnberg,190.6,1.45,131.43,0.3,1.0,"2 Std., 7 Min."
+stuttgart,edinburgh,1529.04,12.89,118.6,0.3,0.14,"11 Std., 1 Min."
+stuttgart,duisburg,402.82,2.87,140.48,0.3,0.87,"2 Std., 44 Min."
+palermo,düsseldorf,1874.84,11.22,167.06,269.19,1.13,"26 Std., 1 Min."
+palermo,glasgow,2888.94,20.59,140.29,269.19,0.45,0
+palermo,leipzig,1819.06,11.26,161.54,269.19,0.9,0
+palermo,RIGA-,2948.4,23.35,126.28,269.19,0.37,0
+palermo,diyarbakir,4273.33,33.22,128.63,269.19,2.73,0
+palermo,dortmund,1932.29,11.55,167.3,269.19,0.4,"26 Std., 33 Min."
+palermo,málaga,2881.11,15.51,185.73,269.19,92.61,0
+palermo,vilnius,2714.51,19.46,139.49,269.19,2.03,0
+palermo,essen,1909.13,11.59,164.65,269.19,0.62,"26 Std., 27 Min."
+palermo,sheffield,2502.39,15.87,157.73,269.19,0.41,0
+palermo,kayseri,3724.4,30.11,123.71,269.19,0.36,0
+palermo,bremen,2042.4,12.18,167.7,269.19,0.91,"28 Std., 27 Min."
+palermo,dresden,1888.17,13.4,140.89,269.19,1.12,"28 Std., 51 Min."
+palermo,genova,964.02,5.89,163.67,269.19,0.43,"16 Std., 8 Min."
+palermo,københavn,2589.87,16.03,161.56,269.19,0.18,"37 Std., 57 Min."
+palermo,manchester,2541.58,15.7,161.9,269.19,0.6,0
+palermo,poznan,2168.42,15.66,138.49,269.19,1.07,"32 Std., 21 Min."
+palermo,hannover,1920.3,11.37,168.86,269.19,0.96,"26 Std., 31 Min."
+palermo,antwerpen,1964.96,11.14,176.39,269.19,1.48,0
+palermo,bradford,2560.61,16.22,157.88,269.19,0.35,0
+palermo,nürnberg,1515.17,9.4,161.19,269.19,1.0,"25 Std., 7 Min."
+palermo,edinburgh,2873.48,19.11,150.38,269.19,0.14,0
+palermo,duisburg,1897.58,11.37,166.83,269.19,0.87,"26 Std., 14 Min."
+düsseldorf,glasgow,1237.71,11.94,103.66,1.13,0.45,"9 Std., 47 Min."
+düsseldorf,leipzig,474.09,4.59,103.39,1.13,0.9,"4 Std., 49 Min."
+düsseldorf,RIGA-,1536.96,13.18,116.63,1.13,0.37,0
+düsseldorf,diyarbakir,4036.42,32.57,123.92,1.13,2.73,94 Std.
+düsseldorf,dortmund,70.72,0.71,99.31,1.13,0.4,0
+düsseldorf,málaga,2269.05,12.57,180.58,1.13,92.61,"26 Std., 49 Min."
+düsseldorf,vilnius,1463.77,12.26,119.4,1.13,2.03,0
+düsseldorf,essen,37.95,0.38,98.8,1.13,0.62,0
+düsseldorf,sheffield,851.16,7.21,118.02,1.13,0.41,"7 Std., 24 Min."
+düsseldorf,kayseri,3487.49,29.46,118.4,1.13,0.36,"84 Std., 36 Min."
+düsseldorf,bremen,286.54,1.88,152.7,1.13,0.91,"2 Std., 38 Min."
+düsseldorf,dresden,590.27,5.42,108.96,1.13,1.12,"6 Std., 11 Min."
+düsseldorf,genova,980.57,7.62,128.67,1.13,0.43,"10 Std., 51 Min."
+düsseldorf,københavn,890.62,5.78,154.13,1.13,0.18,"9 Std., 4 Min."
+düsseldorf,manchester,890.35,7.05,126.37,1.13,0.6,"7 Std., 31 Min."
+düsseldorf,poznan,798.27,5.43,146.92,1.13,1.07,"7 Std., 39 Min."
+düsseldorf,hannover,277.74,2.09,132.94,1.13,0.96,"2 Std., 36 Min."
+düsseldorf,antwerpen,200.48,1.77,113.5,1.13,1.48,"3 Std., 11 Min."
+düsseldorf,bradford,909.38,7.57,120.2,1.13,0.35,"8 Std., 2 Min."
+düsseldorf,nürnberg,434.62,2.45,177.34,1.13,1.0,"3 Std., 8 Min."
+düsseldorf,edinburgh,1222.25,10.45,116.91,1.13,0.14,"9 Std., 33 Min."
+düsseldorf,duisburg,24.3,0.17,140.59,1.13,0.87,0
+glasgow,leipzig,1700.42,16.6,102.42,0.45,0.9,"14 Std., 55 Min."
+glasgow,RIGA-,2757.01,24.96,110.44,0.45,0.37,0
+glasgow,diyarbakir,5233.04,43.75,119.61,0.45,2.73,0
+glasgow,dortmund,1290.78,12.5,103.27,0.45,0.4,"11 Std., 38 Min."
+glasgow,málaga,2861.28,19.69,145.34,0.45,92.61,0
+glasgow,vilnius,2683.83,24.05,111.62,0.45,2.03,0
+glasgow,essen,1256.65,12.18,103.15,0.45,0.62,"11 Std., 14 Min."
+glasgow,sheffield,408.25,5.48,74.55,0.45,0.41,"4 Std., 21 Min."
+glasgow,kayseri,4684.11,40.63,115.28,0.45,0.36,0
+glasgow,bremen,1489.49,14.11,105.53,0.45,0.91,"13 Std., 41 Min."
+glasgow,dresden,1816.6,17.43,104.19,0.45,1.12,"16 Std., 10 Min."
+glasgow,genova,1963.9,17.53,112.04,0.45,0.43,0
+glasgow,københavn,2097.52,17.36,120.81,0.45,0.18,0
+glasgow,manchester,365.22,3.84,95.1,0.45,0.6,"3 Std., 15 Min."
+glasgow,poznan,2018.32,17.22,117.21,0.45,1.07,"20 Std., 36 Min."
+glasgow,hannover,1497.79,13.88,107.94,0.45,0.96,"13 Std., 42 Min."
+glasgow,antwerpen,1041.32,10.33,100.77,0.45,1.48,"8 Std., 2 Min."
+glasgow,bradford,337.07,4.46,75.55,0.45,0.35,"3 Std., 39 Min."
+glasgow,nürnberg,1631.24,13.63,119.69,0.45,1.0,"13 Std., 47 Min."
+glasgow,edinburgh,74.88,0.91,82.64,0.45,0.14,0
+glasgow,duisburg,1238.2,12.05,102.78,0.45,0.87,"10 Std., 48 Min."
+leipzig,RIGA-,1171.39,10.55,111.03,0.9,0.37,0
+leipzig,diyarbakir,3719.04,30.79,120.77,0.9,2.73,0
+leipzig,dortmund,412.87,4.06,101.75,0.9,0.4,"4 Std., 25 Min."
+leipzig,málaga,2682.71,14.25,188.29,0.9,92.61,"30 Std., 29 Min."
+leipzig,vilnius,1098.2,9.63,114.02,0.9,2.03,0
+leipzig,essen,444.64,4.44,100.04,0.9,0.62,"4 Std., 50 Min."
+leipzig,sheffield,1313.87,11.76,111.69,0.9,0.41,"11 Std., 52 Min."
+leipzig,kayseri,3170.11,27.68,114.53,0.9,0.36,0
+leipzig,bremen,382.58,2.87,133.17,0.9,0.91,"4 Std., 7 Min."
+leipzig,dresden,119.64,0.87,137.01,0.9,1.12,"1 Std., 7 Min."
+leipzig,genova,1090.37,7.9,138.05,0.9,0.43,"12 Std., 20 Min."
+leipzig,københavn,868.19,6.24,139.17,0.9,0.18,"8 Std., 22 Min."
+leipzig,manchester,1353.06,11.6,116.68,0.9,0.6,"11 Std., 56 Min."
+leipzig,poznan,367.35,3.17,115.87,0.9,1.07,"4 Std., 14 Min."
+leipzig,hannover,264.45,2.17,122.13,0.9,0.96,"2 Std., 39 Min."
+leipzig,antwerpen,663.19,6.32,104.98,0.9,1.48,"7 Std., 33 Min."
+leipzig,bradford,1372.09,12.12,113.24,0.9,0.35,"12 Std., 36 Min."
+leipzig,nürnberg,306.93,1.84,167.15,0.9,1.0,"2 Std., 4 Min."
+leipzig,edinburgh,1684.96,15.01,112.29,0.9,0.14,"13 Std., 55 Min."
+leipzig,duisburg,462.82,4.56,101.52,0.9,0.87,"5 Std., 1 Min."
+RIGA-,diyarbakir,4181.72,35.89,116.52,0.37,2.73,0
+RIGA-,dortmund,1466.23,12.47,117.6,0.37,0.4,0
+RIGA-,málaga,3804.47,25.28,150.47,0.37,92.61,0
+RIGA-,vilnius,346.52,2.95,117.55,0.37,2.03,0
+RIGA-,essen,1501.24,12.81,117.22,0.37,0.62,0
+RIGA-,sheffield,2370.48,20.13,117.78,0.37,0.41,0
+RIGA-,kayseri,3632.79,32.77,110.85,0.37,0.36,0
+RIGA-,bremen,1342.04,12.44,107.91,0.37,0.91,0
+RIGA-,dresden,1164.1,10.62,109.58,0.37,1.12,0
+RIGA-,genova,2230.33,17.86,124.88,0.37,0.43,0
+RIGA-,københavn,1684.28,15.25,110.45,0.37,0.18,0
+RIGA-,manchester,2409.66,19.96,120.73,0.37,0.6,0
+RIGA-,poznan,831.61,7.71,107.83,0.37,1.07,0
+RIGA-,hannover,1263.19,11.19,112.9,0.37,0.96,0
+RIGA-,antwerpen,1719.79,14.68,117.15,0.37,1.48,0
+RIGA-,bradford,2428.69,20.48,118.59,0.37,0.35,0
+RIGA-,nürnberg,1446.9,11.8,122.64,0.37,1.0,0
+RIGA-,edinburgh,2741.56,23.37,117.32,0.37,0.14,0
+RIGA-,duisburg,1519.42,12.92,117.59,0.37,0.87,0
+diyarbakir,dortmund,4055.36,33.72,120.26,2.73,0.4,0
+diyarbakir,málaga,5573.19,39.64,140.61,2.73,92.61,0
+diyarbakir,vilnius,3919.22,32.88,119.21,2.73,2.03,0
+diyarbakir,essen,4067.1,32.89,123.67,2.73,0.62,0
+diyarbakir,sheffield,4842.88,38.88,124.57,2.73,0.41,0
+diyarbakir,kayseri,668.61,5.57,120.0,2.73,0.36,"14 Std., 45 Min."
+diyarbakir,bremen,4078.25,33.69,121.05,2.73,0.91,0
+diyarbakir,dresden,3598.26,29.88,120.42,2.73,1.12,0
+diyarbakir,genova,3681.45,30.92,119.06,2.73,0.43,0
+diyarbakir,københavn,4529.27,36.73,123.3,2.73,0.18,0
+diyarbakir,manchester,4882.07,38.71,126.12,2.73,0.6,0
+diyarbakir,poznan,3588.24,30.02,119.51,2.73,1.07,0
+diyarbakir,hannover,3960.11,32.98,120.07,2.73,0.96,0
+diyarbakir,antwerpen,4223.15,34.08,123.94,2.73,1.48,0
+diyarbakir,bradford,4901.1,39.23,124.94,2.73,0.35,0
+diyarbakir,nürnberg,3598.19,30.06,119.69,2.73,1.0,0
+diyarbakir,edinburgh,5213.97,42.12,123.79,2.73,0.14,0
+diyarbakir,duisburg,4055.56,32.67,124.15,2.73,0.87,0
+dortmund,málaga,2339.31,13.17,177.64,0.4,92.61,0
+dortmund,vilnius,1393.05,11.55,120.64,0.4,2.03,0
+dortmund,essen,35.01,0.34,102.99,0.4,0.62,0
+dortmund,sheffield,904.24,7.66,118.07,0.4,0.41,"8 Std., 24 Min."
+dortmund,kayseri,3510.05,30.66,114.47,0.4,0.36,"85 Std., 27 Min."
+dortmund,bremen,226.78,1.37,165.59,0.4,0.91,"1 Std., 49 Min."
+dortmund,dresden,529.06,4.89,108.22,0.4,1.12,"5 Std., 41 Min."
+dortmund,genova,1038.02,7.95,130.6,0.4,0.43,"11 Std., 42 Min."
+dortmund,københavn,830.85,5.8,143.25,0.4,0.18,"8 Std., 13 Min."
+dortmund,manchester,943.43,7.49,125.93,0.4,0.6,"8 Std., 26 Min."
+dortmund,poznan,727.54,4.72,154.1,0.4,1.07,"6 Std., 43 Min."
+dortmund,hannover,207.01,1.38,150.33,0.4,0.96,"1 Std., 41 Min."
+dortmund,antwerpen,253.56,2.21,114.61,0.4,1.48,"4 Std., 11 Min."
+dortmund,bradford,962.46,8.01,120.13,0.4,0.35,"8 Std., 57 Min."
+dortmund,nürnberg,457.18,3.66,125.02,0.4,1.0,"4 Std., 23 Min."
+dortmund,edinburgh,1275.33,10.9,116.99,0.4,0.14,"10 Std., 30 Min."
+dortmund,duisburg,53.19,0.45,117.19,0.4,0.87,0
+málaga,vilnius,3731.19,24.36,153.18,92.61,2.03,0
+málaga,essen,2305.09,12.85,179.44,92.61,0.62,"26 Std., 29 Min."
+málaga,sheffield,2474.64,14.88,166.31,92.61,0.41,"26 Std., 15 Min."
+málaga,kayseri,5027.89,36.58,137.45,92.61,0.36,0
+málaga,bremen,2548.23,14.41,176.78,92.61,0.91,"28 Std., 42 Min."
+málaga,dresden,2798.9,15.07,185.7,92.61,1.12,"29 Std., 6 Min."
+málaga,genova,1917.11,9.62,199.19,92.61,0.43,"25 Std., 55 Min."
+málaga,københavn,3152.31,18.32,172.1,92.61,0.18,"35 Std., 5 Min."
+málaga,manchester,2513.83,14.71,170.86,92.61,0.6,0
+málaga,poznan,3044.91,16.86,180.57,92.61,1.07,0
+málaga,hannover,2545.16,14.19,179.39,92.61,0.96,"27 Std., 44 Min."
+málaga,antwerpen,2124.49,11.28,188.37,92.61,1.48,0
+málaga,bradford,2532.86,15.23,166.28,92.61,0.35,0
+málaga,nürnberg,2432.02,12.88,188.87,92.61,1.0,"26 Std., 47 Min."
+málaga,edinburgh,2845.73,18.12,157.03,92.61,0.14,"27 Std., 53 Min."
+málaga,duisburg,2286.64,12.71,179.9,92.61,0.87,0
+vilnius,essen,1428.05,11.89,120.12,2.03,0.62,0
+vilnius,sheffield,2297.29,19.21,119.61,2.03,0.41,0
+vilnius,kayseri,3373.91,29.82,113.15,2.03,0.36,0
+vilnius,bremen,1268.86,11.52,110.16,2.03,0.91,0
+vilnius,dresden,1090.91,9.7,112.41,2.03,1.12,0
+vilnius,genova,2124.66,17.12,124.07,2.03,0.43,0
+vilnius,københavn,1611.09,14.33,112.42,2.03,0.18,0
+vilnius,manchester,2336.48,19.04,122.71,2.03,0.6,0
+vilnius,poznan,758.42,6.79,111.64,2.03,1.07,0
+vilnius,hannover,1190.01,10.27,115.88,2.03,0.96,0
+vilnius,antwerpen,1646.6,13.76,119.66,2.03,1.48,0
+vilnius,bradford,2355.51,19.56,120.42,2.03,0.35,0
+vilnius,nürnberg,1373.71,10.88,126.28,2.03,1.0,0
+vilnius,edinburgh,2668.38,22.45,118.86,2.03,0.14,0
+vilnius,duisburg,1446.23,12.0,120.5,2.03,0.87,0
+essen,sheffield,870.11,7.34,118.51,0.62,0.41,8 Std.
+essen,kayseri,3521.78,29.83,118.07,0.62,0.36,0
+essen,bremen,254.09,1.6,159.27,0.62,0.91,"2 Std., 11 Min."
+essen,dresden,560.83,5.28,106.3,0.62,1.12,"6 Std., 6 Min."
+essen,genova,1014.86,7.99,126.97,0.62,0.43,"11 Std., 14 Min."
+essen,københavn,858.17,5.5,156.11,0.62,0.18,"8 Std., 38 Min."
+essen,manchester,909.3,7.18,126.72,0.62,0.6,"8 Std., 4 Min."
+essen,poznan,762.55,5.06,150.67,0.62,1.07,"7 Std., 8 Min."
+essen,hannover,242.02,1.72,140.96,0.62,0.96,"2 Std., 6 Min."
+essen,antwerpen,219.43,1.9,115.71,0.62,1.48,"3 Std., 47 Min."
+essen,bradford,928.33,7.7,120.63,0.62,0.35,"8 Std., 35 Min."
+essen,nürnberg,468.92,2.82,166.08,0.62,1.0,"3 Std., 54 Min."
+essen,edinburgh,1241.2,10.58,117.26,0.62,0.14,"10 Std., 6 Min."
+essen,duisburg,18.98,0.14,133.36,0.62,0.87,0
+sheffield,kayseri,4297.56,35.91,119.69,0.41,0.36,0
+sheffield,bremen,1102.95,9.39,117.51,0.41,0.91,"10 Std., 38 Min."
+sheffield,dresden,1430.06,12.71,112.54,0.41,1.12,"13 Std., 39 Min."
+sheffield,genova,1577.35,12.8,123.23,0.41,0.43,0
+sheffield,københavn,1710.97,12.63,135.42,0.41,0.18,0
+sheffield,manchester,67.82,1.1,61.59,0.41,0.6,
+sheffield,poznan,1631.78,12.49,130.63,0.41,1.07,0
+sheffield,hannover,1111.25,9.15,121.48,0.41,0.96,"10 Std., 41 Min."
+sheffield,antwerpen,654.77,5.61,116.8,0.41,1.48,"10 Std., 50 Min."
+sheffield,bradford,79.93,1.1,72.59,0.41,0.35,0
+sheffield,nürnberg,1244.7,8.9,139.85,0.41,1.0,"10 Std., 51 Min."
+sheffield,edinburgh,402.35,5.41,74.37,0.41,0.14,"3 Std., 29 Min."
+sheffield,duisburg,851.65,7.32,116.37,0.41,0.87,"7 Std., 47 Min."
+kayseri,bremen,3532.58,30.6,115.44,0.36,0.91,0
+kayseri,dresden,3052.6,26.79,113.94,0.36,1.12,0
+kayseri,genova,3135.78,27.83,112.66,0.36,0.43,0
+kayseri,københavn,3983.6,33.65,118.4,0.36,0.18,0
+kayseri,manchester,4336.4,35.62,121.74,0.36,0.6,0
+kayseri,poznan,3042.57,26.94,112.96,0.36,1.07,0
+kayseri,hannover,3414.44,29.89,114.22,0.36,0.96,0
+kayseri,antwerpen,3677.48,30.99,118.68,0.36,1.48,0
+kayseri,bradford,4355.43,36.14,120.52,0.36,0.35,0
+kayseri,nürnberg,3052.52,26.97,113.16,0.36,1.0,0
+kayseri,edinburgh,4668.3,39.03,119.61,0.36,0.14,0
+kayseri,duisburg,3509.89,29.58,118.66,0.36,0.87,0
+bremen,dresden,482.46,3.83,126.11,0.91,1.12,"4 Std., 57 Min."
+bremen,genova,1234.96,8.07,153.01,0.91,0.43,"13 Std., 14 Min."
+bremen,københavn,619.92,3.99,155.27,0.91,0.18,"6 Std., 5 Min."
+bremen,manchester,1142.14,9.12,125.23,0.91,0.6,"10 Std., 52 Min."
+bremen,poznan,603.35,4.7,128.45,0.91,1.07,"6 Std., 12 Min."
+bremen,hannover,122.11,0.81,151.55,0.91,0.96,59 Min.
+bremen,antwerpen,448.18,3.79,118.35,0.91,1.48,"5 Std., 38 Min."
+bremen,bradford,1161.17,9.64,120.45,0.91,0.35,"11 Std., 26 Min."
+bremen,nürnberg,544.66,3.3,165.11,0.91,1.0,"4 Std., 10 Min."
+bremen,edinburgh,1474.04,12.53,117.65,0.91,0.14,"12 Std., 51 Min."
+bremen,duisburg,262.23,1.7,153.93,0.91,0.87,"2 Std., 19 Min."
+dresden,genova,1178.26,9.57,123.08,1.12,0.43,"13 Std., 58 Min."
+dresden,københavn,957.11,6.76,141.55,1.12,0.18,"9 Std., 15 Min."
+dresden,manchester,1469.24,12.43,118.22,1.12,0.6,"13 Std., 34 Min."
+dresden,poznan,332.49,2.91,114.21,1.12,1.07,5 Std.
+dresden,hannover,364.33,3.12,116.84,1.12,0.96,"3 Std., 36 Min."
+dresden,antwerpen,779.37,7.15,109.02,1.12,1.48,"9 Std., 17 Min."
+dresden,bradford,1488.27,12.95,114.94,1.12,0.35,"14 Std., 8 Min."
+dresden,nürnberg,392.38,3.54,110.85,1.12,1.0,"3 Std., 42 Min."
+dresden,edinburgh,1801.14,15.84,113.73,1.12,0.14,"15 Std., 33 Min."
+dresden,duisburg,579.0,5.39,107.41,1.12,0.87,"6 Std., 18 Min."
+genova,københavn,1782.43,11.92,149.55,0.43,0.18,"19 Std., 18 Min."
+genova,manchester,1616.54,12.54,128.96,0.43,0.6,0
+genova,poznan,1452.57,10.52,138.09,0.43,1.07,18 Std.
+genova,hannover,1112.86,7.26,153.28,0.43,0.96,"11 Std., 19 Min."
+genova,antwerpen,1057.71,8.15,129.85,0.43,1.48,"12 Std., 18 Min."
+genova,bradford,1635.57,13.06,125.28,0.43,0.35,0
+genova,nürnberg,786.48,6.04,130.27,0.43,1.0,"10 Std., 26 Min."
+genova,edinburgh,1948.44,15.94,122.2,0.43,0.14,"17 Std., 16 Min."
+genova,duisburg,1003.31,7.77,129.15,0.43,0.87,"10 Std., 51 Min."
+københavn,manchester,1750.17,12.39,141.21,0.18,0.6,"17 Std., 23 Min."
+københavn,poznan,992.49,7.34,135.13,0.18,1.07,"10 Std., 8 Min."
+københavn,hannover,669.58,4.68,142.98,0.18,0.96,"6 Std., 16 Min."
+københavn,antwerpen,1056.2,7.06,149.58,0.18,1.48,"12 Std., 44 Min."
+københavn,bradford,1769.2,12.91,137.0,0.18,0.35,"18 Std., 14 Min."
+københavn,nürnberg,1081.37,7.96,135.85,0.18,1.0,"10 Std., 1 Min."
+københavn,edinburgh,2082.07,15.8,131.75,0.18,0.14,"19 Std., 21 Min."
+københavn,duisburg,866.32,5.63,153.84,0.18,0.87,"8 Std., 49 Min."
+manchester,poznan,1670.96,12.25,136.43,0.6,1.07,"17 Std., 34 Min."
+manchester,hannover,1150.44,8.9,129.21,0.6,0.96,"10 Std., 43 Min."
+manchester,antwerpen,693.96,5.36,129.41,0.6,1.48,"5 Std., 31 Min."
+manchester,bradford,88.31,1.28,68.77,0.6,0.35,0
+manchester,nürnberg,1283.88,8.66,148.31,0.6,1.0,"10 Std., 53 Min."
+manchester,edinburgh,359.31,3.77,95.22,0.6,0.14,"3 Std., 12 Min."
+manchester,duisburg,890.84,7.07,125.92,0.6,0.87,"7 Std., 49 Min."
+poznan,hannover,524.5,3.44,152.38,1.07,0.96,"4 Std., 30 Min."
+poznan,antwerpen,981.1,6.93,141.5,1.07,1.48,11 Std.
+poznan,bradford,1690.0,12.73,132.73,1.07,0.35,0
+poznan,nürnberg,669.13,4.46,150.13,1.07,1.0,"6 Std., 22 Min."
+poznan,edinburgh,2002.87,15.62,128.21,1.07,0.14,"18 Std., 13 Min."
+poznan,duisburg,780.73,5.17,150.87,1.07,0.87,"7 Std., 18 Min."
+hannover,antwerpen,460.57,3.59,128.31,0.96,1.48,"5 Std., 34 Min."
+hannover,bradford,1169.47,9.39,124.56,0.96,0.35,"11 Std., 28 Min."
+hannover,nürnberg,422.56,2.49,169.59,0.96,1.0,"2 Std., 57 Min."
+hannover,edinburgh,1482.34,12.28,120.73,0.96,0.14,"12 Std., 47 Min."
+hannover,duisburg,260.2,1.83,142.11,0.96,0.87,"2 Std., 17 Min."
+antwerpen,bradford,712.99,5.85,121.81,1.48,0.35,"6 Std., 13 Min."
+antwerpen,nürnberg,624.96,4.01,155.76,1.48,1.0,"6 Std., 25 Min."
+antwerpen,edinburgh,1025.86,8.74,117.34,1.48,0.14,"7 Std., 47 Min."
+antwerpen,duisburg,200.97,1.77,113.74,1.48,0.87,"3 Std., 9 Min."
+bradford,nürnberg,1302.91,9.25,140.8,0.35,1.0,"11 Std., 14 Min."
+bradford,edinburgh,331.16,4.4,75.34,0.35,0.14,"3 Std., 23 Min."
+bradford,duisburg,909.87,7.67,118.6,0.35,0.87,"8 Std., 30 Min."
+nürnberg,edinburgh,1615.78,12.05,134.05,1.0,0.14,"12 Std., 45 Min."
+nürnberg,duisburg,457.37,2.6,175.73,1.0,0.87,"3 Std., 46 Min."
+edinburgh,duisburg,1222.74,10.56,115.78,0.14,0.87,"9 Std., 54 Min."
